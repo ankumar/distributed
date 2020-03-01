@@ -19,6 +19,11 @@
 as a collection of distributed microservices
 
 # Cloud Platform
-1. Compute 
+1. Compute
 2. Databases
+* Purpose-built:
+   * Caching
+   * NoSQL
+   * SQL
+   * Graph
 3. Storage
