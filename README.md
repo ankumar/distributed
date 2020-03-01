@@ -19,7 +19,7 @@
 # Front-end
 
 # Back-end
-as a collection of distributed microservices
+as a collection of distributed microservices. The single coll
 
 1. Services, Stateless & Stateful backed by Purpose-built Databases
 2. Data
@@ -31,6 +31,7 @@ as a collection of distributed microservices
 * Cost Effective Scheduling
 * Data Gravity
 * Containers
+
 2. Databases
 * Purpose-built
 * Data Model
@@ -39,4 +40,5 @@ as a collection of distributed microservices
    * NoSQL
    * SQL
    * Graph
+
 3. Storage
