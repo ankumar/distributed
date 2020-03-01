@@ -9,6 +9,9 @@
 * Development process needs to be distributed and decoupled just like our software
 
 # End User Applications
+* Designing Modularity & Interfaces
+* Decomposing an Application into Services & APIs
+
 1. IoT
 2. Mobile
 3. Web
