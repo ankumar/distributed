@@ -36,6 +36,7 @@ For System availability & Minimize the "blast radius" of any failures, design te
 # Cloud Platform
 1. Compute
 * Cost Effective Scheduling
+* Operational excellence
    * Data Gravity
    * Containers
 2. Databases
