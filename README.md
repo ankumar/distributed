@@ -16,7 +16,7 @@
 2. Mobile
 3. Web
 
-# Front-end & Back-end - Distributed microservices
+# Distributed - Front-end & Back-end
 1. Services, Stateless & Stateful backed by Purpose-built Databases
 2. Data
 * Data Warehouse
