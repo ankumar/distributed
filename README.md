@@ -28,6 +28,9 @@ as a collection of distributed microservices
 
 # Cloud Platform
 1. Compute
+* Containers
+* Cost Effective Scheduling
+* Data Gravity
 2. Databases
 * Purpose-built
 * Data Model
