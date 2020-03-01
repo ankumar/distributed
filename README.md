@@ -22,7 +22,7 @@ as a collection of distributed microservices
 1. Compute
 2. Databases
 * Purpose-built:
-   * Caching
+   * In-Memory
    * NoSQL
    * SQL
    * Graph
