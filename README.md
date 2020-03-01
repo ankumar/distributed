@@ -17,7 +17,9 @@
 3. Web
 
 # Distributed - Front-end & Back-end
-1. Services, Stateless & Stateful backed by Purpose-built Databases
+1. Services
+* Stateless & Stateful
+* Backed by Purpose-built Databases
 2. Data
 * Data Warehouse
 * Data Lake
