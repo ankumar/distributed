@@ -19,6 +19,6 @@
 as a collection of distributed microservices
 
 # Cloud
-1. Compute
+1. Compute Platforms
 2. Databases
 3. Storage
