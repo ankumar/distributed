@@ -36,8 +36,7 @@ For System availability & Minimize the "blast radius" of any failures, design te
 * Operational excellence
    * Data Gravity
    * Containers
-2. Databases
-* Purpose-built
+2. Databases - Purpose-built
 * Data Model
 * Query Patterns
    * In-Memory
