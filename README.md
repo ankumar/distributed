@@ -20,8 +20,8 @@ as a collection of distributed microservices
 
 1. Services, Stateless & Stateful backed by Purpose-built Databases
 2. Data
-Data Warehouse
-Data Lake
+* Data Warehouse
+* Data Lake
 
 # Cloud Platform
 1. Compute
