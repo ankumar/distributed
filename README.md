@@ -18,7 +18,7 @@
 # Back-end
 as a collection of distributed microservices
 
-# Cloud
-1. Compute Platforms
+# Cloud Platform
+1. Compute 
 2. Databases
 3. Storage
