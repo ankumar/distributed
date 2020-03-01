@@ -29,8 +29,8 @@
 # Cloud Platform
 1. Compute
 * Cost Effective Scheduling
-* Data Gravity
-* Containers
+   * Data Gravity
+   * Containers
 2. Databases
 * Purpose-built
 * Data Model
