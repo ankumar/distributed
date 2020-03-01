@@ -6,7 +6,7 @@
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
 * Without having to co-ordinate their changes with other teams
-* Development process needs to be distributed and decoupled
+* Development process needs to be distributed and decoupled just like our software
 
 # End User Applications
 1. IoT
