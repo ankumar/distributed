@@ -16,22 +16,19 @@
 2. Mobile
 3. Web
 
-# Front-end
-
-# Back-end
-as a collection of distributed microservices. The single coll
-
+# Front-end & Back-end - Distributed microservices
 1. Services, Stateless & Stateful backed by Purpose-built Databases
 2. Data
 * Data Warehouse
 * Data Lake
+
+
 
 # Cloud Platform
 1. Compute
 * Cost Effective Scheduling
 * Data Gravity
 * Containers
-
 2. Databases
 * Purpose-built
 * Data Model
@@ -40,5 +37,4 @@ as a collection of distributed microservices. The single coll
    * NoSQL
    * SQL
    * Graph
-
 3. Storage
