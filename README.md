@@ -29,7 +29,9 @@ as a collection of distributed microservices
 # Cloud Platform
 1. Compute
 2. Databases
-* Purpose-built:
+* Purpose-built
+* Data Model
+* Query Patterns
    * In-Memory
    * NoSQL
    * SQL
