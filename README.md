@@ -12,9 +12,8 @@
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
 
-1. IoT
-2. Mobile
-3. Web
+1. Mobile
+2. Web
 
 # Distributed Front-end & Back-end
 1. Apps Structured as Independent Microservices
