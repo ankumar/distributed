@@ -47,3 +47,5 @@ For System availability & Minimize the **"blast radius"** of any failures, desig
 * SLI & SLO
 * Events, Traces & Logs
 5. Security
+* Network connectivity between workloads.
+* Network security policy enforcement between workloads.
