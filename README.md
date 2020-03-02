@@ -35,6 +35,7 @@ For System availability & Minimize the **"blast radius"** of any failures, desig
 1. Compute
 * Cost Effective Scheduler 
     * Up / Down
+    * Replacements
 2. Databases - Purpose-built
 * Data Model
 * Query Patterns
