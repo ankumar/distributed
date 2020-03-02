@@ -33,7 +33,8 @@ For System availability & Minimize the **"blast radius"** of any failures, desig
 
 # Cloud Platform
 1. Compute
-* Cost Effective Scheduling
+* Cost Effective Scheduler 
+    * Up / Down
 * Operational excellence
    * Data Gravity
    * Containers
