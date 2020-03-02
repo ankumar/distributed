@@ -1,7 +1,7 @@
 # Elements:
 1. Business - Many Markets; Products & Services, **each with unique Requirements**
 2. Users - **Millions of Customers**
-3. Developers - **Thousands**
+3. Developers - **Hundreds**
 
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
