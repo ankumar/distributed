@@ -16,7 +16,7 @@
 2. Mobile
 3. Web
 
-# Distributed - Front-end & Back-end
+# Distributed Front-end & Back-end
 1. Services
 * Stateless & Stateful
 * Backed by Purpose-built Databases
