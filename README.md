@@ -44,7 +44,7 @@ For System availability & Minimize the **"blast radius"** of any failures, desig
    * Graph
 3. Storage
 4. Operational excellence
-* SLI & SLO
+* Service Level Indicators (SLIs) & Service Level Objectives (SLOs)
 * Events, Traces & Logs
 5. Security
 * Network connectivity between workloads.
