@@ -35,8 +35,6 @@ For System availability & Minimize the **"blast radius"** of any failures, desig
 1. Compute
 * Cost Effective Scheduler 
     * Up / Down
-* Operational excellence
-* Security
 2. Databases - Purpose-built
 * Data Model
 * Query Patterns
@@ -45,3 +43,5 @@ For System availability & Minimize the **"blast radius"** of any failures, desig
    * SQL
    * Graph
 3. Storage
+4. Operational excellence
+5. Security
