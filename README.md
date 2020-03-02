@@ -20,6 +20,7 @@
 * Many Teams
 * Mixture of Programming Languages
 * Backed by Purpose-built Databases
+* Containers & Functions
 2. Data
 * Data Warehouse
 * Data Lake
@@ -35,8 +36,7 @@ For System availability & Minimize the **"blast radius"** of any failures, desig
 * Cost Effective Scheduler 
     * Up / Down
 * Operational excellence
-   * Data Gravity
-   * Containers
+* Security
 2. Databases - Purpose-built
 * Data Model
 * Query Patterns
