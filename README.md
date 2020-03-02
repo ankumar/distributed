@@ -34,8 +34,8 @@ For System availability & Minimize the **"blast radius"** of any failures, desig
 # Cloud Platform
 1. Compute
 * Cost Effective Scheduler 
-    * Up / Down
-    * Replacements
+    * Automatic scaling up and down to zero
+    * Automatic Repairs
 2. Databases - Purpose-built
 * Data Model
 * Query Patterns
@@ -46,7 +46,7 @@ For System availability & Minimize the **"blast radius"** of any failures, desig
 3. Storage
 4. Operational excellence
 * Service Level Indicators (SLIs) & Service Level Objectives (SLOs)
-* Events, Traces & Logs
+* Metrics, Events, Traces & Logs
 5. Security
 * Network connectivity between workloads.
 * Network security policy enforcement between workloads.
