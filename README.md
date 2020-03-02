@@ -17,8 +17,9 @@
 3. Web
 
 # Distributed Front-end & Back-end
-1. Services
-* Stateless & Stateful
+1. Apps Structured as Independent Microservices
+* Many Teams
+* Mixture of Programming Languages
 * Backed by Purpose-built Databases
 2. Data
 * Data Warehouse
