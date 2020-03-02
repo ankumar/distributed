@@ -24,7 +24,7 @@
 * Data Warehouse
 * Data Lake
 
-For System availability & Minimize the "blast radius" of any failures, design techniques:
+For System availability & Minimize the **"blast radius"** of any failures, design techniques:
 1. Cell-based architecture
 2. Sharding
 3. Availability Zones
