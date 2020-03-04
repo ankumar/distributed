@@ -16,14 +16,17 @@
 2. Web
 
 # Distributed Front-end & Back-end
-Here's the network we specified as part of this project. Each services is represented by a dot. And every line is an enforced network rule that allows communication between two services.
-Here's the same graph with a few popular nodes removed, and coloured by team:
-
 1. Apps Structured as Independent Microservices
 * Many Teams
 * Mixture of Programming Languages
 * Backed by Purpose-built Databases
 * Containers & Functions
+
+Here's the network, each services is represented by a dot. And every line is an enforced network rule that allows communication between two services, and coloured by team:
+
+![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
+<p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Modern Bank, Monzo: 1,500+ services</a> </p>
+
 2. Data
 * Data Warehouse
 * Data Lake
