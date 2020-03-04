@@ -16,6 +16,9 @@
 2. Web
 
 # Distributed Front-end & Back-end
+Here's the network we specified as part of this project. Each services is represented by a dot. And every line is an enforced network rule that allows communication between two services.
+
+
 1. Apps Structured as Independent Microservices
 * Many Teams
 * Mixture of Programming Languages
