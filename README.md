@@ -3,6 +3,7 @@
 2. Users - **Millions of Customers**
 3. Developers - **Hundreds**
 
+Objectives:
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
 * Without having to co-ordinate their changes with other teams
