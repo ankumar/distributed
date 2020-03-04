@@ -17,7 +17,7 @@
 
 # Distributed Front-end & Back-end
 Here's the network we specified as part of this project. Each services is represented by a dot. And every line is an enforced network rule that allows communication between two services.
-
+Here's the same graph with a few popular nodes removed, and coloured by team:
 
 1. Apps Structured as Independent Microservices
 * Many Teams
