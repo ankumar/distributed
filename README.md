@@ -28,7 +28,7 @@ Here's the network, each services is represented by a dot. And every line is an 
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 
 2. Data
-* 
+* Purpose-built Databases
 * Data Warehouse
 * Data Lake
 
