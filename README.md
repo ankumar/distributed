@@ -1,5 +1,5 @@
 # Elements:
-1. Business - Many Markets; Products & Services, **each with unique Requirements**
+1. Business - Markets; Products & Services, **each with unique Requirements**
 2. Users - **Millions of Customers**
 3. Developers - **Hundreds**
 
