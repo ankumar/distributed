@@ -32,7 +32,7 @@ Here's the network, each services is represented by a dot. And every line is an 
 * Data Warehouse
 * Data Lake
 
-For System availability & Minimize the **"blast radius"** of any failures, design techniques:
+For System Availability & minimize the **"blast radius"** of any failures, design techniques:
 1. Cell-based architecture
 2. Sharding
 3. Availability Zones
