@@ -16,6 +16,28 @@ Objectives:
 1. Mobile
 2. Web
 
+1. Uber
+User Journey: **Drivers & Riders**
+
+Transportation Services / Architecture Blocks: 
+* User 
+* Accounts
+* Notification
+* Payment
+* Maps
+* Fraud
+* Fare
+* Routes
+* Orders
+* Freight
+* Business
+* Bikes, ...
+
+2. WhatsApp
+User Journey: **Product & End Users**
+
+Services / Architecture Blocks:
+
 # Distributed Front-end & Back-end
 1. Apps Structured as Independent Microservices
 * Many Teams
