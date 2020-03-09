@@ -19,7 +19,7 @@ Objectives:
 ## Uber
 User Journey: **Drivers & Riders**
 ### Transportation Services / Architecture Blocks: 
-* User 
+* User Profile
 * Accounts
 * Notification
 * Payment
@@ -38,13 +38,16 @@ User Journey: **Drivers & Riders**
 ## WhatsApp
 User Journey: **Product & End Users**
 ### Messaging Services / Architecture Blocks:
-* User
+* User Profile
 * Text
 * Voice & Video
 * Notification
 * Messages
 * Sessions
-* 
+* Camera
+* Status
+* Contacts
+* Groups
 
 # Distributed Front-end & Back-end
 1. Apps Structured as Independent Microservices
