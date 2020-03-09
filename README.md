@@ -18,7 +18,7 @@ Objectives:
 
 ## Uber
 User Journey: **Drivers & Riders**
-Transportation Services / Architecture Blocks: 
+### Transportation Services / Architecture Blocks: 
 * User 
 * Accounts
 * Notification
@@ -37,7 +37,7 @@ Transportation Services / Architecture Blocks:
 
 ## WhatsApp
 User Journey: **Product & End Users**
-Messaging Services / Architecture Blocks:
+### Messaging Services / Architecture Blocks:
 * Text
 * Voice & Video
 * Notification
