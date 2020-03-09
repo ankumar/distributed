@@ -16,7 +16,7 @@ Objectives:
 1. Mobile
 2. Web
 
-1. Uber
+## Uber
 User Journey: **Drivers & Riders**
 Transportation Services / Architecture Blocks: 
 * User 
@@ -35,7 +35,7 @@ Transportation Services / Architecture Blocks:
 * Promotions
 * ...
 
-2. WhatsApp
+## WhatsApp
 User Journey: **Product & End Users**
 Messaging Services / Architecture Blocks:
 * Text
