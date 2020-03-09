@@ -9,13 +9,6 @@ Objectives:
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
-# End User Applications
-* Designing Modularity & Interfaces
-* Decomposing an Application into Services & APIs
-
-1. Mobile
-2. Web
-
 ## Uber
 ### User Journey: **Drivers & Riders**
 ### Transportation Services / Architecture Blocks: 
@@ -48,6 +41,15 @@ Objectives:
 * Status
 * Contacts
 * Groups
+
+------
+
+# End User Applications
+* Designing Modularity & Interfaces
+* Decomposing an Application into Services & APIs
+
+1. Mobile
+2. Web
 
 # Distributed Front-end & Back-end
 1. Apps Structured as Independent Microservices
