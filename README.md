@@ -38,6 +38,7 @@ User Journey: **Drivers & Riders**
 ## WhatsApp
 User Journey: **Product & End Users**
 ### Messaging Services / Architecture Blocks:
+* User
 * Text
 * Voice & Video
 * Notification
