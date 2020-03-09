@@ -17,7 +17,7 @@ Objectives:
 2. Web
 
 ## Uber
-User Journey: **Drivers & Riders**
+### User Journey: **Drivers & Riders**
 ### Transportation Services / Architecture Blocks: 
 * User Profile
 * Accounts
@@ -36,7 +36,7 @@ User Journey: **Drivers & Riders**
 * ...
 
 ## WhatsApp
-User Journey: **Product & End Users**
+### User Journey: **Product & End Users**
 ### Messaging Services / Architecture Blocks:
 * User Profile
 * Text
