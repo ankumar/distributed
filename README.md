@@ -9,7 +9,24 @@ Objectives:
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
-## Uber
+## 1. Retail
+### User Journey: **Pickup & Delivery**
+### Reatail Services / Architecture Blocks: 
+* User Profile
+* Accounts
+* Notification
+* Payment
+* Fraud
+* Orders
+* Cart
+* Checkout
+* Catalog
+* Search & P13N
+* Ad
+* Shipping
+* ...
+
+## 2. Uber
 ### User Journey: **Drivers & Riders**
 ### Transportation Services / Architecture Blocks: 
 * User Profile
@@ -28,7 +45,7 @@ Objectives:
 * Promotions
 * ...
 
-## WhatsApp
+## 3. WhatsApp
 ### User Journey: **Product & End Users**
 ### Messaging Services / Architecture Blocks:
 * User Profile
