@@ -101,18 +101,17 @@ Load Balancing, Caching, ...
 * Cost Effective Scheduler 
     * Automatic scaling up and down to zero
     * Automatic Repairs
-2. Databases - Purpose-built
+2. Databases & Storage - Purpose-built
 * Data Model
 * Query Patterns
    * In-Memory
    * NoSQL
    * SQL
    * Graph
-3. Storage
-4. Operational excellence
+3. Operational excellence
 * Service Level Indicators (SLIs) & Service Level Objectives (SLOs)
 * Metrics, Events, Traces & Logs
-5. Security
+4. Security
 * Network connectivity between workloads.
 * Network security policy enforcement between workloads.
 
