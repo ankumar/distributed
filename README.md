@@ -46,7 +46,7 @@ Architecture:
 * ...
 
 ## 3. WhatsApp
-### User Journey: **Text, Video**
+### User Journey: **Text, Photos, Video**
 ### Services:
 * User Profile
 * Text
