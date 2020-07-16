@@ -91,6 +91,9 @@ For System Availability & minimize the **"blast radius"** of any failures, desig
 4. Regions
 
 # Cloud Platform
+
+Load Balancing, Caching, ...
+
 1. Compute
 * Cost Effective Scheduler 
     * Automatic scaling up and down to zero
