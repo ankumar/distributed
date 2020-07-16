@@ -69,6 +69,9 @@
 2. Web
 
 # Distributed Front-end & Back-end
+
+[A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
+
 1. Apps Structured as Independent Microservices
 * Many Teams
 * Mixture of Programming Languages
