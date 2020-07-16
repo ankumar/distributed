@@ -14,9 +14,9 @@ RFCs:
 | Header | Description  |
 | ------ | ------------ |
 | X-RateLimit-Limit | how many request the client can do |
-| | |
-| | |
-| | |
+| X-RateLimit-Remaining | |
+| X-RateLimit-Reset | |
+| Retry-After | |
 
 x-ratelimit-limit	how many request the client can do
 x-ratelimit-remaining	how many request remain to the client in the timewindow
