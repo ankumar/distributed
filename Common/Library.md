@@ -7,9 +7,7 @@
 1. Key - arbitrary user defined 
 2. 
 
-**Standards:**
-
-RFCs:
+**RFC Standards:**
 
 | Header | Description  |
 | ------ | ------------ |
