@@ -1,14 +1,17 @@
-## Hashtable
+
+## Array
+
+## List
 
 ## Stack
 
 ## Queue
 
+## Tree
+
 ## Heap
 
-## List
-
-## Tree
+## Hashtable
 
 ## Sort
 
