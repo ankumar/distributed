@@ -11,7 +11,7 @@ Architecture:
 
 ## 1. Retail
 ### User Journey: **Pickup & Delivery**
-### Reatail Services: 
+### Services: 
 * User Profile
 * Accounts
 * Notification
@@ -28,7 +28,7 @@ Architecture:
 
 ## 2. Uber
 ### User Journey: **Drivers & Riders**
-### Transportation Services: 
+### Services: 
 * User Profile
 * Accounts
 * Notification
@@ -47,7 +47,7 @@ Architecture:
 
 ## 3. WhatsApp
 ### User Journey: **Product & End Users**
-### Messaging Services:
+### Services:
 * User Profile
 * Text
 * Voice & Video
