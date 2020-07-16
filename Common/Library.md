@@ -1,3 +1,7 @@
+# CircuitBreaker
+# Bulkhead
+# Rate Limiter
+
 **State:**
 
 1. Key - arbitrary user defined 
@@ -15,3 +19,5 @@ RFCs:
 **Samples:**
 1. https://github.com/vladimir-bukhtoyarov/bucket4j
 2. https://github.com/sethvargo/go-limiter
+
+# Retry
