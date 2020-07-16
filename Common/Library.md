@@ -1,6 +1,6 @@
 # CircuitBreaker
 # Bulkhead
-# Rate Limiter
+# RateLimiter
 
 **State:**
 
