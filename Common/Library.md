@@ -14,14 +14,9 @@ RFCs:
 | Header | Description  |
 | ------ | ------------ |
 | X-RateLimit-Limit | how many request the client can do |
-| X-RateLimit-Remaining | |
-| X-RateLimit-Reset | |
-| Retry-After | |
-
-x-ratelimit-limit	how many request the client can do
-x-ratelimit-remaining	how many request remain to the client in the timewindow
-x-ratelimit-reset	how many seconds must pass before the rate limit resets
-retry-after	if the max has been reached, the millisecond the client must wait before perform new requests
+| X-RateLimit-Remaining | how many request remain to the client in the timewindow |
+| X-RateLimit-Reset | how many seconds must pass before the rate limit resets |
+| Retry-After | if the max has been reached, the millisecond the client must wait before perform new requests |
 
 1. X-RateLimit-Limit - configured rate limit (constant).
 2. X-RateLimit-Remaining - number of remaining tokens in current interval.
