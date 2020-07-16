@@ -1,11 +1,19 @@
-## Hashtables & Hashing
+## Hashtable
 
 Caching, Counting, Detecting duplicates ...
 
-## Stacks & Queues
+## Stack
 
-## Sorting
+## Queue
 
-## Graphs & Traversal
+## Heap
+
+## List
+
+## Tree
+
+## Sort
+
+## Graph
 
 ## Crypto
