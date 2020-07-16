@@ -13,4 +13,5 @@ RFCs:
 4. Retry-After - Time at which to retry
 
 **Samples:**
-1. https://github.com/sethvargo/go-limiter
+1. https://github.com/danielbryantuk/ambassador-java-rate-limiter/blob/master/src/main/java/io/datawire/ambassador/ratelimiter/simpleimpl/RateLimitServer.java
+2. https://github.com/sethvargo/go-limiter
