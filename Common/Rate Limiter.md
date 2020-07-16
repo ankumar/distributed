@@ -2,10 +2,10 @@
 
 RFCs:
 
-X-RateLimit-Limit - configured rate limit (constant).
-X-RateLimit-Remaining - number of remaining tokens in current interval.
-X-RateLimit-Reset - UTC time when the limit resets.
-Retry-After - Time at which to retry
+1. X-RateLimit-Limit - configured rate limit (constant).
+2. X-RateLimit-Remaining - number of remaining tokens in current interval.
+3. X-RateLimit-Reset - UTC time when the limit resets.
+4. Retry-After - Time at which to retry
 
 **Samples:**
 1. https://github.com/sethvargo/go-limiter
