@@ -14,8 +14,6 @@ RFCs:
 | Header | Description  |
 | ------ | ------------ |
 | X-RateLimit-Limit | how many request the client can do |
-
-
 | | |
 | | |
 | | |
