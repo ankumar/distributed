@@ -8,6 +8,8 @@
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
+[Reference Architecture](https://github.com/wso2/reference-architecture)
+
 ## 1. Retail
 ### User Journey: **Pickup. Delivery**
 ### Services: 
