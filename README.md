@@ -10,7 +10,7 @@ Architecture:
 * Development process needs to be distributed and decoupled just like our software
 
 ## 1. Retail
-### User Journey: **Pickup & Delivery**
+### User Journey: **Pickup. Delivery**
 ### Services: 
 * User Profile
 * Accounts
@@ -27,7 +27,7 @@ Architecture:
 * ...
 
 ## 2. Uber
-### User Journey: **Drivers & Riders**
+### User Journey: **Drivers, Riders**
 ### Services: 
 * User Profile
 * Accounts
@@ -46,7 +46,7 @@ Architecture:
 * ...
 
 ## 3. WhatsApp
-### User Journey: **Product & End Users**
+### User Journey: **Text, Video**
 ### Services:
 * User Profile
 * Text
