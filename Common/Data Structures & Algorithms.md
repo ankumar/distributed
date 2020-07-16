@@ -1,7 +1,5 @@
 ## Hashtable
 
-Caching, Counting, Detecting duplicates ...
-
 ## Stack
 
 ## Queue
