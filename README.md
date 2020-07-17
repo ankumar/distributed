@@ -2,7 +2,7 @@
 2. Users - **Millions of Customers**
 3. Developers - **Hundreds**
 
-[Reference Architecture](https://github.com/wso2/reference-architecture)
+[Reference Architecture](https://github.com/wso2/reference-architecture) - Set of abstractions in place, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
 * Without having to co-ordinate their changes with other teams
@@ -71,8 +71,6 @@
 # Distributed Front-end & Back-end
 
 [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
-
-Set of abstractions in place, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
 
 1. Apps Structured as Independent Microservices
 * Many Teams
