@@ -2,7 +2,7 @@
 2. Users - **Millions of Customers**
 3. Developers - **Hundreds**
 
-[Reference Architecture](https://github.com/wso2/reference-architecture) - Set of abstractions in place, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
+[Reference Architecture](https://github.com/wso2/reference-architecture) - Set of abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
 * Without having to co-ordinate their changes with other teams
