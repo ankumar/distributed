@@ -72,6 +72,8 @@
 
 [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
 
+Set of abstractions in place, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
+
 1. Apps Structured as Independent Microservices
 * Many Teams
 * Mixture of Programming Languages
