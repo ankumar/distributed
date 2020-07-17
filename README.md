@@ -26,7 +26,7 @@
 * ...
 
 ## 2. Uber
-### User Journey: **Drivers, Riders**
+### User Journey: **Drivers. Riders**
 ### Services: 
 * User Profile
 * Accounts
@@ -45,7 +45,7 @@
 * ...
 
 ## 3. WhatsApp
-### User Journey: **Text, Photos, Video**
+### User Journey: **Text. Photos. Video**
 ### Services:
 * User Profile
 * Text
