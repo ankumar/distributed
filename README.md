@@ -25,7 +25,7 @@
 * Buy & Sell Items or Services on Marketplace
 * Join Groups
 ## 7. Ticketmaster
-* 
+* Users Buy and sell tickets for events
 ## 8. Search
 * Users Find information by typing words
 * Paid Advertisements
