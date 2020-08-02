@@ -2,6 +2,8 @@ Software System Context:
 
 1. Business - **Markets, Products & Services**; **For Global, Market specific Requirements** 
 2. Users - **Humans & Machines** 
+* Applications, Web or Mobile
+* Data
 3. Developers - **Hundreds**
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
