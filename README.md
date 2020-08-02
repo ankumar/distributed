@@ -13,4 +13,4 @@ Software System Context:
 ## 2. Uber
 * Users Order Ride Now or Scheduled & Nearby Drivers choose to pickup 
 ## 3. WhatsApp
-* Users Text, Voice or Video 1:1 or Group
+* Users Text, Voice or Video 1:1 or to Group
