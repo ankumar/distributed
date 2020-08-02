@@ -13,7 +13,7 @@
 ## 1. Retail
 * Users Order Delivery (few categories like produce & perishable **scheduled**) AND/OR Pickup in-store or curbside
 ## 2. Uber
-* Users Order Ride, Food Now or Scheduled & Nearby Drivers choose to pickup 
+* Users Order Ride & Food Now or Scheduled, Nearby Drivers choose to pickup 
 ## 3. WhatsApp
 * Users Text, Photos, Voice or Video 1:1 or Group
 ## 4. Twitter
