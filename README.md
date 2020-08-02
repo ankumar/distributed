@@ -9,7 +9,7 @@ System Context:
 * Development process needs to be distributed and decoupled just like our software
 
 ## 1. Retail
-### Customers to Order Delivery (few categories like produce scheduled) & Pickup in-store or curbside**
+### Customers to Order Delivery (few categories like produce scheduled) AND/OR Pickup in-store or curbside
 ### Services: 
 * User Profile
 * Accounts
