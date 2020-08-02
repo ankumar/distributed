@@ -9,7 +9,7 @@ Software System Context:
 * Development process needs to be distributed and decoupled just like our software
 
 ## 1. Retail
-### Customers to Order Delivery (few categories like produce scheduled) AND/OR Pickup in-store or curbside
+### Customers to Order Delivery (few categories like produce, perishable etc. scheduled) AND/OR Pickup in-store or curbside
 ## 2. Uber
 ### User Journey: **Drivers. Riders**
 ## 3. WhatsApp
