@@ -42,6 +42,12 @@
 
 3. CAP Theorem
 
+
+Data
+* Purpose-built Databases
+* Data Warehouse
+* Data Lake
+
 Availability & minimize the **"blast radius"** of any failures, design techniques:
 1. Cell-based architecture
 2. Sharding
