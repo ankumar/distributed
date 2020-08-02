@@ -5,7 +5,6 @@
 * Market specific Requirements 
 2. Users - **Humans & Machines** 
 * Applications
-  * Web or Mobile or Voice (Desktop, Console)
 * Data
 3. Developers - **Hundreds**
 * Many Teams, each working on different areas of the Product
@@ -40,10 +39,11 @@
 
 # Distributed System:
 
-1. Load Balancing
-2. Caching
+1. Applications - Web, Mobile, API, Voice, Desktop & Console 
+2. Load Balancing
+3. Caching
 
-3. CAP Theorem
+4. CAP Theorem
 
 
 Data
