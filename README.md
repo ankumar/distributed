@@ -1,7 +1,7 @@
 System Context:
-1 Business - **Markets**; Products & Services, **For Global, each with unique Requirements** 
-2. Users - **Human or Machines** 
-3. Developers - **Hundreds**
+1.Business - **Markets**; Products & Services, **For Global, each with unique Requirements** 
+2.Users - **Human or Machines** 
+3.Developers - **Hundreds**
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
 * Without having to co-ordinate their changes with other teams
