@@ -35,8 +35,6 @@
 ## 10. Zoom or WebEx
 *
 
---
-
 # Distributed System:
 
 1. Load Balancing
