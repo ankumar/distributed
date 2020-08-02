@@ -62,9 +62,6 @@ System Context:
 ------
 
 # End User Applications
-* Designing Modularity & Interfaces
-* Decomposing an Application into Services & APIs
-
 1. Mobile
 2. Web
 
@@ -115,4 +112,6 @@ Load Balancing, Caching, ...
 * Network connectivity between workloads.
 * Network security policy enforcement between workloads.
 
+* Designing Modularity & Interfaces
+* Decomposing an Application into Services & APIs
 [Reference Architecture](https://github.com/wso2/reference-architecture) - Set of abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
