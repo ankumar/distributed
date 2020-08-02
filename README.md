@@ -1,4 +1,4 @@
-Software System Context:
+Software System:
 
 1. Business - **Markets, Products & Services**; **For Global, Market specific Requirements** 
 2. Users - **Humans & Machines** 
@@ -30,3 +30,7 @@ Software System Context:
 * Typeahead
 * 
 ## 9. Dropbox
+
+--
+
+Distributed System:
