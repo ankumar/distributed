@@ -15,13 +15,15 @@ Software System Context:
 ## 2. Uber
 * Users Order Ride, Food Now or Scheduled & Nearby Drivers choose to pickup 
 ## 3. WhatsApp
-* Users Text, Voice or Video 1:1 or Group
+* Users Text, Photos, Voice or Video 1:1 or Group
 ## 4. Twitter
 * 
 ## 5. Youtube or Netflix
 * 
 ## 6. Facebook
-* 
+* Users create a Profile & Post Texts, Photos with "Friends"
+* Buy & Sell Items or Services on Marketplace
+* Join Groups
 ## 7. Ticketmaster
 * 
 ## 8. Search
