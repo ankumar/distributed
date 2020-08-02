@@ -27,7 +27,7 @@
 ## 7. Ticketmaster
 * 
 ## 8. Search
-* Finding information 
+* Users Find information by typing words
 * Paid Advertisements
 ## 9. Dropbox
 * 
