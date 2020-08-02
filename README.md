@@ -1,7 +1,7 @@
 Software System Context:
 
 1. Business - **Markets, Products & Services**; **For Global, Market specific Requirements** 
-2. Users - **Human or Machines** 
+2. Users - **Humans & Machines** 
 3. Developers - **Hundreds**
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
@@ -9,8 +9,8 @@ Software System Context:
 * Development process needs to be distributed and decoupled just like our software
 
 ## 1. Retail
-### Customers to Order Delivery (few categories like produce, perishable etc. scheduled) AND/OR Pickup in-store or curbside
+* Users Order Delivery (few categories like produce, perishable etc. scheduled) AND/OR Pickup in-store or curbside
 ## 2. Uber
-### User Journey: **Drivers. Riders**
+* Users Order Ride Now or Scheduled & Nearby Drivers choose to pickup 
 ## 3. WhatsApp
-### User Journey: **Text. Photos. Video**
+* Users Text, Voice or Video 1:1 or Group
