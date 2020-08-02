@@ -24,3 +24,6 @@ Software System Context:
 * 
 ## 7. Ticketmaster
 * 
+## Search
+* Typeahead
+* 
