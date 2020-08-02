@@ -28,7 +28,6 @@
 * 
 ## 8. Search
 * Finding information 
-* Typeahead
 * Paid Advertisements
 ## 9. Dropbox
 * 
