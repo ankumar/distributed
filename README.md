@@ -41,8 +41,4 @@
 
 1. Load Balancing
 2. Caching
-3. Data Partitioning
-4. Indexes
-5. Redundancy & Replication
-6. SQL vs. NoSQL
-7. CAP Theorem
+3. CAP Theorem
