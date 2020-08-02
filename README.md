@@ -1,8 +1,7 @@
-1. Business - **Markets**; Products & Services, **each with unique Requirements**
-2. Users - **Millions of Customers**
+System Context:
+1 Business - **Markets**; Products & Services, **For Global, each with unique Requirements** 
+2. Users - **Human or Machines** 
 3. Developers - **Hundreds**
-
-[Reference Architecture](https://github.com/wso2/reference-architecture) - Set of abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
 * Without having to co-ordinate their changes with other teams
@@ -115,3 +114,4 @@ Load Balancing, Caching, ...
 * Network connectivity between workloads.
 * Network security policy enforcement between workloads.
 
+[Reference Architecture](https://github.com/wso2/reference-architecture) - Set of abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
