@@ -1,4 +1,4 @@
-Software System:
+# Software System:
 
 1. Business - **Markets, Products & Services**; **For Global, Market specific Requirements** 
 2. Users - **Humans & Machines** 
@@ -33,4 +33,4 @@ Software System:
 
 --
 
-Distributed System:
+# Distributed System:
