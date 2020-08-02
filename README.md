@@ -2,7 +2,7 @@
 
 1. Business - **Markets, Products & Services**; **Global, Market specific Requirements** 
 2. Users - **Humans & Machines** 
-* Applications, Web or Mobile
+* Applications, Web or Mobile or Voice (Desktop, Console)
 * Data
 3. Developers - **Hundreds**
 * Many Teams, each working on different areas of the Product
