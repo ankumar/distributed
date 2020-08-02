@@ -15,7 +15,7 @@ Software System Context:
 ## 2. Uber
 * Users Order Ride, Food Now or Scheduled & Nearby Drivers choose to pickup 
 ## 3. WhatsApp
-* Users Text, Voice or Video 1:1 or to Group
+* Users Text, Voice or Video 1:1 or Group
 ## 4. Twitter
 * 
 ## 5. Youtube or Netflix
