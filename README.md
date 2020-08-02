@@ -1,6 +1,6 @@
 Software System Context:
 
-1. Business - **Markets, Products & Services**, **For Global, Market specific Requirements** 
+1. Business - **Markets, Products & Services**; **For Global, Market specific Requirements** 
 2. Users - **Human or Machines** 
 3. Developers - **Hundreds**
 * Many Teams, each working on different areas of the Product
