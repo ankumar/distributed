@@ -17,7 +17,7 @@ Software System Context:
 ## 3. WhatsApp
 * Users Text, Photos, Voice or Video 1:1 or Group
 ## 4. Twitter
-* Users create a Profile & Post Texts & Links (limited to 140 characters), Photos with "Friends"
+* Users create a Profile, Post Texts & Links (limited to 140 characters), Photos with "Friends"
 ## 5. Youtube or Netflix
 * 
 ## 6. Facebook
