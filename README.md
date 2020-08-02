@@ -41,4 +41,11 @@
 
 1. Load Balancing
 2. Caching
+
 3. CAP Theorem
+
+Availability & minimize the **"blast radius"** of any failures, design techniques:
+1. Cell-based architecture
+2. Sharding
+3. Availability Zones
+4. Regions
