@@ -1,6 +1,8 @@
 # Software System:
 
-1. Business - **Products & Services**; **Global, Market specific Requirements** 
+1. Business - **Products & Services**
+* Local & Global
+* Market specific Requirements 
 2. Users - **Humans & Machines** 
 * Applications, Web or Mobile or Voice (Desktop, Console)
 * Data
