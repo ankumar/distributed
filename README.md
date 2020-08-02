@@ -39,12 +39,12 @@
 
 # Distributed System:
 
-1. Applications - Web, Mobile, API, Voice, Desktop & Console 
-2. Load Balancing
-3. Caching
+1. Load Balancing
+2. Caching
+3. CAP Theorem
 
-4. CAP Theorem
-
+Applications
+* Web, Mobile, API, Voice, Desktop & Console 
 
 Data
 * Purpose-built Databases
