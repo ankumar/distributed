@@ -53,3 +53,7 @@ Availability & minimize the **"blast radius"** of any failures, design technique
 2. Sharding
 3. Availability Zones
 4. Regions
+
+# References
+
+1. [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
