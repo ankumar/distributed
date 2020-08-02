@@ -21,7 +21,7 @@
 ## 4. Twitter
 * Users create a Profile, Post Text (limited to 140 characters) with "Friends"
 ## 5. YouTube or Netflix
-* 
+* Users stream Live & Produced Videos
 ## 6. Facebook
 * Users create a Profile & Post, Text, Link, Photo with "Friends"
 * Buy & Sell Items or Services on Marketplace
