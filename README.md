@@ -9,7 +9,7 @@
 * Development process needs to be distributed and decoupled just like our software
 
 ## 1. Retail
-### User Journey: **Pickup. Delivery**
+### User Journey: **Delivery. Pickup.**
 ### Services: 
 * User Profile
 * Accounts
