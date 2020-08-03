@@ -13,7 +13,7 @@
 * Development process needs to be distributed and decoupled just like our software
 
 ## 1. Retail
-* Users Order Items for Delivery (few categories like produce & perishable **scheduled**) AND/OR Pickup in-store or curbside
+* Users Order Items for Delivery, few categories like produce & perishable **scheduled** AND/OR Pickup in-store or curbside
 ## 2. Uber
 * Users Order Ride & Food Now or Scheduled, Nearby Drivers get notification, choose to pickup 
 ## 3. WhatsApp
