@@ -35,7 +35,7 @@
 * Users store, sync & share files. 
 
 ## 10. Zoom or WebEx
-* Users meet to stream Screen, Audio & Video
+* Users meet to stream Screen &/or Audio &/or Video
 
 # Distributed System:
 
