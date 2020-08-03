@@ -61,4 +61,5 @@ Availability & minimize the **"blast radius"** of any failures, design technique
 
 1. [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
 2. "In an “always-on” world, downtime is unacceptable, and developers were forced into handling the reduced consistency levels of scalable NoSQL systems" . "Over the past decade, application developers have discovered that it is extremely difficult to build bug-free applications over database systems that do not guarantee consistency." http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.html?m=1
+3. [State at the edge](https://www.fastly.com/blog/state-at-the-edge)
 
