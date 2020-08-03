@@ -12,7 +12,7 @@
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
-## 1. Retail
+## 1. Amazon or Walmart 
 * Users Order Items for Delivery, **schedule** time slots for few categories like produce & perishable, Pickup In-store or Curbside
 ## 2. Uber
 * Users Order Ride & Food Now or Scheduled, Nearby Drivers get notification, choose to Pickup 
