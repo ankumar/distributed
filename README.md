@@ -35,7 +35,7 @@
 * 
 
 ## 10. Zoom or WebEx
-*
+* Users meet to Live Screen, Audio & Video
 
 # Distributed System:
 
