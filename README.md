@@ -32,10 +32,10 @@
 * Users Find information by typing words
 * Paid Advertisements
 ## 9. Dropbox
-* 
+* Users store, sync & share files. 
 
 ## 10. Zoom or WebEx
-* Users meet to Live Screen, Audio & Video
+* Users meet to stream Screen, Audio & Video
 
 # Distributed System:
 
