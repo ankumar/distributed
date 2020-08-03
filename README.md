@@ -42,6 +42,7 @@
 1. Load Balancing
 2. Caching
 3. CAP Theorem
+4. Edge & Cloud Computing
 
 Applications
 * Web, Mobile, API, Voice, Desktop & Console 
