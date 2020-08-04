@@ -38,7 +38,9 @@
 * Users meet to stream Audio, Screen & Video
 
 ## 11. GitHub
-* 
+* Users manage Repos
+
+Domain model entities outside reposistory contents - **Repositories, Users, Organizations, Payment, Issues, Pull Requests, Comments, ...**
 
 # Distributed System:
 
