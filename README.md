@@ -41,7 +41,7 @@ Context:
 ## 11. GitHub
 * Users manage Repos
 
-Domain model entities outside reposistory contents - **Repositories, Users, Organizations, Payment, Issues, Pull Requests, Comments, ...**
+Domain model entities outside reposistory contents - **Repositories, Users, Organizations, Payment, Issues, Pull Requests, Fork, Comments, ...**
 
 # Distributed System:
 
