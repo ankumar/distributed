@@ -1,5 +1,6 @@
 # Software System:
 
+Context:
 1. Business - **Products & Services**
 * Local & Global
 * Market specific Requirements 
