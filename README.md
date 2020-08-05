@@ -52,6 +52,8 @@ Availability & minimize the **"blast radius"** of any failures, design technique
 
 # References
 
+**Computing:**
+
 1. [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
 2. [State at the edge](https://www.fastly.com/blog/state-at-the-edge)
 
