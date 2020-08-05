@@ -13,32 +13,30 @@ Context:
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
-## 1. Amazon or Walmart 
+1. Amazon, Walmart, Target
 * Users Order Items for Delivery, **schedule** time slots for few categories like produce & perishable, Pickup In-store or Curbside
-## 2. Uber
+2. Uber
 * Users Order Ride & Food Now or Scheduled, Nearby Drivers get notification, choose to Pickup 
-## 3. WhatsApp
+3. WhatsApp
 * Users Text, Photos, Voice or Video 1:1 or Group
-## 4. Twitter
+4. Twitter
 * Users create a Profile, Post Text (limited to 140 characters) with "Friends"
-## 5. YouTube or Netflix
+5. YouTube or Netflix
 * Users stream Live & Produced Videos
-## 6. Facebook
+6. Facebook
 * Users create a Profile & Post, Text, Link, Photo with "Friends"
 * Buy & Sell Items or Services on Marketplace
 * Join Groups
-## 7. Ticketmaster
+7. Ticketmaster
 * Users Buy and sell tickets for events
-## 8. Search
+8. Search
 * Users Find information by typing words
 * Paid Advertisements
-## 9. Dropbox
+9. Dropbox
 * Users store, sync & share files. 
-
-## 10. Zoom or WebEx
+10. Zoom or WebEx
 * Users meet to stream Audio, Screen & Video
-
-## 11. GitHub
+11. GitHub
 * Users manage Repos
 
 Domain model entities outside reposistory contents - **Repositories, Users, Organizations, Payment, Issues, Pull Requests, Fork, Comments, ...**
