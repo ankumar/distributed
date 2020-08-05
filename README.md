@@ -59,4 +59,5 @@ Availability & minimize the **"blast radius"** of any failures, design technique
 * "In an “always-on” world, downtime is unacceptable, and developers were forced into handling the reduced consistency levels of scalable NoSQL systems" . "Over the past decade, application developers have discovered that it is extremely difficult to build bug-free applications over database systems that do not guarantee consistency." http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.html?m=1
 * [The Secret Lives of Data](http://thesecretlivesofdata.com/raft/)
 
-
+**Network:**
+* https://fd.io/
