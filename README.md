@@ -16,7 +16,7 @@
 
 0. GitHub - Developers Workflows for CI & CD 
 
-Modeling Domains - **Repositories, Users, Organizations, Payment, Issues, Pull Requests, Fork, Comments, ...**
+Modeling Domains & Boundaries - **Repositories, Users, Organizations, Payment, Issues, Pull Requests, Fork, Comments, ...**
 
 1. Amazon, Walmart, Target - Users Order Items for Delivery, **schedule** time slots for few categories like produce & perishable, Pickup In-store or Curbside
 2. Uber - Users Order Ride & Food Now or Scheduled, Nearby Drivers get notification, choose to Pickup 
