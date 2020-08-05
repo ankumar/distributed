@@ -1,6 +1,5 @@
 # Software System:
 
-Context:
 1. Business - **Products & Services**
 * Local & Global
 * Market specific Requirements 
@@ -12,6 +11,8 @@ Context:
 * Teams need to control their own development, deployment, and scale
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
+
+--
 
 1. Amazon, Walmart, Target
 * Users Order Items for Delivery, **schedule** time slots for few categories like produce & perishable, Pickup In-store or Curbside
