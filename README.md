@@ -37,7 +37,7 @@ Context:
 10. Zoom or WebEx
 * Users meet to stream Audio, Screen & Video
 11. GitHub
-* Users manage Repos
+* Developers Workflows for CI & CD 
 
 Domain model entities outside reposistory contents - **Repositories, Users, Organizations, Payment, Issues, Pull Requests, Fork, Comments, ...**
 
