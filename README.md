@@ -1,6 +1,8 @@
 # Distributed Systems:
 
-**Applications:** Web, Mobile, API, Voice, Desktop & Console 
+**Applications:** 
+
+* Web, Mobile, API, Voice, Desktop & Console 
 
 1. Load Balancing
 2. Caching
