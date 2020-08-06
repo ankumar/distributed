@@ -21,7 +21,7 @@ Availability & minimize the **"blast radius"** of any failures, design technique
 
 # Open source code implementations
 
-* The Log - Kafka
+* "The Log" - Kafka
 * Cassandra
 * Kubernetes
 * Hadoop
