@@ -15,7 +15,7 @@
 3. CAP Theorem
 4. Edge & Cloud Computing
 
-Availability & minimize the **"blast radius"** of any failures, design techniques:
+Patterns for Availability & minimize the **"blast radius"** of any failures
 1. Cell-based architecture
 2. Sharding
 3. Availability Zones
