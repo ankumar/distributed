@@ -52,4 +52,6 @@ Availability & minimize the **"blast radius"** of any failures, design technique
 
 # References
 
+* [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/index.html)
+
 
