@@ -24,7 +24,7 @@ Patterns for Availability & minimize the **"blast radius"** of any failures
 # Open source code implementations
 
 * "The Log" - Kafka
-* Database - Cassandra
+* Key/Value Database - Cassandra
 * Infrastructure - Kubernetes
 
 
