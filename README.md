@@ -1,17 +1,17 @@
 # Distributed Systems:
 
+**Applications:** Web, Mobile, API, Voice, Desktop & Console 
+
 1. Load Balancing
 2. Caching
-3. CAP Theorem
-4. Edge & Cloud Computing
 
-Applications
-* Web, Mobile, API, Voice, Desktop & Console 
-
-Data
+**Data:**
 * Purpose-built Databases
 * Data Warehouse
 * Data Lake
+
+3. CAP Theorem
+4. Edge & Cloud Computing
 
 Availability & minimize the **"blast radius"** of any failures, design techniques:
 1. Cell-based architecture
