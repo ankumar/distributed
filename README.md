@@ -1,35 +1,4 @@
-# Software System:
-
-1. Business - **Products & Services**
-* Local & Global
-* Market specific Requirements 
-2. Users - **Humans & Machines** 
-* Applications
-* Data
-3. Developers - **Hundreds**
-* Many Teams, each working on different areas of the Product
-* Teams need to control their own development, deployment, and scale
-* Without having to co-ordinate their changes with other teams
-* Development process needs to be distributed and decoupled just like our software
-
---
-
-0. GitHub - Developers Workflows for CI & CD 
-
-Modeling Domain Data  & Boundaries - **Repositories, Users, Organizations, Payment, Issues, Pull Requests, Fork, Comments, ...**
-
-1. Amazon, Walmart, Target - Users Order Items for Delivery, **schedule** time slots for few categories like produce & perishable, Pickup In-store or Curbside
-2. Uber - Users Order Ride & Food Now or Scheduled, Nearby Drivers get notification, choose to Pickup 
-3. WhatsApp - Users Text, Photos, Voice or Video 1:1 or Group
-4. Twitter - Users create a Profile, Post Text (limited to 140 characters) with "Friends"
-5. YouTube or Netflix - Users stream Live & Produced Videos
-6. Facebook - Users create a Profile & Post, Text, Link, Photo with "Friends" / Buy & Sell Items or Services on Marketplace / Join Groups
-7. Ticketmaster - Users Buy and sell tickets for events
-8. Search - Users Find information by typing words / Paid Advertisements
-9. Dropbox - Users store, sync & share files. 
-10. Zoom or WebEx - Users meet to stream Audio, Screen & Video
-
-# Distributed System:
+# Distributed Systems:
 
 1. Load Balancing
 2. Caching
@@ -50,8 +19,11 @@ Availability & minimize the **"blast radius"** of any failures, design technique
 3. Availability Zones
 4. Regions
 
-# References
+# Open source code implementations
 
-* [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/index.html)
+# Kafka
+# Cassandra
+# Kubernetes
+# Hadoop
 
 
