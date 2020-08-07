@@ -2,7 +2,7 @@
 
 **Web, Mobile, API, Voice, Desktop & Console**
 
-1. Global Load Balancing, DNS-based, SDN Anycast
+1. Global Load Balancing, DNS-based & SDN Anycast
 2. Caching & CDN
 3. CAP Theorem
 4. Edge & Cloud Computing
