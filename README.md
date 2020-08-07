@@ -17,7 +17,7 @@
 5. Purpose-built Databases
 6. Data Warehouse / Data Lake
 
-# Open source code implementations
+# Infrastructure
 
 1. "The Log" - Kafka, Vectorized Redpanda
 * [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
