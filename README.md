@@ -19,11 +19,11 @@
 
 # Open source code implementations
 
-1. "The Log" - Kafka
+1. "The Log" - Kafka, Vectorized Redpanda
 * https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals
   * 
 
-2. Key/Value Database - Cassandra
+2. Key/Value Database - DynamoDB, Cassandra, ScyllaDB
 
 3. Infrastructure - Kubernetes
 
