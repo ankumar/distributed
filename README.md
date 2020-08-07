@@ -8,7 +8,7 @@
 *  DNS-based
 *  Single Anycast IP
 
-2. Caching
+2. Caching & CDN
 
 **Data:**
 * Purpose-built Databases
