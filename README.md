@@ -1,6 +1,6 @@
 # Distributed Systems:
 
-**Applications:** 
+**Applications & Data:** 
 
 * Web, Mobile, API, Voice, Desktop & Console 
 
@@ -9,13 +9,11 @@
 *  Anycast
 
 2. Caching & CDN
-
-**Data:**
-* Purpose-built Databases
-* Data Warehouse / Data Lake
-
 3. CAP Theorem
 4. Edge & Cloud Computing
+
+* Purpose-built Databases
+* Data Warehouse / Data Lake
 
 **Patterns for Availability & minimize the **"blast radius"** of any failures**
 1. Cell-based architecture
