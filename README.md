@@ -19,9 +19,11 @@
 
 # Infrastructure
 
-1. "The Log" - Kafka, Vectorized Redpanda
+1. "The Log" - Kafka
 * [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
   * [A Raft Protocol for the Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-595%3A+A+Raft+Protocol+for+the+Metadata+Quorum)
+  
+* C++ Implementation, Vectorized Redpanda
 
 2. Key/Value Database - DynamoDB, Cassandra, ScyllaDB
 
