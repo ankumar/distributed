@@ -14,8 +14,7 @@
 **Patterns for Availability & minimize the **"blast radius"** of any failures**
 1. Cell-based architecture
 2. Availability Regions & Zones
-3. Purpose-built Databases & Sharding
-4. Data Warehouse / Data Lake
+3. Data Warehouse / Data Lake
 
 # Infrastructure
 
@@ -23,10 +22,10 @@
 * [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
   * [A Raft Protocol for the Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-595%3A+A+Raft+Protocol+for+the+Metadata+Quorum)
   
-* C++ Implementation, Vectorized Redpanda
+* Vectorized Redpanda - Kafka® API compatible, C++ Implementation
 
-2. Key/Value Database - DynamoDB, Cassandra, ScyllaDB
-
+2. Purpose-built Databases, Key/Value - Cassandra, DynamoDB, ScyllaDB
+ 
 3. Kubernetes
 
 # References
