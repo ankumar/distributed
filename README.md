@@ -22,8 +22,10 @@
 1. "The Log" - Kafka
 * https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals
   * 
-* Key/Value Database - Cassandra
-* Infrastructure - Kubernetes
+
+2. Key/Value Database - Cassandra
+
+3. Infrastructure - Kubernetes
 
 # References
 
