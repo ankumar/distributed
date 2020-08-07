@@ -1,6 +1,6 @@
 # Applications
 
-** Web, Mobile, API, Voice, Desktop & Console**
+**Web, Mobile, API, Voice, Desktop & Console**
 
 1. Global Load Balancing - DNS-based, SDN Anycast
 2. Caching & CDN
