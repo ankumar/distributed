@@ -19,9 +19,12 @@
 
 # Open source code implementations
 
-* "The Log" - Kafka
+1. "The Log" - Kafka
+* https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals
+  * 
 * Key/Value Database - Cassandra
 * Infrastructure - Kubernetes
 
 # References
 
+* [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
