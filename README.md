@@ -21,7 +21,7 @@
 
 1. "The Log" - Kafka, Vectorized Redpanda
 * https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals
-  * 
+  * [A Raft Protocol for the Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-595%3A+A+Raft+Protocol+for+the+Metadata+Quorum)
 
 2. Key/Value Database - DynamoDB, Cassandra, ScyllaDB
 
