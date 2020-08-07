@@ -4,7 +4,10 @@
 
 * Web, Mobile, API, Voice, Desktop & Console 
 
-1. Load Balancing
+1. Global Load Balancing
+*  DNS-based
+*  Single Anycast IP
+
 2. Caching
 
 **Data:**
