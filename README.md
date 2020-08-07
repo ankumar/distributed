@@ -9,8 +9,7 @@
 
 **Data:**
 * Purpose-built Databases
-* Data Warehouse
-* Data Lake
+* Data Warehouse / Data Lake
 
 3. CAP Theorem
 4. Edge & Cloud Computing
