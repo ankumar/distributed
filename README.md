@@ -6,7 +6,7 @@
 
 1. Global Load Balancing
 *  DNS-based
-*  Single Anycast IP
+*  Anycast IP
 
 2. Caching & CDN
 
