@@ -23,7 +23,7 @@
 
 2. Key/Value Database - DynamoDB, Cassandra, ScyllaDB
 
-3. Infrastructure - Kubernetes
+3. Kubernetes
 
 # References
 
