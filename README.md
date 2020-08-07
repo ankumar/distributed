@@ -21,7 +21,7 @@
   
 * Vectorized Redpanda - Kafka® API compatible, C++ Implementation
 
-2. Purpose-built Databases, Key/Value - Cassandra, DynamoDB, ScyllaDB
+2. Purpose-built Databases, Key/Value - Cassandra
  
 3. Kubernetes
 
