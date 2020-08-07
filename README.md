@@ -1,6 +1,4 @@
-# Distributed Systems:
-
-**Applications & Data:** 
+# Applications
 
 * Web, Mobile, API, Voice, Desktop & Console 
 
