@@ -2,6 +2,8 @@
 
 **Web, Mobile, API, Voice, Desktop & Console**
 
+# Infrastructure
+
 1. Global Load Balancing - DNS-based, SDN Anycast
 2. Caching & CDN
 3. CAP Theorem
@@ -14,8 +16,6 @@
 4. Regions
 5. Purpose-built Databases
 6. Data Warehouse / Data Lake
-
-# Infrastructure
 
 1. "The Log" - Kafka, Vectorized Redpanda
 * [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
