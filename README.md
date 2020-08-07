@@ -3,16 +3,17 @@
 **Web, Mobile, API, Voice, Desktop & Console**
 
 1. Global Load Balancing, DNS-based & SDN Anycast
+
 2. Caching & CDN
+
 3. CAP Theorem
+
 4. Edge & Cloud Computing
 
 * Event Driven Systems
 * ...
 
 # Infrastructure
-
-**Patterns for Availability & minimize the **"blast radius"** of any failures**
  
 1. "The Log" - Kafka
 * [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
