@@ -10,7 +10,7 @@
 
 4. Edge & Cloud Computing
 
-- Synchronous - 
+- Synchronous - Serving Systems
 - Asynchronous - Event Driven Systems
 
 # Infrastructure
