@@ -34,6 +34,11 @@ Stateless & Stateful services:
 
 # References, Large scale systems
 
+**Building:**
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
 * [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
+
+**Renting:**
+* In our latest paper, we look at how organizations can capitalize on the unprecedented levels of investment made by the hyperscalers in cloud-native applications and business capabilities. Read more here https://leadingedgeforum.com/research/constructing-cloud-native-business-capabilities-if-you-think-cloud-is-only-about-it-infrastructure-you-seriously-need-to-think-again/
+
