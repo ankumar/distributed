@@ -14,8 +14,6 @@
 - ...
 
 # Infrastructure
-
-Layers, hopefully the order makes sense ....
  
 1. Purpose-built Databases
 
