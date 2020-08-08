@@ -15,14 +15,16 @@
 
 # Infrastructure
  
-1. "The Log" - Kafka
-* [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
+1. "The Log"
+
+* Kafka - [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
   * [A Raft Protocol for the Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-595%3A+A+Raft+Protocol+for+the+Metadata+Quorum)
   
 * Vectorized Redpanda - Kafka® API compatible, C++ Implementation
 
-2. Purpose-built Databases, Key/Value - Cassandra
+2. Purpose-built Databases
 
+* Key/Value - Cassandra
 * ScyllaDB - Apache Cassandra in C++
  
 3. Kubernetes
