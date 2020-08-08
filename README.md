@@ -34,7 +34,7 @@ Stateless & Stateful services:
 
 5. Availability, Regions & Zones
 
-# References, Large scale systems
+# References - Large scale systems
 
 **Building:**
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
