@@ -21,6 +21,8 @@ Stateless & Stateful services:
 
 2. Data Warehouse / Data Lake
 
+* https://delta.io/
+
 3. "The Log"
 
 * [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
