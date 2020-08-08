@@ -24,8 +24,8 @@
 
 2. Purpose-built Databases
 
-* Key/Value - Cassandra
-* ScyllaDB - Apache Cassandra in C++
+* Key/Value - Cassandra; ScyllaDB, Apache Cassandra in C++
+* Distributed SQL - 
  
 3. Kubernetes
 
