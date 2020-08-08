@@ -10,8 +10,8 @@
 
 4. Edge & Cloud Computing
 
-* Event Driven Systems
-* ...
+- Event Driven Systems
+- ...
 
 # Infrastructure
  
