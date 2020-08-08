@@ -31,7 +31,7 @@
  
 4. Kubernetes
 
-5. Availability Regions & Zones
+5. Availability, Regions & Zones
 
 # References, Large scale systems
 
