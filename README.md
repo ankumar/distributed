@@ -30,7 +30,7 @@ Stateless & Stateful services:
   
 * Vectorized Redpanda - Kafka® API compatible, C++ Implementation
  
-4. Kubernetes
+4. Kubernetes Distros
 
 5. Availability, Regions & Zones
 
