@@ -10,6 +10,7 @@
 
 4. Edge & Cloud Computing
 
+Stateless & Stateful services: 
 - Synchronous - Serving Systems
 - Asynchronous - Event Driven Systems
 
