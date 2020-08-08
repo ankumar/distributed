@@ -14,6 +14,8 @@
 - ...
 
 # Infrastructure
+
+Layers ....
  
 1. "The Log"
 
@@ -27,9 +29,9 @@
 * Key/Value - Cassandra; ScyllaDB, Apache Cassandra in C++
 * Distributed SQL - 
  
-3. Kubernetes
+3. Data Warehouse / Data Lake
 
-4. Data Warehouse / Data Lake
+4. Kubernetes
 
 5. Availability Regions & Zones
 
