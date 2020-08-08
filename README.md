@@ -1,6 +1,4 @@
-# Applications
-
-**Web, Mobile, API, Voice, Desktop & Console**
+# Applications - Web, Mobile, API, Voice, Desktop & Console
 
 Stateless & Stateful services: 
 - Synchronous - Serving Systems
