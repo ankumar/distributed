@@ -23,7 +23,7 @@ Stateless & Stateful services:
 
 2. Data Warehouse / Data Lake
 
-* https://delta.io/
+* Storage - https://delta.io/
 
 3. "The Log"
 
