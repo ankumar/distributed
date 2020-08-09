@@ -1,16 +1,16 @@
 # Applications - Web, Mobile, API, Voice, Desktop & Console
 
 Stateless & Stateful services: 
-- Synchronous - Serving Systems
-- Asynchronous - Event Driven Systems
+1.Synchronous - Serving Systems
+2. Asynchronous - Event Driven Systems
 
-1. Global Load Balancing, DNS-based & SDN Anycast
+* Global Load Balancing, DNS-based & SDN Anycast
 
-2. Caching & CDN
+* Caching & CDN
 
-3. CAP Theorem
+* CAP Theorem
 
-4. Edge & Cloud Computing
+* Edge & Cloud Computing
 
 # Infrastructure
  
