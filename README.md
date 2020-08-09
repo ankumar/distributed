@@ -1,7 +1,9 @@
 # Applications - Web, Mobile, API, Voice, Desktop & Console
 
 Stateless & Stateful services: 
+
 1.Synchronous - Serving Systems
+
 2. Asynchronous - Event Driven Systems
 
 * Global Load Balancing, DNS-based & SDN Anycast
