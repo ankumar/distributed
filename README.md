@@ -52,7 +52,7 @@ Stateless & Stateful services:
 * Migrating Amazon retail services to NoSQL, **DynamoDB**
   * Talks in re:Invent & Twitch from Rick Houlihan 
   
-* Distibuted SQL - https://db.cs.cmu.edu/archived-events/
+* Cloud-native DB - https://db.cs.cmu.edu/archived-events/
 
 **Renting:**
 
