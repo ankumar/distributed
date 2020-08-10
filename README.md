@@ -48,7 +48,7 @@ Stateless & Stateful services:
 
 * [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
 
-* Migrating Amazon retail services to **DynamoDB**
+* Migrating Amazon retail services to NoSQL, **DynamoDB**
   * Talks in re:Invent & Twitch from Rick Houlihan 
 
 **Renting:**
