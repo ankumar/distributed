@@ -44,10 +44,15 @@ Stateless & Stateful services:
 ## Large scale systems
 
 **Building:**
+
+Networking:
+
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
 
 * [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
+
+Key/Value:
 
 * Migrating Amazon retail services to NoSQL, **DynamoDB**
   * re:Invent & Twitch Talks from Rick Houlihan 
