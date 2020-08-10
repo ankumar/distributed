@@ -45,7 +45,11 @@ Stateless & Stateful services:
 **Building:**
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
+
 * [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
+
+* Migrating Amazon retail services to **DynamoDB**
+  * Talks from Rick Houlihan 
 
 **Renting:**
 
