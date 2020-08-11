@@ -33,9 +33,7 @@ Stateless & Stateful services:
 * Data Processing - </>
 * Storage - https://delta.io/
  
-4. Kubernetes Distros
-
-5. Availability, Regions & Zones
+4. Availability, Regions & Zones
 
 # References
 
