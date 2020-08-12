@@ -43,8 +43,6 @@ Stateless & Stateful services:
 
 **Building:**
 
-Networking:
-
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
 
