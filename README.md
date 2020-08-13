@@ -50,7 +50,7 @@ Stateless & Stateful services:
 
 * [Influence of heavy-tailed distributions on load balancing](http://www.cs.cmu.edu/~harchol/ISCA15show.pdf)
 
-Key/Value:
+**Key/Value:**
 
 * Migrating Amazon retail services to NoSQL, **DynamoDB**
   * re:Invent & Twitch Talks from Rick Houlihan 
