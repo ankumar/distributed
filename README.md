@@ -59,7 +59,5 @@ Stateless & Stateful services:
 
 * Cloud Native DB's - https://db.cs.cmu.edu/archived-events/
   * Distributed SQL - GCP Spanner,  YugaByte DB (PostgreSQL), MariaDB SkySQL, CockroachDB, ...
-
-* Key/Value: 
-  * Migrating Amazon retail services to NoSQL, **DynamoDB**, re:Invent & Twitch Talks from Rick Houlihan 
+  * Key/Value - Migrating Amazon retail services to NoSQL, **DynamoDB**, re:Invent & Twitch Talks from Rick Houlihan 
   
