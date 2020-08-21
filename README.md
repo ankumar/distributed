@@ -1,6 +1,6 @@
 # Applications - Web, Mobile, API, Voice, Desktop & Console
 
-Stateless & Stateful services: 
+**Stateless & Stateful services:**
 
 1. Synchronous Serving Systems
 
@@ -16,7 +16,7 @@ Stateless & Stateful services:
 
 # Infrastructure
  
-1. "The Log"
+1. **"The Log"**
 
 * [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
   * [A Raft Protocol for the Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-595%3A+A+Raft+Protocol+for+the+Metadata+Quorum)
@@ -27,17 +27,17 @@ Stateless & Stateful services:
 
 * Benchmarking - https://www.confluent.io/blog/kafka-fastest-messaging-system/
 
-2. Purpose-built Databases
+2. **Purpose-built Databases**
 
 * Key/Value - Cassandra; ScyllaDB, Apache Cassandra in C++
 * Distributed SQL - 
 
-3. Data Warehouse / Data Lake
+3. **Data Warehouse / Data Lake**
 
 * Data Processing - </>
 * Storage - https://delta.io/
  
-4. Availability, Regions & Zones
+4. **Availability, Regions & Zones**
 
 # References
 
