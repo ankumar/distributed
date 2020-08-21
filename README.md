@@ -2,9 +2,9 @@
 
 **Stateless & Stateful services:**
 
-1. Synchronous Serving Systems
+1. Synchronous Serving System
 
-2. Asynchronous, Event Driven Systems
+2. Asynchronous, Event Driven System
 
 * Global Load Balancing, DNS-based & SDN Anycast
 
