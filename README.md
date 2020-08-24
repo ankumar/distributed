@@ -10,7 +10,7 @@
 * CAP Theorem
 * Edge & Cloud Computing
 
-Cloud Platforms:
+--
 
 * [Google Cloud Run](https://github.com/ahmetb/cloud-run-faq)
 
