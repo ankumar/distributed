@@ -12,7 +12,7 @@
 
 Cloud Platforms:
 
-* * [Google Cloud Run](https://github.com/ahmetb/cloud-run-faq)
+* [Google Cloud Run](https://github.com/ahmetb/cloud-run-faq)
 
 # Infrastructure
  
