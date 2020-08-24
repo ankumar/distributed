@@ -62,7 +62,6 @@
   * **Key/Value** - Migrating Amazon retail services to NoSQL, **DynamoDB** ; re:Invent & Twitch Talks from Rick Houlihan 
   
 * **Providers**
-
-* [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
+  * [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
 
   
