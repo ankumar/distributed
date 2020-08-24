@@ -3,18 +3,16 @@
 **Stateless & Stateful services:**
 
 1. Synchronous Serving System 
-
-* [Google Cloud Run](https://github.com/ahmetb/cloud-run-faq)
-
 2. Asynchronous, Event Driven System
 
 * Global Load Balancing, DNS-based & SDN Anycast
-
 * Caching & CDN
-
 * CAP Theorem
-
 * Edge & Cloud Computing
+
+Cloud Platforms:
+
+* * [Google Cloud Run](https://github.com/ahmetb/cloud-run-faq)
 
 # Infrastructure
  
