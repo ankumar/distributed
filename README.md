@@ -10,10 +10,6 @@
 * CAP Theorem
 * Edge & Cloud Computing
 
---
-
-* [Google Cloud Run](https://github.com/ahmetb/cloud-run-faq)
-
 # Infrastructure
  
 1. **"The Log"**
@@ -37,6 +33,10 @@
 * Storage - https://delta.io/
  
 4. **Availability, Regions & Zones**
+
+5. Cloud
+
+* [Google Cloud Run](https://github.com/ahmetb/cloud-run-faq)
 
 # References
 
