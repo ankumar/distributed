@@ -34,10 +34,6 @@
 * Data Processing - </>
 * Storage - https://delta.io/
  
-4. **Cloud**
-
-* [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
-
 # References
 
 ## Small & Medium scale systems
@@ -64,4 +60,9 @@
 * Cloud Native DB's - https://db.cs.cmu.edu/archived-events/
   * **Distributed SQL** - GCP Spanner,  YugaByte DB (PostgreSQL), MariaDB SkySQL, CockroachDB, ...
   * **Key/Value** - Migrating Amazon retail services to NoSQL, **DynamoDB** ; re:Invent & Twitch Talks from Rick Houlihan 
+  
+* **Providers**
+
+* [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
+
   
