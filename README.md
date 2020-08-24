@@ -11,7 +11,7 @@
 * Edge & Cloud Computing
 * Availability, Regions & Zones
 
-# Infrastructure
+# Infrastructure - Network, Compute & Storage
  
 1. **"The Log"**
 
