@@ -35,7 +35,7 @@
  
 4. **Availability, Regions & Zones**
 
-5. Cloud
+5. **Cloud**
 
 * [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
 
