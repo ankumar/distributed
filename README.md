@@ -36,7 +36,7 @@
 
 5. Cloud
 
-* [Google Cloud Run](https://github.com/ahmetb/cloud-run-faq)
+* [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
 
 # References
 
