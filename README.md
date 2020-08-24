@@ -2,7 +2,9 @@
 
 **Stateless & Stateful services:**
 
-1. Synchronous Serving System
+1. Synchronous Serving System 
+
+* [Google Cloud Run](https://github.com/ahmetb/cloud-run-faq)
 
 2. Asynchronous, Event Driven System
 
