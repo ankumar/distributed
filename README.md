@@ -9,6 +9,7 @@
 * Caching & CDN
 * CAP Theorem
 * Edge & Cloud Computing
+4. **Availability, Regions & Zones**
 
 # Infrastructure
  
