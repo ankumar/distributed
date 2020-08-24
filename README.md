@@ -33,9 +33,7 @@
 * Data Processing - </>
 * Storage - https://delta.io/
  
-4. **Availability, Regions & Zones**
-
-5. **Cloud**
+4. **Cloud**
 
 * [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
 
