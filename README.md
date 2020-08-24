@@ -19,7 +19,7 @@
   * Tiered Storage
   * [Replace Zookeeper - A Raft Protocol for the Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-595%3A+A+Raft+Protocol+for+the+Metadata+Quorum)
   
-* Vectorized Redpanda - Kafka® API compatible, C++ Implementation
+* Vectorized **Redpanda** - Kafka® API compatible, C++ Implementation
 * Write Ahead Log - https://wepay.github.io/waltz/docs/introduction
 
 2. **Purpose-built Databases**
