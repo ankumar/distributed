@@ -73,7 +73,7 @@
 * [Influence of heavy-tailed distributions on load balancing](http://www.cs.cmu.edu/~harchol/ISCA15show.pdf)
 
 ---
-Operating Systems Design and Implementation (OSDI) & ACM:
+Papers:
 
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
