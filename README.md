@@ -56,21 +56,14 @@
 [@scale](https://atscaleconference.com/)
 
 * [LogDevice](https://logdevice.io/)
-* [Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
 * [Mcrouter (pronounced mc router)](https://github.com/facebook/mcrouter)
 
 --
+Blogs:
 
 * [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
-
---
-
 * [DNS based GSLB](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
-
-* [Akamai DNS: Providing Authoritative Answers to the World’s Queries](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2020/07/sigcomm2020-final289.pdf)
-
---
-* [Influence of heavy-tailed distributions on load balancing](http://www.cs.cmu.edu/~harchol/ISCA15show.pdf)
+* [Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
 
 ---
 Papers:
@@ -78,3 +71,5 @@ Papers:
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
 * [Pitfalls of Anycast](https://www.usenix.org/sites/default/files/conference/protected-files/srecon17emea_slides_murali_suriar.pdf)
+* [Influence of heavy-tailed distributions on load balancing](http://www.cs.cmu.edu/~harchol/ISCA15show.pdf)
+* [Akamai DNS: Providing Authoritative Answers to the World’s Queries](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2020/07/sigcomm2020-final289.pdf)
