@@ -59,6 +59,7 @@
 * [Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
+* [Mcrouter (pronounced mc router)](https://github.com/facebook/mcrouter)
 
 --
 
