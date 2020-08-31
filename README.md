@@ -77,4 +77,4 @@ Papers:
 ---
 Tech Talk:
 
-* [Quarantine DB Talk Series](https://www.youtube.com/playlist?list=PLSE8ODhjZXjagqlf1NxuBQwaMkrHXi-iz)
+* [Quarantine Database Tech Talks (2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjagqlf1NxuBQwaMkrHXi-iz)
