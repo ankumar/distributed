@@ -59,7 +59,7 @@
 
 ---
 
-**a. Blogs:**
+**1. Blogs:**
 
 * [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
 * [DNS based GSLB](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
@@ -68,7 +68,7 @@
 
 ---
 
-**b. Papers:**
+**2. Papers:**
 
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
@@ -77,6 +77,6 @@
 * [Akamai DNS: Providing Authoritative Answers to the World’s Queries](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2020/07/sigcomm2020-final289.pdf)
 ---
 
-**c. Tech Talks:**
+**3. Tech Talks:**
 
 * [Quarantine Database Tech Talks (2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjagqlf1NxuBQwaMkrHXi-iz)
