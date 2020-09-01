@@ -26,7 +26,7 @@
 2. **Purpose-built Databases**
 
 * Key/Value - Cassandra; ScyllaDB, Apache Cassandra in C++
-* Distributed SQL - 
+* Distributed SQL 
 
 3. **Data Warehouse / Data Lake**
 
