@@ -1,4 +1,4 @@
-# Applications - Web, Mobile, API, Voice, Desktop & Console
+# 1. Applications - Web, Mobile, API, Voice, Desktop & Console
 
 **Stateless & Stateful services:**
 * Global Load Balancing, DNS-based & SDN Anycast
@@ -10,7 +10,7 @@
 1. Synchronous, Serving System 
 2. Asynchronous, Event Driven System
 
-# Infrastructure - Network, Compute & Storage
+# 2. Infrastructure - Network, Compute & Storage
  
 1. **"The Log"**
 
