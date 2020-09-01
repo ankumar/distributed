@@ -7,7 +7,7 @@
 * Edge & Cloud Computing
 * Availability, Regions & Zones
 
-1. Synchronous Serving System 
+1. Synchronous, Serving System 
 2. Asynchronous, Event Driven System
 
 # Infrastructure - Network, Compute & Storage
