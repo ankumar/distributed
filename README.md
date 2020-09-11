@@ -10,7 +10,7 @@
 1. Synchronous, Serving System 
 2. Asynchronous, Event Driven System
 
-# 2. Infrastructure - Network, Compute & Storage
+# 2. Infrastructure - Compute, Storage & Network
  
 1. **"The Log"**
 
