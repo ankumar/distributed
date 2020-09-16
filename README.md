@@ -11,6 +11,8 @@
 2. Asynchronous, Event Driven System
 
 # 2. Infrastructure - Compute, Storage & Network
+
+Large-scale distributed infrastructure are:
  
 1. **"The Log"**
 
@@ -70,6 +72,7 @@
 
 **2. Papers:**
 
+* [The Datacenter as a Computer](http://bnrg.eecs.berkeley.edu/~randy/Courses/CS294.F09/wharehousesizedcomputers.pdf)
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
 * [Pitfalls of Anycast](https://www.usenix.org/sites/default/files/conference/protected-files/srecon17emea_slides_murali_suriar.pdf)
