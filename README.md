@@ -1,5 +1,7 @@
 # 1. Products - Web, Mobile, Data, API, Voice, Desktop & Console 
 
+For Improvements Ask End Users, Developers to be critical & actively seek Feedback.
+
 **Stateless & Stateful services:**
 * Global Load Balancing, DNS-based & SDN Anycast
 * Caching & CDN
@@ -67,6 +69,7 @@ Large-scale distributed infrastructure are:
 * [DNS based GSLB](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
 * [Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
 * [Consensus Algorithms at Scale](https://www.planetscale.com/blog/blog-series-consensus-algorithms-at-scale-1)
+* [Steve Yegge’s Google Platform Rant](https://gist.github.com/chitchcock/1281611)
 
 ---
 
