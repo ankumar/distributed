@@ -1,4 +1,4 @@
-# 1. Products - Web, Mobile, Data, API, Voice, Desktop & Console 
+# 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR
 
 For Improvements Ask End Users, Developers to be critical & actively seek Feedback.
 
