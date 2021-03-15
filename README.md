@@ -1,4 +1,4 @@
-# 1. Applications - Web, Mobile, Data, API, Voice, Desktop & Console Products
+# 1. Products - Web, Mobile, Data, API, Voice, Desktop & Console 
 
 **Stateless & Stateful services:**
 * Global Load Balancing, DNS-based & SDN Anycast
