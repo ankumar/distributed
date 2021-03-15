@@ -69,7 +69,7 @@ Large-scale distributed infrastructure are:
 * [DNS based GSLB](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
 * [Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
 * [Consensus Algorithms at Scale](https://www.planetscale.com/blog/blog-series-consensus-algorithms-at-scale-1)
-* [Steve Yegge’s Google Platform Rant](https://gist.github.com/chitchcock/1281611)
+* [Steve Yegge’s Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
 
 ---
 
