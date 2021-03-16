@@ -88,3 +88,4 @@ Large-scale distributed infrastructure are:
 **3. Tech Talks:**
 
 * [Quarantine Database Tech Talks (2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjagqlf1NxuBQwaMkrHXi-iz)
+* [New Directions in Cloud Programming](https://www.youtube.com/watch?v=FeRg-7Sr1L8)
