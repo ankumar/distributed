@@ -83,6 +83,7 @@ Large-scale distributed infrastructure are:
 * [Influence of heavy-tailed distributions on load balancing](http://www.cs.cmu.edu/~harchol/ISCA15show.pdf)
 * [Akamai DNS: Providing Authoritative Answers to the World’s Queries](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2020/07/sigcomm2020-final289.pdf)
 * [Monarch: Google’s Planet-Scale In-Memory Time Series Database](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
+* [Read-Write Quorum Systems Made Practical](https://mwhittaker.github.io/publications/quoracle.html)
 
 ---
 
