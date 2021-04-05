@@ -45,7 +45,7 @@ Large-scale distributed infrastructure are:
 
 **1. Renting:**
 
-![](https://github.com/ankumar/Architecture/blob/main/images/Annual%20CAPEX.png)
+![](https://github.com/ankumar/Architecture/blob/main/images/Cumulative%20CAPEX.jpg)
 
 Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-stakes-2020-retrospective/
 
