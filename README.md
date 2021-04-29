@@ -89,6 +89,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 * [Akamai DNS: Providing Authoritative Answers to the World’s Queries](https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2020/07/sigcomm2020-final289.pdf)
 * [Monarch: Google’s Planet-Scale In-Memory Time Series Database](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
 * [Read-Write Quorum Systems Made Practical](https://mwhittaker.github.io/publications/quoracle.html)
+* [Zanzibar: Google’s Consistent, Global Authorization System](https://news.ycombinator.com/item?id=26980254)
 
 ---
 
