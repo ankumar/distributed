@@ -36,6 +36,10 @@ Large-scale distributed infrastructure are:
 
 * Data Processing - </>
 * Storage - https://delta.io/
+
+4. **Networking**
+
+* https://smi-spec.io/#ecosystem
  
 # 3. References
 
