@@ -74,6 +74,8 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 * [Consensus Algorithms at Scale](https://www.planetscale.com/blog/blog-series-consensus-algorithms-at-scale-1)
 * [Steve Yegge’s Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
 * [Excel is still going strong, just became a Turing-complete programming language!](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
+* [The Distributed Operating System Void](https://nivenly.com/lib/2021-04-02-operating-system-interface/)
+* [COSI - The Common Operating System Interface](https://docs.google.com/document/d/1OuwTSsSsIPefDViheK-nzaF9xSOg1Mn62mwR2FmGPu8/edit#heading=h.1grxkjflkt7d)
 
 ---
 
