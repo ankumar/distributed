@@ -94,6 +94,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 * [Monarch: Google’s Planet-Scale In-Memory Time Series Database](http://www.vldb.org/pvldb/vol13/p3181-adams.pdf)
 * [Read-Write Quorum Systems Made Practical](https://mwhittaker.github.io/publications/quoracle.html)
 * [Zanzibar: Google’s Consistent, Global Authorization System](https://news.ycombinator.com/item?id=26980254)
+* [Colossus - Google’s Storage Foundation](https://www.infoq.com/news/2021/04/google-colossus/)
 
 ---
 
