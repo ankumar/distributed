@@ -16,7 +16,11 @@ For Improvements Ask End Users, Developers to be critical & actively seek Feedba
 
 Large-scale distributed infrastructure are:
  
-1. **"The Log"**
+1. **Authenticate & Authorize**
+
+AWS Identity - [over 400 million API calls EVERY SECOND](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/)
+
+3. **"The Log"**
 
 * Kafka:
   * Benchmarking - https://www.confluent.io/blog/kafka-fastest-messaging-system/
@@ -27,17 +31,17 @@ Large-scale distributed infrastructure are:
 * [Vectorized](https://vectorized.io/) **Redpanda** - Kafka® API compatible, C++ Implementation
 * Write Ahead Log - https://wepay.github.io/waltz/docs/introduction
 
-2. **Purpose-built Databases**
+3. **Purpose-built Databases**
 
 * Key/Value - Cassandra; ScyllaDB, Apache Cassandra in C++
 * Distributed SQL 
 
-3. **Data Warehouse / Data Lake**
+4. **Data Warehouse / Data Lake**
 
 * Data Processing - </>
 * Storage - https://delta.io/
 
-4. **Networking**
+5. **Networking**
 
 * Kubernetes - https://cloud.google.com/blog/products/containers-kubernetes/new-gke-gateway-controller-implements-kubernetes-gateway-api / https://smi-spec.io/#ecosystem
  
