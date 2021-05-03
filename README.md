@@ -20,7 +20,7 @@ Large-scale distributed infrastructure are:
 
 AWS Identity - [over 400 million API calls EVERY SECOND](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/)
 
-3. **"The Log"**
+2. **"The Log"**
 
 * Kafka:
   * Benchmarking - https://www.confluent.io/blog/kafka-fastest-messaging-system/
