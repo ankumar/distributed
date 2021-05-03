@@ -38,8 +38,8 @@ AWS Identity - [over 400 million API calls EVERY SECOND](https://aws.amazon.com/
 
 4. **Data Warehouse / Data Lake**
 
-* Data Processing - </>
 * Storage - [S3](https://www.allthingsdistributed.com/2021/03/happy-15th-birthday-amazon-s3.html) / https://delta.io/
+* Data Processing - </>
 
 5. **Networking**
 
