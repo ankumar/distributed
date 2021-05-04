@@ -47,7 +47,7 @@ Large-scale distributed infrastructure are:
 * Kubernetes - https://cloud.google.com/blog/products/containers-kubernetes/new-gke-gateway-controller-implements-kubernetes-gateway-api / https://smi-spec.io/#ecosystem
 
 6. **Telemetry**
-* eBPF - https://github.com/cloudflare/ebpf_exporter
+* eBPF - https://github.com/cloudflare/ebpf_exporter / https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/
  
 # 3. References
 
