@@ -18,7 +18,7 @@ Large-scale distributed infrastructure are:
  
 1. **Authenticate & Authorize**
 
-AWS Identity - [over 400 million API calls EVERY SECOND](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/)
+* AWS Identity - [over 400 million API calls EVERY SECOND](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/)
 
 2. **"The Log"**
 
