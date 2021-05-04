@@ -22,6 +22,8 @@ Large-scale distributed infrastructure are:
 
 2. **"The Log"**
 
+* [Event-Driven Architectures - The Queue vs The Log](https://jack-vanlightly.com/blog/2018/5/20/event-driven-architectures-the-queue-vs-the-log)
+
 * Kafka:
   * Benchmarking - https://www.confluent.io/blog/kafka-fastest-messaging-system/
   * [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
