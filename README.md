@@ -27,9 +27,10 @@ AWS Identity - [over 400 million API calls EVERY SECOND](https://aws.amazon.com/
   * [Kafka Improvement Proposals](https://cwiki.apache.org/confluence/display/KAFKA/Kafka+Improvement+Proposals)
     * Tiered Storage
     * [Replace Zookeeper - A Raft Protocol for the Metadata Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-595%3A+A+Raft+Protocol+for+the+Metadata+Quorum)
-  
-* [Vectorized](https://vectorized.io/) **Redpanda** - Kafka® API compatible, C++ Implementation
-* Write Ahead Log - https://wepay.github.io/waltz/docs/introduction
+  * [Vectorized](https://vectorized.io/) **Redpanda** - Kafka® API compatible, C++ Implementation
+  * Write Ahead Log - https://wepay.github.io/waltz/docs/introduction
+* Queue:
+  * https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/
 
 3. **Purpose-built Databases**
 
