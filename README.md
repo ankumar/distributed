@@ -50,6 +50,9 @@ Large-scale distributed infrastructure are:
 
 6. **Telemetry**
 * eBPF - https://github.com/cloudflare/ebpf_exporter / https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/
+
+8. **Unix**
+* Evolution of the Unix System Architecture - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704965
  
 # 3. References
 
