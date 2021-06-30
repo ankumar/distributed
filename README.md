@@ -1,8 +1,5 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR
 
-
-# 2. Infrastructure - Compute, Storage & Network
-
 For Improvements Ask End Users, Developers to be critical & actively seek Feedback.
 
 **Stateless & Stateful services:**
@@ -14,6 +11,8 @@ For Improvements Ask End Users, Developers to be critical & actively seek Feedba
 
 1. Synchronous, Serving System 
 2. Asynchronous, Event Driven System
+
+# 2. Infrastructure - Compute, Storage & Network
 
 Large-scale distributed infrastructure:
  
