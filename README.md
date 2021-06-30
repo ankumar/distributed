@@ -59,9 +59,13 @@ Large-scale distributed infrastructure:
 
 ## Small & Medium scale systems
 
+* IAM 
+  * https://www.authorizon.com/ 
+  * https://authzed.com/ 
+
 ## Large scale systems
 
-**1. Renting:**
+**1. As a service:**
 ![](https://github.com/ankumar/Architecture/blob/main/images/Cumulative%20CAPEX.jpg)
 
 Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-stakes-2020-retrospective/
@@ -71,6 +75,10 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 * Cloud Native DB's - https://db.cs.cmu.edu/archived-events/
   * **Distributed SQL** - GCP Spanner,  YugaByte DB (PostgreSQL), MariaDB SkySQL, CockroachDB, ...
   * **Key/Value** - Migrating Amazon retail services to NoSQL, **DynamoDB** ; re:Invent & Twitch Talks from Rick Houlihan 
+
+* IAM 
+  * https://auth0.com/ 
+  * 
   
 * **Providers**
   * [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
