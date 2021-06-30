@@ -65,11 +65,11 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 
 > hyperscalers (Amazon, Google and Microsoft) have moved far outside their initial niche of standard IT infrastructure services. In addition to providing services for developers to reduce time-to-market, they have built specialist services targeted at the major technology trends such as blockchain, 5G, machine learning, artificial intelligence and digital identity. Moreover, they are adding many industry-focused solutions.
 
-* Cloud Native DB's
+* **Cloud Native DB's**
   * **Distributed SQL** - GCP Spanner,  YugaByte DB (PostgreSQL), MariaDB SkySQL, CockroachDB, ...
   * **Key/Value** - Migrating Amazon retail services to NoSQL, **DynamoDB** ; re:Invent & Twitch Talks from Rick Houlihan 
 
-* IAM 
+* **IAM** 
   * https://www.okta.com/ / https://auth0.com/  
   * https://www.authorizon.com/ 
   * https://authzed.com/ 
