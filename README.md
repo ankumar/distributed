@@ -37,6 +37,7 @@ Large-scale distributed infrastructure:
 
 3. **Purpose-built Databases**
 
+Managing state - one of the hardest problem in distributed systems
 * Key/Value - Cassandra; ScyllaDB, Apache Cassandra in C++
 * Distributed SQL 
 
