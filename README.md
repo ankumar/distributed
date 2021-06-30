@@ -58,14 +58,6 @@ Managing state - one of the hardest problem in distributed systems
  
 # 3. References
 
-## Small & Medium scale systems
-
-* IAM 
-  * https://www.authorizon.com/ 
-  * https://authzed.com/ 
-
-## Large scale systems
-
 **1. As a service:**
 ![](https://github.com/ankumar/Architecture/blob/main/images/Cumulative%20CAPEX.jpg)
 
@@ -78,8 +70,9 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
   * **Key/Value** - Migrating Amazon retail services to NoSQL, **DynamoDB** ; re:Invent & Twitch Talks from Rick Houlihan 
 
 * IAM 
-  * https://www.okta.com/ / https://auth0.com/ 
-  * 
+  * https://www.okta.com/ / https://auth0.com/  
+  * https://www.authorizon.com/ 
+  * https://authzed.com/ 
   
 * **Kubernetes**
   * [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
