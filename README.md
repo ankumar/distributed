@@ -1,8 +1,6 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR
 
-For Improvements Ask End Users, Developers to be critical & actively seek Feedback.
-
-**Stateless & Stateful services:**
+**Stateless & Stateful Apps:**
 * Global Load Balancing, DNS-based & SDN Anycast
 * Caching & CDN
 * CAP Theorem
@@ -11,6 +9,9 @@ For Improvements Ask End Users, Developers to be critical & actively seek Feedba
 
 1. Synchronous, Serving System 
 2. Asynchronous, Event Driven System
+
+For Improvements Ask End Users, Developers to be critical & actively seek Feedback.
+
 
 # 2. Infrastructure - Compute, Storage & Network
 
