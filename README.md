@@ -77,7 +77,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
   * **Key/Value** - Migrating Amazon retail services to NoSQL, **DynamoDB** ; re:Invent & Twitch Talks from Rick Houlihan 
 
 * IAM 
-  * https://auth0.com/ 
+  * https://www.okta.com/ / https://auth0.com/ 
   * 
   
 * **Kubernetes**
