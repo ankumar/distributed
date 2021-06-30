@@ -15,7 +15,7 @@ For Improvements Ask End Users, Developers to be critical & actively seek Feedba
 
 # 2. Infrastructure - Compute, Storage & Network
 
-Large-scale distributed infrastructure:
+**Large-scale distributed infrastructure:**
  
 1. **Authenticate & Authorize**
 
