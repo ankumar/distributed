@@ -12,6 +12,7 @@
 
 For Improvements Ask End Users, Developers to be critical & actively seek Feedback.
 
+1. Prime Days - https://aws.amazon.com/blogs/aws/prime-day-2021-two-chart-topping-days/
 
 # 2. Infrastructure - Compute, Storage & Network
 
