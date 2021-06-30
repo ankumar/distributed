@@ -14,11 +14,12 @@ For Improvements Ask End Users, Developers to be critical & actively seek Feedba
 
 # 2. Infrastructure - Compute, Storage & Network
 
-Large-scale distributed infrastructure are:
+Large-scale distributed infrastructure:
  
 1. **Authenticate & Authorize**
 
 * AWS Identity - [over 400 million API calls EVERY SECOND](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/)
+* 
 
 2. **"The Log"**
 
