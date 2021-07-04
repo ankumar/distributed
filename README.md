@@ -1,6 +1,6 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR
 
-**Stateless & Stateful Apps:**
+**Stateless & Stateful:**
 * Global Load Balancing, DNS-based & SDN Anycast
 * Caching & CDN
 * CAP Theorem
