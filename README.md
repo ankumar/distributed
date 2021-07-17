@@ -21,7 +21,7 @@ For Improvements Ask End Users, Developers to be critical & actively seek Feedba
 1. **Authenticate & Authorize**
 
 * AWS Identity - [over 400 million API calls EVERY SECOND](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/)
-* 
+* Azure AD - [Manages more than 1.2 billion identities and processes over 8 billion authentications every day](https://azure.microsoft.com/en-us/services/active-directory/)
 
 2. **"The Log"**
 
