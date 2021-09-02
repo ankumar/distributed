@@ -104,6 +104,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 
 **2. Papers:**
 
+* [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
 * [The Datacenter as a Computer](http://bnrg.eecs.berkeley.edu/~randy/Courses/CS294.F09/wharehousesizedcomputers.pdf)
 * [Fail at Scale](https://queue.acm.org/detail.cfm?id=2839461)
 * [Zero downtime deployments at Facebook](https://dl.acm.org/doi/abs/10.1145/3387514.3405885)
