@@ -91,6 +91,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 
 **1. Blogs:**
 
+* [the morning paper](https://blog.acolyer.org/)
 * [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
 * [DNS based GSLB](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
 * [Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
@@ -99,6 +100,8 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 * [Excel is still going strong, just became a Turing-complete programming language!](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 * [The Distributed Operating System Void](https://nivenly.com/lib/2021-04-02-operating-system-interface/)
 * [COSI - The Common Operating System Interface](https://docs.google.com/document/d/1OuwTSsSsIPefDViheK-nzaF9xSOg1Mn62mwR2FmGPu8/edit#heading=h.1grxkjflkt7d)
+* [Micah Lerner](https://www.micahlerner.com/)
+* [Metadata](http://muratbuffalo.blogspot.com/)
 
 ---
 
