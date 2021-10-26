@@ -1,15 +1,5 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR
 
-**Stateless & Stateful:**
-* Global Load Balancing, DNS-based & SDN Anycast
-* Caching & CDN
-* CAP Theorem
-* Edge & Cloud Computing
-* Availability, Regions & Zones
-
-1. Synchronous, Serving System 
-2. Asynchronous, Event Driven System
-
 For Improvements Ask End Users, Developers to be critical & actively seek Feedback.
 
 1. Prime Days - https://aws.amazon.com/blogs/aws/prime-day-2021-two-chart-topping-days/
