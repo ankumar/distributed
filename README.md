@@ -45,6 +45,7 @@ Managing state - one of the hardest problem in distributed systems
 
 4. **Data Warehouse / Data Lake**
 
+* https://ai100.stanford.edu/
 * Storage - [Cloud, S3](https://www.allthingsdistributed.com/2021/03/happy-15th-birthday-amazon-s3.html) / Open Source https://delta.io/
 * Data Processing - </>
 
