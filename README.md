@@ -106,7 +106,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 
 ---
 
-**2. Papers:**
+**2. Publications:**
 
 * [Architecting the Future of Software Engineering: A National Agenda for Software Engineering Research & Development](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=741193)
 * [From Cloud Computing to Sky Computing](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s02-stoica.pdf)
