@@ -8,11 +8,14 @@
   * https://stepzen.com/docs 
   * https://stoplight.io/studio/
 
+* Public API Network: https://www.postman.com/explore 
+
+Tools & Frameworks:
 * GraphQL:
 * Protocol Buffers: 
-  * FW - https://buf.build/
+  * https://buf.build/
 * REST:
-  * FW - https://linkedin.github.io/rest.li/ 
+  * https://linkedin.github.io/rest.li/ 
 
 2. **Data:**
 
