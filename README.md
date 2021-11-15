@@ -4,9 +4,9 @@
 
 1. **API:**
 * GraphQL:
-  * https://stepzen.com/docs 
+  * Studio - https://stepzen.com/docs 
 * Protocol Buffers: 
-  * https://buf.build/
+  * FW - https://buf.build/
 * REST:
   * https://stoplight.io/studio/
   * FW - https://linkedin.github.io/rest.li/ 
