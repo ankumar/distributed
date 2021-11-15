@@ -11,7 +11,7 @@
   * https://stoplight.io/studio/
   * FW - https://linkedin.github.io/rest.li/ 
 
-2. **Models:**
+2. **Data:**
 * Database:
   * [Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
   * Studio - https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html / https://dynobase.dev/
