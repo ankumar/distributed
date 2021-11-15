@@ -6,6 +6,7 @@
 * Protocol Buffers: 
   * https://buf.build/
 * REST:
+  * https://linkedin.github.io/rest.li/ 
 
 2. **Models:**
 * Metadata: 
