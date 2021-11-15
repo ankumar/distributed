@@ -2,6 +2,8 @@
 
 **Modeling ...**
 
+Please note the Samples is not meant to be exhaustive 
+
 1. **API:**
 * GraphQL:
   * Studio - https://stepzen.com/docs 
