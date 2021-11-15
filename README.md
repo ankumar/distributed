@@ -1,7 +1,7 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR
 
 Models:
-1. Metadata: [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
+1. Metadata: [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md), [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
 
 # 2. Infrastructure - Compute, Storage & Network
 
