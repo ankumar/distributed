@@ -8,7 +8,8 @@
 * Protocol Buffers: 
   * https://buf.build/
 * REST:
-  * https://linkedin.github.io/rest.li/ 
+  * https://stoplight.io/studio/
+  * FW - https://linkedin.github.io/rest.li/ 
 
 2. **Models:**
 * Database:
