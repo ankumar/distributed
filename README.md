@@ -6,12 +6,14 @@ Please note the Samples is not meant to be exhaustive
 
 1. **API:**
 * GraphQL:
-  * Studio - https://stepzen.com/docs 
 * Protocol Buffers: 
   * FW - https://buf.build/
 * REST:
-  * https://stoplight.io/studio/
   * FW - https://linkedin.github.io/rest.li/ 
+
+* Studios: 
+  * https://stepzen.com/docs 
+  * https://stoplight.io/studio/
 
 2. **Data:**
 * Database:
