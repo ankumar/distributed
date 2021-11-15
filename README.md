@@ -14,6 +14,7 @@
 2. **Models:**
 * Database:
   * [Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
+  * Studio - https://www.sensedeep.com/index.html
 * Metadata: 
   * [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
   * [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
