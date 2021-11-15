@@ -2,6 +2,9 @@
 
 For Improvements Ask End Users, Developers to be critical & actively seek Feedback.
 
+Models:
+1. Metadata: [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
+
 # 2. Infrastructure - Compute, Storage & Network
 
 **Stateless & Stateful:**
