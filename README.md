@@ -9,6 +9,7 @@ Models:
 * [Azure opendigitaltwins](https://github.com/Azure/opendigitaltwins-building)
 * [AWS IoT Things Graph](https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html)
 * [Google Digital Buildings](https://google.github.io/digitalbuildings/)
+* [Smart Data Models](https://smartdatamodels.org/)
 
 
 # 2. Infrastructure - Compute, Storage & Network
