@@ -37,6 +37,9 @@ Example Infrastructure:
 
 -- https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/5-what-is.zomg
 
+**Configuration:**
+* https://docs.dagger.io/1005/what-is-cue/
+
 **Stateless & Stateful:**
 * Global Load Balancing, DNS-based & SDN Anycast
 * Caching & CDN
