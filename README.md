@@ -2,17 +2,15 @@
 
 1. **API:**
 
-
 2. **Models:**
-
-1. Metadata: 
-* [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
-* [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
-2. Things:
-* [Azure opendigitaltwins](https://github.com/Azure/opendigitaltwins-building)
-* [AWS IoT Things Graph](https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html)
-* [Google Digital Buildings](https://google.github.io/digitalbuildings/)
-* [Smart Data Models](https://smartdatamodels.org/)
+* Metadata: 
+  * [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
+  * [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
+* Things:
+  * [Azure opendigitaltwins](https://github.com/Azure/opendigitaltwins-building)
+  * [AWS IoT Things Graph](https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html)
+  * [Google Digital Buildings](https://google.github.io/digitalbuildings/)
+  * [Smart Data Models](https://smartdatamodels.org/)
 
 
 # 2. Infrastructure - Compute, Storage & Network
