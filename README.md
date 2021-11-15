@@ -1,6 +1,10 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR
 
 1. **API:**
+* GraphQL:
+* REST:
+* Protocol Buffers: 
+  * https://buf.build/
 
 2. **Models:**
 * Metadata: 
