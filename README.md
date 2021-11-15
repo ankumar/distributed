@@ -2,9 +2,9 @@
 
 1. **API:**
 * GraphQL:
-* REST:
 * Protocol Buffers: 
   * https://buf.build/
+* REST:
 
 2. **Models:**
 * Metadata: 
