@@ -10,12 +10,12 @@
 
 * Public API Network: https://www.postman.com/explore 
 
-Tools & Frameworks:
-* GraphQL:
-* Protocol Buffers: 
-  * https://buf.build/
-* REST:
-  * https://linkedin.github.io/rest.li/ 
+* Tools & Frameworks:
+  * GraphQL:
+  * Protocol Buffers: 
+    * https://buf.build/
+  * REST:
+    * https://linkedin.github.io/rest.li/ 
 
 2. **Data:**
 
