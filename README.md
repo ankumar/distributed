@@ -5,23 +5,26 @@
 Please note the Samples is not meant to be exhaustive 
 
 1. **API:**
+
+* Studios: 
+  * https://stepzen.com/docs 
+  * https://stoplight.io/studio/
+
 * GraphQL:
 * Protocol Buffers: 
   * FW - https://buf.build/
 * REST:
   * FW - https://linkedin.github.io/rest.li/ 
 
-* Studios: 
-  * https://stepzen.com/docs 
-  * https://stoplight.io/studio/
-
 2. **Data:**
-* Database:
-  * [Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
-  * Studios: 
+
+ * Studios: 
     * https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
     * https://dynobase.dev/
     * https://cloud.prisma.io/
+
+* Database:
+  * [Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
 * Metadata: 
   * [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
   * [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
