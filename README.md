@@ -1,7 +1,15 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR
 
 Models:
-1. Metadata: [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md), [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
+
+1. Metadata: 
+* [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
+* [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
+2. Things:
+* [Azure opendigitaltwins](https://github.com/Azure/opendigitaltwins-building)
+* [AWS IoT Things Graph](https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html)
+* [Google Digital Buildings](https://google.github.io/digitalbuildings/)
+
 
 # 2. Infrastructure - Compute, Storage & Network
 
