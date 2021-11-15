@@ -1,7 +1,5 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR
 
-For Improvements Ask End Users, Developers to be critical & actively seek Feedback.
-
 Models:
 1. Metadata: [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
 
