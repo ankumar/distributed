@@ -1,6 +1,6 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-**Design & Dev...** Please note the Samples is not meant to be exhaustive 
+**Design & ...** Please note the Samples is not meant to be exhaustive 
 
 1. **API:**
 
