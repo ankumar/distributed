@@ -56,6 +56,10 @@ Example Infrastructure:
 **Configuration:**
 * https://docs.dagger.io/1005/what-is-cue/
 
+**Modelling distributed systems:**
+* TLA+
+* [The P programming language](https://github.com/p-org/P)
+
 **Stateless & Stateful:**
 * Global Load Balancing, DNS-based & SDN Anycast
 * Caching & CDN
