@@ -56,7 +56,7 @@ Example Infrastructure:
 **Configuration:**
 * https://docs.dagger.io/1005/what-is-cue/
 
-**Modelling distributed systems:**
+**Modelling systems:**
 * [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
 * [The P programming language](https://github.com/p-org/P)
 
