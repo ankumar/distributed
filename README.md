@@ -27,8 +27,9 @@
       * https://www.prisma.io/studio
 
 * Database:
-  * [Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
-  * ["application models"](https://www.prisma.io/docs/concepts/overview/what-is-prisma/data-modeling)
+  * [The PlanetScale workflow](https://docs.planetscale.com/concepts/planetscale-workflow)
+  * [DynamoDB - Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
+  * [Prisma - "application models"](https://www.prisma.io/docs/concepts/overview/what-is-prisma/data-modeling)
 * Metadata: 
   * [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
   * [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
