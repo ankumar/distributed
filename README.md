@@ -130,6 +130,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
   
 * **Kubernetes**
   * [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
+  * https://www.slim.ai/
 
 **2. Building:**
 
