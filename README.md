@@ -11,6 +11,8 @@
 * Public API Network: https://www.postman.com/explore 
 
 * Tools & Frameworks:
+  * Dev:
+    * https://vscode.dev/ 
   * GraphQL:
     * https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql 
   * Protocol Buffers: 
