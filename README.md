@@ -160,6 +160,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 * [100 Year Study on AI released its 2021 Report](https://ai100.stanford.edu/)
 * [Our Journey towards Data-Centric AI: A Retrospective](https://ai.stanford.edu/blog/data-centric-ai-retrospective/)
 * [Architecting the Future of Software Engineering: A National Agenda for Software Engineering Research & Development](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=741193)
+* [Why AI is Harder Than We Think](https://arxiv.org/abs/2104.12871)
 * [Cloud Infrastructure Services: An analysis of potentially anti-competitive practices](https://www.fairsoftwarestudy.com/)
 * [From Cloud Computing to Sky Computing](https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s02-stoica.pdf)
 * [Why Google Stores Billions of Lines of Code in a Single Repository](https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext)
