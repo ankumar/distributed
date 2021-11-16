@@ -13,6 +13,7 @@
 * Tools & Frameworks:
   * Dev:
     * https://vscode.dev/ 
+    * Developers & Community - https://octoverse.github.com/
   * GraphQL:
     * https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql 
   * Protocol Buffers: 
