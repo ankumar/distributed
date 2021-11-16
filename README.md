@@ -24,7 +24,7 @@
     * https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
     * https://dynobase.dev/
     * https://cloud.prisma.io/
-      * Desktop - https://www.prisma.io/studio
+      * Mac/Linux/Windows - https://www.prisma.io/studio
 
 * Database:
   * [The PlanetScale Workflow](https://docs.planetscale.com/concepts/planetscale-workflow)
