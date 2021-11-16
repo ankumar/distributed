@@ -2,7 +2,7 @@
 
 **Design & Modeling ...** Please note the Samples are not meant to be exhaustive.
 
-1. **UI/UX/DX & API:**
+1. **Abstractions - UI/UX/DX & API:**
 
 * Studios: 
   * https://stepzen.com/docs 
