@@ -149,6 +149,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 **1. Blogs:**
 
 * [the morning paper](https://blog.acolyer.org/)
+* [Marc's Blog](https://brooker.co.za/blog/)
 * [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
 * [DNS based GSLB](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
 * [Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
