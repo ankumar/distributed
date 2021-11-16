@@ -27,7 +27,7 @@
       * https://www.prisma.io/studio
 
 * Database:
-  * [The PlanetScale workflow](https://docs.planetscale.com/concepts/planetscale-workflow)
+  * [The PlanetScale Workflow](https://docs.planetscale.com/concepts/planetscale-workflow)
   * [DynamoDB - Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
   * [Prisma - "application models"](https://www.prisma.io/docs/concepts/overview/what-is-prisma/data-modeling)
 * Metadata: 
