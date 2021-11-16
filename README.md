@@ -12,6 +12,7 @@
 
 * Tools & Frameworks:
   * GraphQL:
+    * https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql 
   * Protocol Buffers: 
     * https://buf.build/
   * REST:
