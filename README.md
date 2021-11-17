@@ -36,7 +36,7 @@
 * Metadata: 
   * [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
   * [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
-* "Edge" / Things:
+* "Edge" / Things & More:
   * [Azure opendigitaltwins](https://github.com/Azure/opendigitaltwins-building)
   * [AWS IoT Things Graph](https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html)
   * [Google Digital Buildings](https://google.github.io/digitalbuildings/)
