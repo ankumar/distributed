@@ -4,11 +4,11 @@
 
 1. **Abstractions - UI/UX/DX & API:**
 
+* Public API Network: https://www.postman.com/explore 
+
 * Studios: 
   * https://stepzen.com/docs 
   * https://stoplight.io/studio/
-
-* Public API Network: https://www.postman.com/explore 
 
 * Tools & Frameworks:
   * Dev:
