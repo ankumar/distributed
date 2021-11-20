@@ -8,7 +8,7 @@
 
 * Tools & Frameworks:
   * Dev:
-    * https://vscode.dev/ 
+    * Web - https://vscode.dev/ 
     * Communities - https://octoverse.github.com/
   * Studios: 
     * https://stepzen.com/docs 
