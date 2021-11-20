@@ -2,7 +2,7 @@
 
 **Design & Modeling ...** Please note the Samples are not meant to be exhaustive.
 
-1. **Abstractions - UI/UX/DX & API:**
+1. **Abstractions - UI/UX/DX/API:**
 
 * SaaS: https://www.postman.com/explore 
 
