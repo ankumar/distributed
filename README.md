@@ -4,7 +4,7 @@
 
 1. **Abstractions - UI/UX/DX & API:**
 
-* Public API Network: https://www.postman.com/explore 
+* SaaS: https://www.postman.com/explore 
 
 * Studios: 
   * https://stepzen.com/docs 
