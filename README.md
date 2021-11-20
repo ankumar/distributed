@@ -10,10 +10,9 @@
   * Dev:
     * Web - https://vscode.dev/ 
     * Communities - https://octoverse.github.com/
-  * Studios: 
+  * REST, GraphQL & Protocol Buffers: 
     * https://stepzen.com/docs 
     * https://stoplight.io/studio/
-  * REST, GraphQL & Protocol Buffers: 
     * https://buf.build/
     * https://linkedin.github.io/rest.li/ 
     * https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql 
