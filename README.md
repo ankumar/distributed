@@ -10,7 +10,7 @@
   * Dev:
     * Web - https://vscode.dev/ 
     * Communities - https://octoverse.github.com/
-  * REST, GraphQL & Protocol Buffers: 
+  * REST, GraphQL, Protocol Buffers, AsyncAPI: 
     * https://stepzen.com/docs 
     * https://stoplight.io/studio/
     * https://buf.build/
