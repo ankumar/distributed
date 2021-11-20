@@ -6,20 +6,17 @@
 
 * SaaS: https://www.postman.com/explore 
 
-* Studios: 
-  * https://stepzen.com/docs 
-  * https://stoplight.io/studio/
-
 * Tools & Frameworks:
   * Dev:
     * https://vscode.dev/ 
     * Communities - https://octoverse.github.com/
-  * GraphQL:
-    * https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql 
-  * Protocol Buffers: 
+  * Studios: 
+    * https://stepzen.com/docs 
+    * https://stoplight.io/studio/
+  * REST, GraphQL & Protocol Buffers: 
     * https://buf.build/
-  * REST:
     * https://linkedin.github.io/rest.li/ 
+    * https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql 
 
 2. **Data:**
 
@@ -36,6 +33,8 @@
   * [The PlanetScale Workflow](https://docs.planetscale.com/concepts/planetscale-workflow)
   * [DynamoDB - Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
   * [Prisma - "application models"](https://www.prisma.io/docs/concepts/overview/what-is-prisma/data-modeling)
+  
+
 * Metadata: 
   * [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
   * [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
