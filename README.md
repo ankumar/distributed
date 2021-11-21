@@ -23,7 +23,7 @@
 2. **Data:**
 
  * Distributed
-    * Anyscale / Ray - https://www.youtube.com/watch?v=dn8hu2sgRWU)
+    * Anyscale / Ray - https://www.youtube.com/watch?v=dn8hu2sgRWU
  
  * Studios: 
     * https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
