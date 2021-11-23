@@ -1,6 +1,6 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-**Design & Modeling ...** Please note the Samples are not meant to be exhaustive.
+- Design & Modeling
 
 1. **Abstractions - UI/UX/DX/API:**
 
