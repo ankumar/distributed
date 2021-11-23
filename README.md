@@ -2,8 +2,7 @@
 
 - Design & Modeling
 - Abstractions - UI/UX/DX/API
-
-* SaaS: https://www.postman.com/explore 
+- SaaS N/W - https://www.postman.com/explore 
 
 **Tools & Frameworks:**
   * Dev:
