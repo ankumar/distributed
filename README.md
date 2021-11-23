@@ -5,7 +5,7 @@
 
 * SaaS: https://www.postman.com/explore 
 
-* Tools & Frameworks:
+**Tools & Frameworks:**
   * Dev:
     * Web - https://vscode.dev/ 
     * Communities - https://octoverse.github.com/
@@ -19,7 +19,7 @@
   * Cloud Sandbox:
     * </> 
 
-2. **Data:**
+**Data:**
 
  * Distributed
     * Anyscale / Ray - https://www.youtube.com/watch?v=dn8hu2sgRWU
