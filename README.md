@@ -9,6 +9,7 @@
    
   * Dev Studios:
     * Web - https://vscode.dev/ 
+    * Auth - https://play.authzed.com/
     * REST -  https://stoplight.io/studio/
     * GraphQL - https://www.apollographql.com/studio/develop/ / https://graphql.stepzen.com/ / https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql / https://hopper.wundergraph.com/ / 
     * Protocol Buffers - https://buf.build/
