@@ -1,8 +1,8 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-- Design & Modeling - Dev Studios
 - Abstractions - UI/UX/DX/API
-- SaaS N/W - https://www.postman.com/explore 
+- Design & Modeling - Dev Studios
+- SaaS - https://www.postman.com/explore 
 
 **Tools & Frameworks:**
   * Communities - https://octoverse.github.com/
