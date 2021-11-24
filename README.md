@@ -9,10 +9,11 @@
    
   * Dev Studios:
     * Web - https://vscode.dev/ 
-    * REST - https://linkedin.github.io/rest.li/  / https://stoplight.io/studio/
+    * REST -  https://stoplight.io/studio/
     * GraphQL - https://www.apollographql.com/studio/develop/ / https://graphql.stepzen.com/ / https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql / https://hopper.wundergraph.com/ / 
     * Protocol Buffers - https://buf.build/
     * AsyncAPI: 
+    * FW's: https://linkedin.github.io/rest.li/
     
   * Cloud Sandbox:
     * </> 
