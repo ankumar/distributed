@@ -3,13 +3,12 @@
 - Abstractions - UI/UX/DX/API
 - Design & Modeling - Dev Studios
 - SaaS - https://www.postman.com/explore 
-
-**Tools & Frameworks:**
-  * Communities - https://octoverse.github.com/
+- Tools & Frameworks
+- Communities - https://octoverse.github.com/
    
   * Dev Studios:
     * Web - https://vscode.dev/ 
-    * Auth - https://play.authzed.com/
+    * Auth - https://play.authzed.com/ / https://www.osohq.com/what-is-oso
     * REST -  https://stoplight.io/studio/
     * GraphQL - https://www.apollographql.com/studio/develop/ / https://graphql.stepzen.com/ / https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql / https://hopper.wundergraph.com/ / 
     * Protocol Buffers - https://buf.build/
