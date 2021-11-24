@@ -3,9 +3,6 @@
 - Abstractions UI/UX/DX/API
 - Tools & Frameworks
 - Design & Modeling
-- SaaS N/W https://www.postman.com/explore 
-- Communities https://octoverse.github.com/
-   
   * Dev Studios:
     * Web - https://vscode.dev/ 
     * Auth - https://play.authzed.com/ / https://www.osohq.com/what-is-oso
@@ -14,9 +11,13 @@
     * Protocol Buffers - https://buf.build/
     * AsyncAPI: https://www.asyncapi.com/
     * FW's: https://linkedin.github.io/rest.li/
-    
+   
   * Cloud Sandbox:
     * </> 
+
+- SaaS N/W https://www.postman.com/explore 
+
+- Communities https://octoverse.github.com/
 
 # 2. Infrastructure - Compute, Storage & Network
 
