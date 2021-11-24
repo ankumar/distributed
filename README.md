@@ -1,19 +1,18 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-- Design & Modeling - </>
+- Design & Modeling - Dev Studios
 - Abstractions - UI/UX/DX/API
 - SaaS N/W - https://www.postman.com/explore 
 
 **Tools & Frameworks:**
-  * Dev:
+  * Dev Studios:
     * Web - https://vscode.dev/ 
     * Communities - https://octoverse.github.com/
-  * REST, GraphQL, Protocol Buffers, AsyncAPI: 
-    * https://linkedin.github.io/rest.li/  
+    * REST - https://linkedin.github.io/rest.li/  
     * https://stoplight.io/studio/
-    * https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql 
-    * https://stepzen.com/docs
-    * https://buf.build/
+    * GraphQL - https://stepzen.com/docs / https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql 
+    * Protocol Buffers - ttps://buf.build/
+    * AsyncAPI: 
     
   * Cloud Sandbox:
     * </> 
