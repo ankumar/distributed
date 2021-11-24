@@ -22,8 +22,8 @@
 
 
 **Data:**
-
- * Distributed
+ 
+ * Analytics
     * Anyscale / Ray - https://www.youtube.com/watch?v=dn8hu2sgRWU
  
  * Studios: 
