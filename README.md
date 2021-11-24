@@ -18,35 +18,6 @@
   * Cloud Sandbox:
     * </> 
 
-
-
-**Data:**
- 
- * Analytics
-    * Anyscale / Ray - https://www.youtube.com/watch?v=dn8hu2sgRWU
- 
- * Studios: 
-    * https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
-    * https://dynobase.dev/
-    * https://cloud.prisma.io/
-      * Mac/Linux/Windows - https://www.prisma.io/studio
-
-* Database:
-  * [The PlanetScale Workflow](https://docs.planetscale.com/concepts/planetscale-workflow)
-  * [DynamoDB - Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
-  * [Prisma - "application models"](https://www.prisma.io/docs/concepts/overview/what-is-prisma/data-modeling)
-  
-
-* Metadata: 
-  * [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
-  * [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
-* Things & More:
-  * [Azure opendigitaltwins](https://github.com/Azure/opendigitaltwins-building)
-  * [AWS IoT Things Graph](https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html)
-  * [Google Digital Buildings](https://google.github.io/digitalbuildings/)
-  * [Smart Data Models](https://smartdatamodels.org/)
-
-
 # 2. Infrastructure - Compute, Storage & Network
 
 - The bottom half of the OSI reference model?
@@ -105,6 +76,30 @@ Example Infrastructure:
 Managing state - one of the hardest problem in distributed systems
 * Key/Value - Cassandra; ScyllaDB, Apache Cassandra in C++
 * Distributed SQL 
+ 
+ * Analytics
+    * Anyscale / Ray - https://www.youtube.com/watch?v=dn8hu2sgRWU
+ 
+ * Studios: 
+    * https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
+    * https://dynobase.dev/
+    * https://cloud.prisma.io/
+      * Mac/Linux/Windows - https://www.prisma.io/studio
+
+* Database:
+  * [The PlanetScale Workflow](https://docs.planetscale.com/concepts/planetscale-workflow)
+  * [DynamoDB - Single-Table Modeling](https://amazondynamodbofficehrs.splashthat.com/)
+  * [Prisma - "application models"](https://www.prisma.io/docs/concepts/overview/what-is-prisma/data-modeling)
+  
+
+* Metadata: 
+  * [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
+  * [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
+* Things & More:
+  * [Azure opendigitaltwins](https://github.com/Azure/opendigitaltwins-building)
+  * [AWS IoT Things Graph](https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html)
+  * [Google Digital Buildings](https://google.github.io/digitalbuildings/)
+  * [Smart Data Models](https://smartdatamodels.org/)
 
 4. **Data Warehouse / Data Lake**
 
