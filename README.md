@@ -3,23 +3,24 @@
 - Abstractions UI/UX/DX/API
 - Tools & Frameworks
 - Design & Modeling
-  * Dev Studios:
-    * Web - https://vscode.dev/ 
-    * Auth - https://play.authzed.com/ / https://www.osohq.com/what-is-oso
-    * REST -  https://stoplight.io/studio/
-    * GraphQL - https://www.apollographql.com/studio/develop/ / https://graphql.stepzen.com/ / https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql / https://hopper.wundergraph.com/ / 
-    * Protocol Buffers - https://buf.build/
-    * AsyncAPI: https://www.asyncapi.com/
-    * FW's: https://linkedin.github.io/rest.li/
+  - Dev Studios:
+    - Web - https://vscode.dev/ 
+    - Auth - https://play.authzed.com/ / https://www.osohq.com/what-is-oso
+    - REST -  https://stoplight.io/studio/
+    - GraphQL - https://www.apollographql.com/studio/develop/ / https://graphql.stepzen.com/ / https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql / https://hopper.wundergraph.com/ / 
+    - Protocol Buffers - https://buf.build/
+    - AsyncAPI: https://www.asyncapi.com/
+    - FW's: https://linkedin.github.io/rest.li/
    
-  * Cloud Sandbox:
-    * </> 
+  - Cloud Sandbox:
+    - </> 
 
-- SaaS N/W https://www.postman.com/explore 
+- SaaS:
+  - https://www.postman.com/explore 
 
 - Communities:
-  * GitHub - https://octoverse.github.com/
-  * Platforms for Open Source Creators - https://www.oss.fund/
+  - GitHub - https://octoverse.github.com/
+  - Platforms for Open Source Creators - https://www.oss.fund/
 
 # 2. Infrastructure - Compute, Storage & Network
 
