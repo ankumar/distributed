@@ -1,7 +1,12 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
+- SaaS:
+  - https://www.postman.com/explore 
+
 - Abstractions UI/UX/DX/API
+
 - Tools & Frameworks
+
 - Design & Modeling
   - Dev Studios:
     - Web - https://vscode.dev/ 
@@ -14,9 +19,6 @@
    
   - Cloud Sandbox:
     - </> 
-
-- SaaS:
-  - https://www.postman.com/explore 
 
 - Communities:
   - GitHub - https://octoverse.github.com/
