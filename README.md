@@ -17,7 +17,9 @@
 
 - SaaS N/W https://www.postman.com/explore 
 
-- Communities https://octoverse.github.com/
+- Communities:
+  * GitHub - https://octoverse.github.com/
+  * Platforms for Open Source Creators - https://www.oss.fund/
 
 # 2. Infrastructure - Compute, Storage & Network
 
