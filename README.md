@@ -1,9 +1,7 @@
 # 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-- SaaS:
+- SaaS & Abstractions UI/UX/DX/API
   - https://www.postman.com/explore 
-
-- Abstractions UI/UX/DX/API
 
 - Tools & Frameworks
 
