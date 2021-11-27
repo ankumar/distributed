@@ -1,4 +1,4 @@
-# 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
+## 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 - SaaS / Abstractions UI/UX/DX/API
   - https://www.postman.com/explore 
@@ -20,7 +20,7 @@
   - GitHub - https://octoverse.github.com/
   - Platforms for Open Source Creators - https://www.oss.fund/
 
-# 2. Infrastructure - Compute, Storage & Network
+## 2. Infrastructure - Compute, Storage & Network
 
 - The bottom half of the OSI reference model?
 - Compute, Network, Storage
