@@ -1,7 +1,7 @@
 ## 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 - UX / DX / SaaS / **Abstractions** / API / UI
-  - API Graph: 
+  - Graph: 
     - https://www.postman.com/explore 
   - Docs:
     - https://stripe.com/docs
