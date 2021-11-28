@@ -3,8 +3,8 @@
 - UX / DX / SaaS / **Abstractions** / API / UI
   - API Graph: 
     - https://www.postman.com/explore 
-  - Docs:
-    - Finance: https://stripe.com/docs
+  - Finance:
+    - https://stripe.com/docs
 
 - Design / Modeling / **Code** / Tools / Frameworks
   - Dev Studios:
