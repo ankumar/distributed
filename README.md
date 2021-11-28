@@ -6,7 +6,7 @@
   - Docs:
     - https://stripe.com/docs
 
-- Design / Modeling / Tools / Frameworks
+- Design / Modeling / Code / Tools / Frameworks
   - Dev Studios:
     - Web - https://github.dev/ , https://vscode.dev/ 
     - Auth - https://play.authzed.com/ , https://www.osohq.com/what-is-oso
