@@ -16,7 +16,7 @@
     - AsyncAPI: https://www.asyncapi.com/
     - FW's: https://linkedin.github.io/rest.li/
    
-- Run
+- Platforms
   - Cloud Sandbox:
     - </> 
 
