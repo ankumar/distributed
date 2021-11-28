@@ -5,7 +5,7 @@
 
 - Design / Modeling / Tools / Frameworks
   - Dev Studios:
-    - Web - https://vscode.dev/ 
+    - Web - https://github.dev/ / https://vscode.dev/ 
     - Auth - https://play.authzed.com/ / https://www.osohq.com/what-is-oso
     - REST -  https://stoplight.io/studio/
     - GraphQL - https://www.apollographql.com/studio/develop/ / https://graphql.stepzen.com/ / https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql / https://hopper.wundergraph.com/ / 
