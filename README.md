@@ -4,7 +4,7 @@
   - API Graph: 
     - https://www.postman.com/explore 
   - Docs:
-    - https://stripe.com/docs
+    - Finance: https://stripe.com/docs
 
 - Design / Modeling / **Code** / Tools / Frameworks
   - Dev Studios:
