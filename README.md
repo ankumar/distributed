@@ -1,12 +1,12 @@
 ## 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-- UX / DX / SaaS / Abstractions / API / UI
+- UX / DX / SaaS / **Abstractions** / API / UI
   - API Graph: 
     - https://www.postman.com/explore 
   - Docs:
     - https://stripe.com/docs
 
-- Design / Modeling / Code / Tools / Frameworks
+- Design / Modeling / **Code** / Tools / Frameworks
   - Dev Studios:
     - Web - https://github.dev/ , https://vscode.dev/ 
     - Auth - https://play.authzed.com/ , https://www.osohq.com/what-is-oso
