@@ -3,7 +3,7 @@
 - SaaS / Abstractions / UI/UX/DX/API
   - https://www.postman.com/explore 
 
-- Design & Modeling / Tools & Frameworks
+- Design / Modeling / Tools / Frameworks
   - Dev Studios:
     - Web - https://vscode.dev/ 
     - Auth - https://play.authzed.com/ / https://www.osohq.com/what-is-oso
