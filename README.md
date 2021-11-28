@@ -3,6 +3,8 @@
 - SaaS / Abstractions / UI/UX/DX/API
   - API Graph: 
     - https://www.postman.com/explore 
+  - Docs:
+    - https://stripe.com/docs
 
 - Design / Modeling / Tools / Frameworks
   - Dev Studios:
