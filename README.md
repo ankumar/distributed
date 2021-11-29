@@ -11,8 +11,6 @@
   - Open source API specifications - OpenAPI, AsyncAPI, and JSON Schema 
   
   - Devs:
-    - OpenAI - https://copilot.github.com/ | 
-    - Code Gen - https://www.hofstadter.io/ | 
     - App - https://www.prisma.io/dataplatform 
     - Web IDE - https://github.dev/ | https://vscode.dev/  
     - Auth - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
@@ -21,6 +19,8 @@
     - Protocol Buffers - https://buf.build/
     - AsyncAPI: https://www.asyncapi.com/
     - FW's: https://linkedin.github.io/rest.li/
+    - OpenAI - https://copilot.github.com/ | 
+    - Code Gen - https://www.hofstadter.io/ | 
    
 - Platforms
   - Cloud Sandbox:
