@@ -104,7 +104,7 @@ Managing state - one of the hardest problem in distributed systems
 * Metadata: 
   * [LinkedIn GMA](https://github.com/linkedin/datahub-gma/blob/master/docs/how/metadata-modelling.md)
   * [OpenMetadata](https://docs.open-metadata.org/openmetadata/schemas)
-* Sense (See) Think Act, Things & More:
+* Things & More:
   * [Azure opendigitaltwins](https://github.com/Azure/opendigitaltwins-building)
   * [AWS IoT Things Graph](https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html)
   * [Google Digital Buildings](https://google.github.io/digitalbuildings/)
