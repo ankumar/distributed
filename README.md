@@ -1,6 +1,6 @@
 ## 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-- Beauty: SaaS / **Abstractions**
+- Beauty: SaaS / **Abstractions** :heart:
   - API Graphs: 
     - https://www.postman.com/explore 
   - Docs:
