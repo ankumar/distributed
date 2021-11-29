@@ -8,8 +8,7 @@
     - https://shopify.dev/api | 
 
 - Design / Modeling / Tools / Frameworks / **Code** 
-  - Open source API specifications
-    - OpenAPI, AsyncAPI, and JSON Schema 
+  - Open source API specifications - OpenAPI, AsyncAPI, and JSON Schema 
   
   - Devs:
     - OpenAI - https://copilot.github.com/ | 
