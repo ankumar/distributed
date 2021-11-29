@@ -54,7 +54,7 @@ Example Infrastructure:
 * [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
 * [The P programming language](https://github.com/p-org/P)
 
-**Stateless & Stateful:**
+**Stateless & Stateful Apps:**
 * Global Load Balancing, DNS-based & SDN Anycast
 * Caching & CDN
 * CAP Theorem
