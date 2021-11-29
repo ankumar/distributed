@@ -5,6 +5,7 @@
     - https://www.postman.com/explore 
   - Docs:
     - https://stripe.com/docs | https://plaid.com/docs/
+    - https://shopify.dev/api | 
 
 - Design / Modeling / Tools / Frameworks / **Code** 
   - Open source API specifications
