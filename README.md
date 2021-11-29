@@ -1,7 +1,7 @@
 ## 1. Products - UX: Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 - SaaS / **Abstractions**
-  - Graph: 
+  - API Graphs: 
     - https://www.postman.com/explore 
   - Docs:
     - https://stripe.com/docs | https://plaid.com/docs/
@@ -10,7 +10,8 @@
   - Open source API specifications
     - OpenAPI, AsyncAPI, and JSON Schema 
   
-  - Dev Studios:
+  - Devs:
+    - Code Gen - https://www.hofstadter.io/ | 
     - App - https://www.prisma.io/dataplatform 
     - Web IDE - https://github.dev/ | https://vscode.dev/  
     - Auth - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
