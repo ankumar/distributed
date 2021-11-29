@@ -42,6 +42,12 @@ Example Infrastructure:
 
 -- https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/5-what-is.zomg
 
+- Global Load Balancing, DNS-based & SDN Anycast
+- Caching & CDN
+- CAP Theorem
+- Edge & Cloud Computing
+- Availability, Regions & Zones
+
 **Abstractions:** :heart:
 * https://docs.dagger.io/reference/README
 
@@ -53,12 +59,6 @@ Example Infrastructure:
 * [The P programming language](https://github.com/p-org/P)
 
 **Stateless & Stateful Apps:**
-* Global Load Balancing, DNS-based & SDN Anycast
-* Caching & CDN
-* CAP Theorem
-* Edge & Cloud Computing
-* Availability, Regions & Zones
-
 1. Synchronous, Serving System 
 2. Asynchronous, Event Driven System
 
