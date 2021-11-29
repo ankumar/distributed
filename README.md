@@ -86,7 +86,7 @@ Managing state - one of the hardest problem in distributed systems
 * Key/Value - Cassandra; ScyllaDB, Apache Cassandra in C++
 * Distributed SQL 
  
- * Analytics
+ * AI/ML:
     * Anyscale / Ray - https://www.youtube.com/watch?v=dn8hu2sgRWU
  
  * Studios: 
