@@ -11,7 +11,7 @@
   - Open source API specifications: OpenAPI, AsyncAPI, and JSON Schema 
   
   - Devs:
-    - App - https://www.prisma.io/dataplatform 
+    - App - https://www.prisma.io/dataplatform :heart:
     - Web IDE - https://github.dev/ | https://vscode.dev/  
     - Auth - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
     - OpenAPI -  https://stoplight.io/studio/
