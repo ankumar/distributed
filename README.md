@@ -19,8 +19,7 @@
     - Protocol Buffers - https://buf.build/
     - AsyncAPI: https://www.asyncapi.com/
     - FW's: https://linkedin.github.io/rest.li/
-    - OpenAI - https://copilot.github.com/ | 
-    - Code Gen - https://www.hofstadter.io/ | 
+    - Code Gen - https://copilot.github.com/ | https://www.hofstadter.io/ | 
    
 - Platforms
   - Cloud Sandbox:
