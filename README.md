@@ -17,7 +17,7 @@
     - Web IDE - https://github.dev/ | https://vscode.dev/  
     - Auth - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
     - REST -  https://stoplight.io/studio/
-    - GraphQL - https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql https://hopper.wundergraph.com/ |
+    - GraphQL - https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
     - Protocol Buffers - https://buf.build/
     - AsyncAPI: https://www.asyncapi.com/
     - FW's: https://linkedin.github.io/rest.li/
