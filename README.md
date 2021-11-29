@@ -44,6 +44,9 @@ Example Infrastructure:
 
 -- https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/5-what-is.zomg
 
+**Abstractions:**
+* https://docs.dagger.io/reference/README
+
 **Configuration:**
 * https://docs.dagger.io/1005/what-is-cue/
 
