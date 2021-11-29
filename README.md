@@ -7,6 +7,9 @@
     - https://stripe.com/docs
 
 - Design / Modeling / Tools / Frameworks / **Code** 
+  - Open source API specifications
+    - OpenAPI, AsyncAPI, and JSON Schema 
+  
   - Dev Studios:
     - Web - https://github.dev/ , https://vscode.dev/ , https://www.prisma.io/dataplatform
     - Auth - https://play.authzed.com/ , https://www.osohq.com/what-is-oso
