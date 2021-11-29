@@ -11,6 +11,7 @@
     - OpenAPI, AsyncAPI, and JSON Schema 
   
   - Devs:
+    - Open AI - https://copilot.github.com/ | 
     - Code Gen - https://www.hofstadter.io/ | 
     - App - https://www.prisma.io/dataplatform 
     - Web IDE - https://github.dev/ | https://vscode.dev/  
