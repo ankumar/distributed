@@ -43,7 +43,7 @@ Example Infrastructure:
 
 -- https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/5-what-is.zomg
 
-**Beauty: Abstractions:**
+**Abstractions:** :heart:
 * https://docs.dagger.io/reference/README
 
 **Configuration:**
