@@ -11,7 +11,8 @@
     - OpenAPI, AsyncAPI, and JSON Schema 
   
   - Dev Studios:
-    - Web - https://github.dev/ , https://vscode.dev/ , https://www.prisma.io/dataplatform
+    - App - https://www.prisma.io/dataplatform 
+    - Web IDE - https://github.dev/ , https://vscode.dev/  
     - Auth - https://play.authzed.com/ , https://www.osohq.com/what-is-oso
     - REST -  https://stoplight.io/studio/
     - GraphQL - https://www.apollographql.com/studio/develop/ , https://graphql.stepzen.com/ , https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql , https://hopper.wundergraph.com/ / 
