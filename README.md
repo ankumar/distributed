@@ -33,7 +33,7 @@
   - GitHub - https://octoverse.github.com/
   - Platforms for Open Source Creators - https://www.oss.fund/
 
-## 2. Infrastructure - Compute, Storage & Network
+### 2. Infrastructure - Compute, Storage & Network
 
 - The bottom half of the OSI reference model?
 - Compute, Network, Storage
