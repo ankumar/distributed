@@ -1,4 +1,4 @@
-# We are making connections easy to manage & adding more nodes and edges in WWW 
+We are spaning more global, making connections easy to manage & adding more nodes and edges 
 
 ## 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
