@@ -1,5 +1,7 @@
 ## Distributed - Span is global, Building new connections, Adding more nodes & edges 
 
+How do we Navigating this new future of software development 
+
 ### 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 - SaaS:
