@@ -22,10 +22,6 @@
     - FW's: https://linkedin.github.io/rest.li/
     - Code Gen - https://copilot.github.com/ | https://www.hofstadter.io/ | 
    
-- Platforms
-  - Cloud Sandbox:
-    - </> 
-
 - Communities:
   - GitHub - https://octoverse.github.com/
   - Platforms for Open Source Creators - https://www.oss.fund/
