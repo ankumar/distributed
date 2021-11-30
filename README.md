@@ -9,7 +9,7 @@
     - https://stripe.com/docs | https://plaid.com/docs/
     - https://shopify.dev/api | 
 
-- Design / Modeling / Tools / Frameworks / **Code** 
+- **Code**: Design / Modeling / Tools / Frameworks
   - Open source API specifications: OpenAPI, AsyncAPI, and JSON Schema 
   
   - Devs:
