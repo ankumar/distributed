@@ -50,7 +50,7 @@ Example Infrastructure:
 - Edge & Cloud Computing
 - Availability, Regions & Zones
 
-**Abstractions:** :heart:
+:heart: **Abstractions**
 * https://docs.dagger.io/reference/README
 
 **Configuration:**
