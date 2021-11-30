@@ -1,9 +1,11 @@
+# We are making connections easy to manage & adding more nodes and edges in WWW 
+
 ## 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 :heart: **Abstractions** 
 
 - SaaS:
-  - API Graphs: 
+  - API's: 
     - https://www.postman.com/explore 
   - Docs:
     - https://stripe.com/docs | https://plaid.com/docs/
