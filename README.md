@@ -6,11 +6,7 @@
   - APIs: 
     - https://www.postman.com/explore 
   - Docs: 
-    - https://stripe.com/docs 
-    - https://plaid.com/docs/
-    - https://shopify.dev/api 
-    - https://www.twilio.com/docs
-    - https://segment.com/docs/
+    - https://stripe.com/docs | https://plaid.com/docs/ | https://shopify.dev/api | https://www.twilio.com/docs | https://segment.com/docs/ |
 
 - **Code**: Design / Modeling / Tools / Frameworks
   - Open source API specifications: OpenAPI, AsyncAPI, and JSON Schema 
