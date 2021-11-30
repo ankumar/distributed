@@ -1,6 +1,6 @@
-# Distributed - Span is more global, making connections easier to manage & adding more nodes and edges 
+## Distributed - Span is more global, making connections easier to manage & adding more nodes and edges 
 
-## 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
+### 1. Products - Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 :heart: **Abstractions** 
 
