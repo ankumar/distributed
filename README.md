@@ -50,8 +50,8 @@ Example Infrastructure:
 - Edge & Cloud Computing
 - Availability, Regions & Zones
 
-:heart: **Abstractions**
-* https://docs.dagger.io/reference/README
+**Abstractions:**
+* https://docs.dagger.io/reference/README :heart:
 
 **Configuration:**
 * https://docs.dagger.io/1005/what-is-cue/
