@@ -5,7 +5,7 @@
 - SaaS:
   - APIs: 
     - https://www.postman.com/explore 
-  - Docs:
+  - Docs: :heart:
     - https://stripe.com/docs | https://plaid.com/docs/
     - https://shopify.dev/api | 
 
