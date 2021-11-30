@@ -5,7 +5,7 @@
 :heart: **Abstractions** 
 
 - SaaS:
-  - API's: 
+  - APIs: 
     - https://www.postman.com/explore 
   - Docs:
     - https://stripe.com/docs | https://plaid.com/docs/
