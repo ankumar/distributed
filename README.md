@@ -2,7 +2,7 @@
 
 ### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-- SaaS: :heart:
+- SaaS: 
   - APIs: 
     - https://www.postman.com/explore 
   - Docs: 
