@@ -1,9 +1,9 @@
 ## Navigating this new future of software development ? 
 
-- Apple <-> AWS 
-- Walmart <-> Azure & GCP
-- Twitter <-> GCP
-- Shopify <-> GCP
+- Apple <-> +AWS 
+- Walmart <-> +Azure, +GCP
+- Twitter <-> +GCP
+- Shopify <-> +GCP
 - ..
 - ..
 - 
