@@ -4,8 +4,8 @@
 - Walmart <-> Azure & GCP
 - Twitter <-> GCP
 - Shopify <-> GCP
-..
-..
+- ..
+- ..
 - 
 
 ### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
