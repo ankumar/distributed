@@ -1,4 +1,4 @@
-## More Nodes & Edges, New Connections - Facilitating new models of \*\*Open\*\* Collaboration?
+## More Nodes & Edges, New Connections - Innovating New models of \*\*Open\*\* Collaboration?
 
 - Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
 - Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
