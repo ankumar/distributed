@@ -1,7 +1,7 @@
 ## Connections, Nodes & Edges
 
 - Apple, Stripe <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
-- Walmart <-> +Azure, +[GCP](https://cloud.google.com/customers)
+- Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
 - Shopify, Twitter <-> +GCP
 - ...
 - ...
