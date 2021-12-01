@@ -1,4 +1,11 @@
-## Navigating this new future of software development ?
+## Navigating this new future of software development ? 
+
+- Apple <-> AWS 
+- Walmart <-> Azure & GCP
+- Twitter <-> GCP
+..
+..
+- 
 
 ### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
