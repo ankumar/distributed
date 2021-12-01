@@ -1,4 +1,4 @@
-## Connections
+## Connections, Nodes & Edges
 
 - Apple <-> +AWS 
 - Walmart <-> +Azure, +GCP
