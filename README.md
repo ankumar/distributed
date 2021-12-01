@@ -1,9 +1,9 @@
 ## Connections, Nodes & Edges
 
-- Apple <-> +AWS 
+- Apple, Stripe <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
 - Walmart <-> +Azure, +GCP
-- Twitter <-> +GCP
-- Shopify <-> +GCP
+- Shopify, Twitter <-> +GCP
+- ...
 - ...
 - ...
 - IoT <-> AWS, Azure, GCP
