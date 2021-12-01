@@ -1,4 +1,6 @@
-## New Connections, +Nodes & Edges facilitates new types of Collaboration
+## New Connections, +Nodes & Edges
+
+Facilitates new types of Collaboration?
 
 - Apple, Stripe <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
 - Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
@@ -10,7 +12,6 @@
 
 ### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-Navigating this new future of software development? 
 
 - SaaS: 
   - APIs: 
