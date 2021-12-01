@@ -8,7 +8,7 @@
 - ...
 - IoT <-> +\[AWS, Azure, GCP\]
 
-### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
+### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 - SaaS: 
   - APIs: 
@@ -34,7 +34,7 @@
   - GitHub - https://octoverse.github.com/
   - Platforms for Open Source Creators - https://www.oss.fund/
 
-### 2. Infrastructure - Utility Compute, Storage & Network
+### 2.Infrastructure - Utility Compute, Storage & Network
 
 - The bottom half of the OSI reference model?
 - Compute, Network, Storage
