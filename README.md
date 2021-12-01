@@ -1,4 +1,4 @@
-## Navigating this new future of software development ? 
+## Connections
 
 - Apple <-> +AWS 
 - Walmart <-> +Azure, +GCP
@@ -9,6 +9,8 @@
 - IoT <-> AWS, Azure, GCP
 
 ### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
+
+Navigating this new future of software development? 
 
 - SaaS: 
   - APIs: 
