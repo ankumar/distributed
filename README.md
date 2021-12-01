@@ -3,6 +3,7 @@
 - Apple <-> AWS 
 - Walmart <-> Azure & GCP
 - Twitter <-> GCP
+- Shopify <-> GCP
 ..
 ..
 - 
