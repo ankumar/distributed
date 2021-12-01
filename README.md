@@ -1,8 +1,8 @@
 ## New Connections, +Nodes & Edges
 
-Facilitates new types of Collaboration?
+Facilitates new modesl of Open Collaboration?
 
-- Apple, Stripe <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
+- Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
 - Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
 - Shopify, Twitter <-> +GCP
 - ...
