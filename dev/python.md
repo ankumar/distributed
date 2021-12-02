@@ -1,4 +1,4 @@
-# Environment Setup
+## Environment Setup
 
 - Install Python
 - Install virtualenv
