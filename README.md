@@ -1,13 +1,5 @@
 ## Exploring Cloud IDE
 
-- Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
-- Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
-- Shopify, Twitter <-> +GCP
-- ...
-- ...
-- IoT <-> +\[AWS, Azure, GCP\]
-- SpaceX/STARLINK <-> +GCP
-
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 - SaaS: 
@@ -35,23 +27,6 @@
   - Platforms for Open Source Creators - https://www.oss.fund/
 
 ### 2.Infrastructure - Utility Compute, Storage & Network
-
-- The bottom half of the OSI reference model?
-- Compute, Network, Storage
-- Connected with a kernel
-
-Example Infrastructure:
-- (Compute) Server, Operating System, Container Runtime, Process
-- (Storage) 💾Disk, Database, Memory
-- (Network) Load Balancer, Firewall, Network Switch, Router
-
--- https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/5-what-is.zomg
-
-- Global Load Balancing, DNS-based & SDN Anycast
-- Caching & CDN
-- CAP Theorem
-- Edge & Cloud Computing
-- Availability, Regions & Zones
 
 **APIs:**
 * https://docs.dagger.io/reference/README :heart:
@@ -137,6 +112,32 @@ Managing state - one of the hardest problem in distributed systems
 * Evolution of the Unix System Architecture ("Besides historical details, it also has a number of interesting lessons for software architecture evolution") - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704965
  
 ## References
+
+Evolving Context:
+- Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
+- Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
+- Shopify, Twitter <-> +GCP
+- ...
+- ...
+- IoT <-> +\[AWS, Azure, GCP\]
+- SpaceX/STARLINK <-> +GCP
+
+- The bottom half of the OSI reference model?
+- Compute, Network, Storage
+- Connected with a kernel
+
+Example Infrastructure:
+- (Compute) Server, Operating System, Container Runtime, Process
+- (Storage) 💾Disk, Database, Memory
+- (Network) Load Balancer, Firewall, Network Switch, Router
+
+-- https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/5-what-is.zomg
+
+- Global Load Balancing, DNS-based & SDN Anycast
+- Caching & CDN
+- CAP Theorem
+- Edge & Cloud Computing
+- Availability, Regions & Zones
 
 **1. As a service:**
 ![](https://github.com/ankumar/Architecture/blob/main/images/Cumulative%20CAPEX.jpg)
