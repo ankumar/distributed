@@ -22,7 +22,11 @@
   
   - Code Gen - https://copilot.github.com/ | https://www.hofstadter.io/ | 
   
-  - Auth - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
+  - Auth
+     - AuthN, Authentication - WHO YOU ARE
+       - </>
+     - AuthZ, Authorization - WHAT YOU ARE ALLOWED TO DO 
+       - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
    
 - Communities:
   - GitHub - https://octoverse.github.com/
