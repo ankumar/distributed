@@ -53,15 +53,11 @@ Example Infrastructure:
 - Edge & Cloud Computing
 - Availability, Regions & Zones
 
-**Abstractions:**
+**APIs:**
 * https://docs.dagger.io/reference/README :heart:
 
 **Configuration:**
 * https://docs.dagger.io/1005/what-is-cue/
-
-**Modelling systems:**
-* [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
-* [The P programming language](https://github.com/p-org/P)
 
 **Stateless & Stateful Apps:**
 1. Synchronous, Serving System 
@@ -70,6 +66,10 @@ Example Infrastructure:
 1. Prime Days - https://aws.amazon.com/blogs/aws/prime-day-2021-two-chart-topping-days/
 
 **Large-scale distributed infrastructure:**
+
+**Modelling systems:**
+* [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
+* [The P programming language](https://github.com/p-org/P)
  
 1. **Authenticate & Authorize**
 
