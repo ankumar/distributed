@@ -5,6 +5,7 @@
 
 ## Databases
 - Prisma - https://github.com/prisma/prisma-client-go
+- Entity FW - https://entgo.io/
 
 ## Perf
 - JSON - https://github.com/minio/simdjson-go  
