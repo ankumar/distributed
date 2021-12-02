@@ -1,10 +1,9 @@
-## Exploring New models of \*\*Open\*\* Collaboration?
+## Exploring New models of \*\*Open\*\* Collaboration
 
 Context:
 - Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
 - Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
 - Shopify, Twitter <-> +GCP
-- ...
 - ...
 - ...
 - IoT <-> +\[AWS, Azure, GCP\]
