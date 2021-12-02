@@ -130,17 +130,6 @@ Exponential Nodes & Edges:
 - IoT <-> +\[AWS, Azure, GCP\]
 - SpaceX/STARLINK <-> +GCP
 
-- The bottom half of the OSI reference model?
-- Compute, Network, Storage
-- Connected with a kernel
-
-Example Infrastructure:
-- (Compute) Server, Operating System, Container Runtime, Process
-- (Storage) 💾Disk, Database, Memory
-- (Network) Load Balancer, Firewall, Network Switch, Router
-
--- https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/5-what-is.zomg
-
 - Global Load Balancing, DNS-based & SDN Anycast
 - Caching & CDN
 - CAP Theorem
@@ -172,6 +161,16 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
   * https://www.slim.ai/
 
 **2. Building:**
+
+- The bottom half of the OSI reference model?
+- Compute, Network, Storage
+- Connected with a kernel
+Example Infrastructure:
+- (Compute) Server, Operating System, Container Runtime, Process
+- (Storage) 💾Disk, Database, Memory
+- (Network) Load Balancer, Firewall, Network Switch, Router
+
+-- https://github.com/kris-nova/public-speaking/blob/main/presentations/2021-infrastructure-as-software/5-what-is.zomg
 
 [@scale](https://atscaleconference.com/)
 
