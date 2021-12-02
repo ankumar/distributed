@@ -18,7 +18,7 @@
     - AsyncAPI: https://www.asyncapi.com/
     - FW's: https://linkedin.github.io/rest.li/
   
-  - Web IDE - https://github.dev/ | https://vscode.dev/  
+  - Web IDE - https://vscode.dev/ | https://github.dev/ | 
   - Code Gen - https://copilot.github.com/ | https://www.hofstadter.io/ | 
   - Auth - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
    
