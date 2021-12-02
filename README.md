@@ -215,6 +215,7 @@ Source: https://www.platformonomics.com/2021/02/follow-the-capex-cloud-table-sta
 * [Zanzibar: Google’s Consistent, Global Authorization System](https://news.ycombinator.com/item?id=26980254)
 * [Colossus - Google’s Storage Foundation](https://www.infoq.com/news/2021/04/google-colossus/)
 * [Designing a Serverless Cloud-Native Database-as-a-Service Based on Apache Cassandra™](https://www.datastax.com/sites/default/files/content/whitepaper/files/2021-06/Astra%20Serverless%20Whitepaper_0.pdf)
+* [Maglev: A Fast and Reliable Software Network Load Balancer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf)
 
 ---
 
