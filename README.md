@@ -23,9 +23,9 @@
   - Code Gen - https://copilot.github.com/ | https://www.hofstadter.io/ | 
   
   - Auth
-     - AuthN, Authentication - WHO YOU ARE
+     - Authentication - WHO YOU ARE
        - </>
-     - AuthZ, Authorization - WHAT YOU ARE ALLOWED TO DO 
+     - Authorization - WHAT YOU ARE ALLOWED TO DO 
        - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
 
   - Data
