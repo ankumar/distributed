@@ -14,4 +14,6 @@
 
 ## Learning Resources:
 - https://go.dev/ 
+- https://goreleaser.com/
 - https://twitter.com/SaiyamPathak/status/1464293664801259521
+  - https://dev.to/aurelievache/learning-go-by-examples-introduction-448n 
