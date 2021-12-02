@@ -1,7 +1,7 @@
 ## APIs
 
 - Buf - https://docs.buf.build/tour/introduction 
-- OpenAPI - 
+- OpenAPI - https://github.com/ent/contrib
 
 ## Databases
 - Prisma - https://github.com/prisma/prisma-client-go
