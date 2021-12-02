@@ -119,9 +119,9 @@ Managing state - one of the hardest problem in distributed systems
 7. **Linux / Unix**
 * Evolution of the Unix System Architecture ("Besides historical details, it also has a number of interesting lessons for software architecture evolution") - https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704965
  
-## References
+## References & Evolving Context
 
-Evolving Context:
+Exponential Nodes & Edges:
 - Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
 - Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
 - Shopify, Twitter <-> +GCP
