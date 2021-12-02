@@ -41,10 +41,6 @@
 1. Prime Days - https://aws.amazon.com/blogs/aws/prime-day-2021-two-chart-topping-days/
 
 **Large-scale distributed infrastructure:**
-
-**Modelling systems:**
-* [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
-* [The P programming language](https://github.com/p-org/P)
  
 1. **Authenticate & Authorize**
 
@@ -138,6 +134,10 @@ Example Infrastructure:
 - CAP Theorem
 - Edge & Cloud Computing
 - Availability, Regions & Zones
+
+**Modelling systems:**
+* [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
+* [The P programming language](https://github.com/p-org/P)
 
 **1. As a service:**
 ![](https://github.com/ankumar/Architecture/blob/main/images/Cumulative%20CAPEX.jpg)
