@@ -17,18 +17,18 @@
     - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) | [Segment](https://segment.com/docs/) |
 
 - **Code**: Design / Modeling / Tools / Frameworks
-  - Open source API specifications: OpenAPI, AsyncAPI, and JSON Schema 
+  - App - https://www.prisma.io/dataplatform :heart:
   
-  - Devs:
-    - App - https://www.prisma.io/dataplatform :heart:
-    - Web IDE - https://github.dev/ | https://vscode.dev/  
+  - Open source API specifications: OpenAPI, AsyncAPI, and JSON Schema 
     - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
     - GraphQL - https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
     - Protocol Buffers - https://buf.build/
     - AsyncAPI: https://www.asyncapi.com/
     - FW's: https://linkedin.github.io/rest.li/
-    - Code Gen - https://copilot.github.com/ | https://www.hofstadter.io/ | 
-    - Auth - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
+  
+  - Web IDE - https://github.dev/ | https://vscode.dev/  
+  - Code Gen - https://copilot.github.com/ | https://www.hofstadter.io/ | 
+  - Auth - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
    
 - Communities:
   - GitHub - https://octoverse.github.com/
