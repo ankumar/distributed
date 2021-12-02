@@ -7,7 +7,7 @@
 - Prisma - https://github.com/prisma/prisma-client-go
 
 ## Perf
-- https://github.com/minio/simdjson-go  
+- JSON - https://github.com/minio/simdjson-go  
 
 ## Kubernetes:
 - NAML - https://github.com/kris-nova/naml 
