@@ -1,4 +1,4 @@
-## Exploring Cloud IDE
+## Exploring Cloud Integrated Developer Experience 
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
