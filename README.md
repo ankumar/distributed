@@ -1,4 +1,4 @@
-## Exploring IDE for Devs, SREs & Cloud Infrastructure
+## Exploring Integrated Developer Experience for Devs, SREs & Cloud Infrastructure
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
