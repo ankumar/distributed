@@ -19,12 +19,12 @@
   
   - Web IDE - https://vscode.dev/ | https://github.dev/ | 
   
-  - Code Gen - https://copilot.github.com/ | https://www.hofstadter.io/ | 
+  - Code Generators - https://copilot.github.com/ | https://www.hofstadter.io/ | 
   
-  - Auth
-     - Authentication - WHO YOU ARE
+  - Auth:
+     - Authentication, WHO YOU ARE
        - </>
-     - Authorization - WHAT YOU ARE ALLOWED TO DO 
+     - Authorization, WHAT YOU ARE ALLOWED TO DO 
        - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
 
   - Data
