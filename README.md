@@ -7,7 +7,7 @@
   - APIs: https://www.postman.com/explore 
   - Docs: [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) | [Segment](https://segment.com/docs/) |
 
-- **Dev**: Design / Modeling / Tools / Frameworks
+- **Dev** - Design / Modeling / Tools / Frameworks
   - App - https://www.prisma.io/dataplatform :heart:
   
   - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
