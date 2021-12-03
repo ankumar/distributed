@@ -23,7 +23,6 @@
   
   - Auth:
      - Authentication, WHO YOU ARE
-       - </>
      - Authorization, WHAT YOU ARE ALLOWED TO DO 
        - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
 
