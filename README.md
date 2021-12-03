@@ -15,6 +15,9 @@
   - App - https://www.prisma.io/dataplatform :heart:
   
   - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema 
+
+Linter, Breaking change detector, generator ...
+
     - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
     - GraphQL - https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
     - Protocol Buffers - https://buf.build/
