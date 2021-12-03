@@ -4,10 +4,8 @@
 
 - SaaS: 
   - Dev: https://sandbox.amplifyapp.com/getting-started
-  
   - APIs: https://www.postman.com/explore 
-  - Docs: 
-    - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) | [Segment](https://segment.com/docs/) |
+  - Docs: [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) | [Segment](https://segment.com/docs/) |
 
 - **Dev**: Design / Modeling / Tools / Frameworks
   - App - https://www.prisma.io/dataplatform :heart:
@@ -54,7 +52,7 @@
  
 1. **Authenticate & Authorize**
 
-* AWS Identity - [over 400 million API calls EVERY SECOND](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/)
+* AWS Identity - [500 million API calls EVERY SECOND](https://aws.amazon.com/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/)
 * Azure AD - [Manages more than 1.2 billion identities and processes over 8 billion authentications every day](https://azure.microsoft.com/en-us/services/active-directory/)
 
 2. **"The Log"**
