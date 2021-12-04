@@ -214,6 +214,7 @@ Example Infrastructure:
 * [Colossus - Google’s Storage Foundation](https://www.infoq.com/news/2021/04/google-colossus/)
 * [Designing a Serverless Cloud-Native Database-as-a-Service Based on Apache Cassandra™](https://www.datastax.com/sites/default/files/content/whitepaper/files/2021-06/Astra%20Serverless%20Whitepaper_0.pdf)
 * [Maglev: A Fast and Reliable Software Network Load Balancer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf)
+* [Sizeless: Predicting the Optimal Size of Serverless Functions](https://se.informatik.uni-wuerzburg.de/software-engineering-group/staff/simon-eismann/?tx_extbibsonomycsl_publicationlist[action]=download&tx_extbibsonomycsl_publicationlist[controller]=Document&tx_extbibsonomycsl_publicationlist[fileName]=MIDDLEWARE2021___Sizeless.pdf&tx_extbibsonomycsl_publicationlist[intraHash]=ececf0bdbba4e0517d68cb7dba7423e6&tx_extbibsonomycsl_publicationlist[userName]=simon.eismann&cHash=dd84cf187c8303334c8f4fde69bed2a2)
 
 ---
 
