@@ -17,7 +17,7 @@
     - AsyncAPI: https://www.asyncapi.com/
     - FW's: https://linkedin.github.io/rest.li/
   
-  - Web IDE - https://vscode.dev/ | https://github.dev/ | 
+  - Web IDE - https://github.dev/ | https://vscode.dev/ 
   
   - Code Generators - https://copilot.github.com/ | https://www.hofstadter.io/ | 
   
