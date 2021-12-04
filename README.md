@@ -177,6 +177,7 @@ Example Infrastructure:
 
 **1. Blogs:**
 
+* [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class)
 * [the morning paper](https://blog.acolyer.org/)
 * [Marc's Blog](https://brooker.co.za/blog/)
 * [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
