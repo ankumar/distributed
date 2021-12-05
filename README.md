@@ -176,27 +176,7 @@ Example Infrastructure:
 
 ---
 
-**1. Blogs:**
-
-* [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class)
-* [the morning paper](https://blog.acolyer.org/)
-* [Marc's Blog](https://brooker.co.za/blog/)
-* [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
-* [DNS based GSLB](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
-* [Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
-* [Consensus Algorithms at Scale](https://www.planetscale.com/blog/blog-series-consensus-algorithms-at-scale-1)
-* [Steve Yegge’s Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
-* [Excel is still going strong, just became a Turing-complete programming language!](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
-* [The Distributed Operating System Void](https://nivenly.com/lib/2021-04-02-operating-system-interface/)
-* [COSI - The Common Operating System Interface](https://docs.google.com/document/d/1OuwTSsSsIPefDViheK-nzaF9xSOg1Mn62mwR2FmGPu8/edit#heading=h.1grxkjflkt7d)
-* [Micah Lerner](https://www.micahlerner.com/)
-* [Metadata](http://muratbuffalo.blogspot.com/)
-* [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
-* [The P programming language](https://github.com/p-org/P)
-
----
-
-**2. Publications:**
+**1. Publications:**
 
 * [Considerations for Mandating Open Interfaces](https://www.internetsociety.org/resources/doc/2020/white-paper-considerations-for-mandating-open-interfaces/)
 * [100 Year Study on AI released its 2021 Report](https://ai100.stanford.edu/)
@@ -222,7 +202,26 @@ Example Infrastructure:
 
 ---
 
-**3. Tech Talks:**
+**2. Tech Talks:**
 
 * [Quarantine Database Tech Talks (2020)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjagqlf1NxuBQwaMkrHXi-iz)
 * [New Directions in Cloud Programming](https://www.youtube.com/watch?v=FeRg-7Sr1L8)
+
+**3. More Artifacts:**
+
+* [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class)
+* [the morning paper](https://blog.acolyer.org/)
+* [Marc's Blog](https://brooker.co.za/blog/)
+* [Client-side load balancing technique](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html)
+* [DNS based GSLB](https://dropbox.tech/infrastructure/intelligent-dns-based-load-balancing-at-dropbox)
+* [Shard Manager](https://engineering.fb.com/production-engineering/scaling-services-with-shard-manager/)
+* [Consensus Algorithms at Scale](https://www.planetscale.com/blog/blog-series-consensus-algorithms-at-scale-1)
+* [Steve Yegge’s Google Platforms Rant](https://gist.github.com/chitchcock/1281611)
+* [Excel is still going strong, just became a Turing-complete programming language!](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
+* [The Distributed Operating System Void](https://nivenly.com/lib/2021-04-02-operating-system-interface/)
+* [COSI - The Common Operating System Interface](https://docs.google.com/document/d/1OuwTSsSsIPefDViheK-nzaF9xSOg1Mn62mwR2FmGPu8/edit#heading=h.1grxkjflkt7d)
+* [Micah Lerner](https://www.micahlerner.com/)
+* [Metadata](http://muratbuffalo.blogspot.com/)
+* [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
+* [The P programming language](https://github.com/p-org/P)
+
