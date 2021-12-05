@@ -132,10 +132,6 @@ Exponential growth of Nodes/Edges:
 - Edge & Cloud Computing
 - Availability, Regions & Zones
 
-**Modelling systems:**
-* [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
-* [The P programming language](https://github.com/p-org/P)
-
 **1. As a service:**
 ![](https://github.com/ankumar/Architecture/blob/main/images/Cumulative%20CAPEX.jpg)
 
@@ -191,6 +187,8 @@ Example Infrastructure:
 * [COSI - The Common Operating System Interface](https://docs.google.com/document/d/1OuwTSsSsIPefDViheK-nzaF9xSOg1Mn62mwR2FmGPu8/edit#heading=h.1grxkjflkt7d)
 * [Micah Lerner](https://www.micahlerner.com/)
 * [Metadata](http://muratbuffalo.blogspot.com/)
+* [TLA+](http://lamport.azurewebsites.net/tla/tla.html)
+* [The P programming language](https://github.com/p-org/P)
 
 ---
 
