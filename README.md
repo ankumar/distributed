@@ -198,6 +198,7 @@ Example Infrastructure:
 
 **2. Publications:**
 
+* [Considerations for Mandating Open Interfaces](https://www.internetsociety.org/resources/doc/2020/white-paper-considerations-for-mandating-open-interfaces/)
 * [100 Year Study on AI released its 2021 Report](https://ai100.stanford.edu/)
 * [Our Journey towards Data-Centric AI: A Retrospective](https://ai.stanford.edu/blog/data-centric-ai-retrospective/)
 * [Architecting the Future of Software Engineering: A National Agenda for Software Engineering Research & Development](https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=741193)
