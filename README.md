@@ -13,7 +13,7 @@ Experiences:
 
 - **Dev** - Design / Modeling / Tools / Frameworks
   
-  - Interface - https://jupyter.org/
+  - Interfaces - https://jupyter.org/
     - VS Code - https://github.dev/ | https://vscode.dev/ 
  
   - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
