@@ -18,6 +18,7 @@
 - NAML - https://github.com/kris-nova/naml 
 
 ## Learning Resources:
+- https://github.com/distributed
 - https://github.com/gopherdata/gophernotes
 - https://go.dev/ 
 - https://goreleaser.com/
