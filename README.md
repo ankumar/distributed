@@ -116,6 +116,7 @@ Managing state - one of the hardest problem in distributed systems
 ## All Things Distributed - References & Evolving Context
 
 Exponential growth of Nodes/Edges:
+1. Companies:
 - Apple, Stripe, Meta <-> +[AWS](https://aws.amazon.com/solutions/case-studies) 
 - Walmart <-> +[Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), +[GCP](https://cloud.google.com/customers)
 - Shopify, Twitter <-> +GCP
@@ -124,6 +125,7 @@ Exponential growth of Nodes/Edges:
 - IoT <-> +\[AWS, Azure, GCP\]
 - SpaceX/STARLINK <-> +GCP
 
+2. Cloud Systems:
 - Global Load Balancing, DNS-based & SDN Anycast
 - Caching & CDN
 - CAP Theorem
