@@ -12,9 +12,11 @@
 - Prisma - https://github.com/prisma/prisma-client-go
 - Entity FW - https://entgo.io/
 
-## JSON
+## JSON/YAML
 - Convert - https://github.com/sourcegraph/yj / https://github.com/sourcegraph/jy
 - Large - https://github.com/minio/simdjson-go  
+- https://github.com/go-yaml/yaml
+- https://github.com/sourcegraph/yaml
 
 ## Kubernetes:
 - NAML - https://github.com/kris-nova/naml 
