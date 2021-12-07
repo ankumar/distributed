@@ -25,10 +25,11 @@
 ## Learning Resources:
 - https://go.dev/ 
 - https://research.swtch.com/
-- https://github.com/distributed
-- https://github.com/gopherdata/gophernotes
 - https://goreleaser.com/
+- https://github.com/distributed
 - https://github.com/tailscale/mkctr
+---
+- https://github.com/gopherdata/gophernotes
 - https://twitter.com/SaiyamPathak/status/1464293664801259521
   - https://dev.to/aurelievache/learning-go-by-examples-introduction-448n 
 
