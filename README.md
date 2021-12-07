@@ -9,7 +9,7 @@ Experiences:
 - SaaS: 
   - Dev: https://www.prisma.io/dataplatform :heart: | https://sandbox.amplifyapp.com/getting-started
   - APIs: https://www.postman.com/explore 
-  - Docs: [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) | [Segment](https://segment.com/docs/) | ...
+  - Docs: [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | ...
 
 - **Dev** - Design / Modeling / Tools / Frameworks
   
