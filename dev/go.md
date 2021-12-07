@@ -23,6 +23,7 @@
 - kg - https://github.com/sourcegraph/kg
 
 ## Learning Resources:
+- https://research.swtch.com/
 - https://github.com/distributed
 - https://github.com/gopherdata/gophernotes
 - https://go.dev/ 
