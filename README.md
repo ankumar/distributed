@@ -1,6 +1,4 @@
 ## Exploring Integrated Developer Experience for Devs, SREs & Cloud Infrastructure
-
-Experiences:
 1. "Code" - https://sourcegraph.com/
 2. "Portal" - https://github.com/backstage/community
 3. "Public & Community" - https://next.github.com/
