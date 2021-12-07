@@ -3,7 +3,7 @@
 Experiences:
 1. "Code" - https://sourcegraph.com/
 2. "Portal" - https://github.com/backstage/community
-3. "Community" - https://next.github.com/
+3. "Public & Community" - https://next.github.com/
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
