@@ -1,7 +1,10 @@
 ## Exploring Integrated Developer Experience for Devs, SREs & Cloud Infrastructure
 1. "Code" - https://sourcegraph.com/
-2. "Portal" - https://github.com/backstage/community
-3. "Public & Community" - https://next.github.com/
+2. "Portal":
+> "Connect" - Partner Connect helps you connect your Azure Databricks workspace to selected partner solutions within minutes. If you do not have an account with a partner, Partner Connect helps you create a trial account with them.
+- Ex: Databricks on Azure: https://docs.microsoft.com/en-us/azure/databricks/integrations/partners#partner-connect
+- Open Source: https://github.com/backstage/community
+4. "Public & Community" - https://next.github.com/
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
