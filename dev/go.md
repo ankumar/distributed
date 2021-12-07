@@ -25,6 +25,7 @@
 ## Learning Resources:
 - https://go.dev/ 
 - https://research.swtch.com/
+- https://github.com/caddyserver/certmagic
 - https://goreleaser.com/
 - https://github.com/tailscale/mkctr
 ---
