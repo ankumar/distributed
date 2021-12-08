@@ -14,8 +14,8 @@
 
 ## JSON/YAML
 - Convert - https://github.com/sourcegraph/yj / https://github.com/sourcegraph/jy
-- https://github.com/lemire
-  - gigabytes of JSON per second - https://github.com/minio/simdjson-go  
+- gigabytes of JSON per second - https://github.com/minio/simdjson-go  
+  - https://github.com/lemire (more things here...)
 - https://github.com/go-yaml/yaml
 - https://github.com/sourcegraph/yaml
 
