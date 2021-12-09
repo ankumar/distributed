@@ -12,7 +12,7 @@
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 - SaaS: 
-  - Dev: https://www.prisma.io/dataplatform :heart: | https://sandbox.amplifyapp.com/getting-started
+  - Dev: https://www.prisma.io/dataplatform :heart: | https://temporal.io/ |
   - APIs: https://www.postman.com/explore 
   - Docs: [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | ...
 
