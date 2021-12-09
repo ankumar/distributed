@@ -7,7 +7,7 @@
   - Ex: Databricks on Azure: [Blog](https://databricks.com/blog/2021/11/18/now-generally-available-introducing-databricks-partner-connect-to-discover-and-connect-popular-data-and-ai-tools-to-the-lakehouse.html) / [Docs](https://docs.microsoft.com/en-us/azure/databricks/integrations/partners#partner-connect)
 - Open Source: https://github.com/backstage/community
 2. "Public & Community" - https://next.github.com/
-3. Landscape - Products & Services
+3. Landscape - [Thousands of Products & Services](https://landscape.cncf.io/)
 5. "Code" - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
