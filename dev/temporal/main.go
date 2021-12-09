@@ -11,5 +11,12 @@ import (
 )
 
 func main() {
-    fmt.Println("Hello, World!")
+    //fmt.Println("Hello, World!")
+    
+    clt, err := client.NewClient(client.options{})
+    if err != nil {
+        log.Fatalln("Temporal NewClient failed", err)
+    }
+    defer clt.Close()
+    
 }
