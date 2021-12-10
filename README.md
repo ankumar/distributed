@@ -13,7 +13,9 @@ Expanding the span to Universal & across all of the software development driving
   - Landscapes - [Evolving hundreds of thousands of of Products & Infrastructure](https://landscapes.dev/)
   - Verticals - [FinTech](https://developer.gs.com/discover/home)
 
-3. Code Navigation - Semantic Understanding is improving, Ex: [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
+3. Code Navigation - Semantic Understanding is improving
+  - [SourceGraph](https://sourcegraph.com/)
+  - [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
