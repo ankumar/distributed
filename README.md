@@ -42,8 +42,9 @@ Expanding the span to Universal & across all of the software development driving
   
   - Auth:
      - Authentication, WHO YOU ARE
+       - [Ory](https://medium.com/@oryteam?p=c27702055a31)
      - Authorization, WHAT YOU ARE ALLOWED TO DO 
-       - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
+       - [authzed](https://play.authzed.com/) | [Oso](https://www.osohq.com/what-is-oso)
 
   - Data
      - Wrangling
