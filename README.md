@@ -28,7 +28,7 @@ Expanding the span to Universal & across all of the technology companies driving
   
   - IDE:
     - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ |
-    - VS Code - https://github.dev/ | https://vscode.dev/ 
+    - More of the Web - https://github.dev/ | https://vscode.dev/ 
  
   - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
     - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
