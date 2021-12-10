@@ -1,9 +1,5 @@
 ## Exploring Integrated Developer Experience for Devs, SREs & Cloud Infrastructure
-
-> The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are partitioned. -- https://twitter.com/adrianco/status/1466463836349763585
-
 Expanding the span to Universal & across all of the technology companies driving towards "Public" spaces building Platforms & ecosystems, wondering [Search](https://www.google.com/search/howsearchworks/) UX influenced Integrated Developer experience (**New IDE**) is a way to adddress the challenges, more data below:
-
 1. Portals:
 > "Connect" - But, the data ecosystem is vast, and no one vendor can accomplish everything. Every enterprise has a multitude of tools and data sources that need to be connected, secured, and governed to allow every user within an organization to find, use, and share data-driven insights. Stitching everything together has historically been a burden on the customer and partners, making it very complicated and expensive to execute at any scale. Partner Connect helps you connect your Azure Databricks workspace to selected partner solutions within minutes. If you do not have an account with a partner, Partner Connect helps you create a trial account with them.
   - Databricks on Azure: [Blog](https://databricks.com/blog/2021/11/18/now-generally-available-introducing-databricks-partner-connect-to-discover-and-connect-popular-data-and-ai-tools-to-the-lakehouse.html) / [Docs](https://docs.microsoft.com/en-us/azure/databricks/integrations/partners#partner-connect)
@@ -15,6 +11,8 @@ Expanding the span to Universal & across all of the technology companies driving
 4. Landscapes - [Evolving hundreds of thousands of of Products & Infrastructure](https://landscapes.dev/)
     - [FinTech](https://developer.gs.com/discover/home)
 5. Code Navigation - Semantic Understanding is improving, Ex: [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
+
+> The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are partitioned. -- https://twitter.com/adrianco/status/1466463836349763585
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
