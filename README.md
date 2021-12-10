@@ -11,8 +11,7 @@
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-- SaaS: 
-  - Tech Stack: https://www.prisma.io/dataplatform | https://temporal.io/ |
+- SaaS:
   - APIs: https://www.postman.com/explore 
   - Docs: [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | ...
 
@@ -37,7 +36,9 @@
        - https://play.authzed.com/ | https://www.osohq.com/what-is-oso
 
   - Data
-     - Wrangling  
+     - Wrangling
+
+  - Tech Stack: https://www.prisma.io/dataplatform | https://temporal.io/ |
    
 - Communities:
   - GitHub - https://octoverse.github.com/
