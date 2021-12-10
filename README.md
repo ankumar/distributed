@@ -10,6 +10,7 @@ Expanding the span to Universal & across all of the technology companies driving
   - Cataloging the Sprawl: [Integrations](https://github.com/backstage/community) 
     - [Universe 1 - Pulumi](https://www.pulumi.com/registry/)
     - [Uinverse 2 - Dagger](https://dagger.io/)
+    - ...
 3. Public & Community - [Collaboration - Git, GitUniverse is growing with UX & Workflows](https://next.github.com/)
 4. Landscapes - [Evolving hundreds of thousands of of Products & Infrastructure](https://landscapes.dev/)
     - [FinTech](https://developer.gs.com/discover/home)
