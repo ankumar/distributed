@@ -2,7 +2,7 @@
 
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are partitioned. -- https://twitter.com/adrianco/status/1466463836349763585
 
-Expanding the horizon & span across all of the technology companies driving towards "Public" spaces building Platforms & ecosystems, wondering Search like Integrated Developer experience is a way to adddress the challenges, more data below:
+Expanding the horizon & span across all of the technology companies driving towards "Public" spaces building Platforms & ecosystems, wondering [Search like](https://www.google.com/search/howsearchworks/) Integrated Developer experience is a way to adddress the challenges, more data below:
 
 1. Portals:
 > "Connect" - But, the data ecosystem is vast, and no one vendor can accomplish everything. Every enterprise has a multitude of tools and data sources that need to be connected, secured, and governed to allow every user within an organization to find, use, and share data-driven insights. Stitching everything together has historically been a burden on the customer and partners, making it very complicated and expensive to execute at any scale. Partner Connect helps you connect your Azure Databricks workspace to selected partner solutions within minutes. If you do not have an account with a partner, Partner Connect helps you create a trial account with them.
