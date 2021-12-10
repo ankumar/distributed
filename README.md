@@ -7,8 +7,8 @@ Expanding the span to Universal & across all of the software development driving
     - [Universe 1 - Pulumi](https://www.pulumi.com/registry/)
     - [Uinverse 2 - Dagger](https://dagger.io/)
     - ...
-3. Public & Community - [Collaboration - Git, GitUniverse is growing with UX & Workflows](https://next.github.com/)
-4. Landscapes - [Evolving hundreds of thousands of of Products & Infrastructure](https://landscapes.dev/)
+3. Public & Communities - [Collaboration - Git, GitUniverse is growing with UX & Workflows](https://next.github.com/)
+    - Landscapes - [Evolving hundreds of thousands of of Products & Infrastructure](https://landscapes.dev/)
     - [FinTech](https://developer.gs.com/discover/home)
 5. Code Navigation - Semantic Understanding is improving, Ex: [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
 
