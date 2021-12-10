@@ -12,7 +12,7 @@
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 - SaaS:
-  - Explore - [World of APIs](https://www.postman.com/explore) | [State of the API](https://www.postman.com/state-of-api/)
+  - Explore - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
   - Build - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | ...
 
 - **Dev** - Design / Modeling / Tools / Frameworks
