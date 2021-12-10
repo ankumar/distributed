@@ -5,7 +5,7 @@ Expanding the span to Universal & across all of the software development driving
   - Cataloging the Sprawl: [Developer Portals & Integrations](https://github.com/backstage/community) 
     - [Universe 1 - Pulumi](https://www.pulumi.com/registry/)
     - [Uinverse 2 - Dagger](https://dagger.io/)
-    - [Uinverse 2 - Backstage](https://backstage.io/plugins)
+    - [Universe 3 - Backstage](https://backstage.io/plugins)
     - ...
 
 2. Public & Communities - [Collaboration - Git, GitUniverse is growing with UX & Workflows](https://next.github.com/)
