@@ -7,10 +7,12 @@ Expanding the span to Universal & across all of the software development driving
     - [Universe 1 - Pulumi](https://www.pulumi.com/registry/)
     - [Uinverse 2 - Dagger](https://dagger.io/)
     - ...
+
 2. Public & Communities - [Collaboration - Git, GitUniverse is growing with UX & Workflows](https://next.github.com/)
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are partitioned. -- https://twitter.com/adrianco/status/1466463836349763585
-    - Landscapes - [Evolving hundreds of thousands of of Products & Infrastructure](https://landscapes.dev/)
-    - Verticals - [FinTech](https://developer.gs.com/discover/home)
+  - Landscapes - [Evolving hundreds of thousands of of Products & Infrastructure](https://landscapes.dev/)
+  - Verticals - [FinTech](https://developer.gs.com/discover/home)
+
 3. Code Navigation - Semantic Understanding is improving, Ex: [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
