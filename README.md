@@ -9,7 +9,7 @@ Need **New IDE** (Integrated Developer experience) to adddress the partitions:
     - [Universe 1 - Pulumi](https://www.pulumi.com/registry/)
     - [Uinverse 2 - Dagger](https://dagger.io/)
     - [Universe 3 - Backstage](https://backstage.io/plugins)
-    - [Universe 4 - Git](https://next.github.com/)
+    - [Universe 4 - Git Collaboration](https://next.github.com/)
     - ...
 
 2. Public & Communities - Software development moving to "Public" spaces 
