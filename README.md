@@ -16,7 +16,7 @@ Need **New IDE** (Integrated Developer experience) to adddress the partitions:
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
   - Verticals - [FinTech](https://developer.gs.com/discover/home)
 
-3. Code - [Search](https://www.google.com/search/howsearchworks/)? Semantic Understanding is improving
+3. Code - Semantic Understanding is improving, [Search Like?](https://www.google.com/search/howsearchworks/)
   - [SourceGraph](https://sourcegraph.com/)
   - [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
 
