@@ -12,7 +12,7 @@ Need **New IDE** (Integrated Developer experience) to adddress the partitions:
     - [Universe 4 - Git Collaboration ?](https://next.github.com/)
     - ...
 
-2. Public & Communities - Software development moving to "Public" spaces 
+2. Communities - Software development moving to "Public" spaces 
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
   - Verticals - [FinTech](https://developer.gs.com/discover/home)
 
