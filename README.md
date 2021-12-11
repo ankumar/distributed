@@ -1,8 +1,7 @@
 ## Exploring Integrated Developer Experience for Devs, SREs & Cloud Infrastructure
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are partitioned. -- https://twitter.com/adrianco/status/1466463836349763585
 
-Need **New IDE** (Integrated Developer experience) to adddress the partitions:
-
+**New IDE** (Integrated Developer experience) to adddress the partitions:
 1. UX
 > "Connect" - But, the data ecosystem is vast, and no one vendor can accomplish everything. Every enterprise has a multitude of tools and data sources that need to be connected, secured, and governed to allow every user within an organization to find, use, and share data-driven insights. Stitching everything together has historically been a burden on the customer and partners, making it very complicated and expensive to execute at any scale. Partner Connect helps you connect your Azure Databricks workspace to selected partner solutions within minutes. If you do not have an account with a partner, Partner Connect helps you create a trial account with them. -- Databricks (We ❤️ to simplify things. ) on Azure: [Blog](https://databricks.com/blog/2021/11/18/now-generally-available-introducing-databricks-partner-connect-to-discover-and-connect-popular-data-and-ai-tools-to-the-lakehouse.html) / [Docs](https://docs.microsoft.com/en-us/azure/databricks/integrations/partners#partner-connect)
   - Cataloging Sprawl: [Developer Portals & Integrations](https://github.com/backstage/community) 
