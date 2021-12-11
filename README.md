@@ -13,7 +13,7 @@
 
 2. Communities - Software development moving to "Public" spaces 
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
-  - Verticals - [FinTech](https://developer.gs.com/discover/home)
+  - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
 
 3. Code - Semantic Understanding is improving, [Search Like?](https://www.google.com/search/howsearchworks/)
   - [SourceGraph](https://sourcegraph.com/)
