@@ -1,7 +1,7 @@
 ## Exploring Integrated Developer Experience for Devs, SREs & Cloud Infrastructure
 Expanding the span to Universe across all of the software development moving to "Public" spaces building Communities, Platforms & ecosystems, a need for **New IDE** (Integrated Developer experience) is a way to adddress the challenges, more data below:
 
-1. UX - [Search](https://www.google.com/search/howsearchworks/)?
+1. UX
 > "Connect" - But, the data ecosystem is vast, and no one vendor can accomplish everything. Every enterprise has a multitude of tools and data sources that need to be connected, secured, and governed to allow every user within an organization to find, use, and share data-driven insights. Stitching everything together has historically been a burden on the customer and partners, making it very complicated and expensive to execute at any scale. Partner Connect helps you connect your Azure Databricks workspace to selected partner solutions within minutes. If you do not have an account with a partner, Partner Connect helps you create a trial account with them. -- Databricks (We ❤️ to simplify things. ) on Azure: [Blog](https://databricks.com/blog/2021/11/18/now-generally-available-introducing-databricks-partner-connect-to-discover-and-connect-popular-data-and-ai-tools-to-the-lakehouse.html) / [Docs](https://docs.microsoft.com/en-us/azure/databricks/integrations/partners#partner-connect)
   - Cataloging Sprawl: [Developer Portals & Integrations](https://github.com/backstage/community) 
     - [Universe 1 - Pulumi](https://www.pulumi.com/registry/)
@@ -14,7 +14,7 @@ Expanding the span to Universe across all of the software development moving to 
   - Landscapes - [Evolving hundreds of thousands of of Products & Infrastructure](https://landscapes.dev/)
   - Verticals - [FinTech](https://developer.gs.com/discover/home)
 
-3. Code Navigation - Semantic Understanding is improving
+3. [Search](https://www.google.com/search/howsearchworks/), Code Navigation - Semantic Understanding is improving
   - [SourceGraph](https://sourcegraph.com/)
   - [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
 
