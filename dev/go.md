@@ -1,6 +1,6 @@
 ## Environment Setup
 
-- 
+- Generate & data models - https://github.com/hofstadter-io/hofmod-server
 
 ## APIs
 
