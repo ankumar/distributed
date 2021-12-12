@@ -5,17 +5,17 @@
 1. UX
   - Cataloging Sprawl: 
     
-    - **Universe 0 - Git** - [Need more Collaboration across Git products like this?](https://next.github.com/)
-      - [GitLab](https://docs.gitlab.com/ee/integration/)
-    
     - Universe 1 - Portals
       - [Backstage](https://backstage.io/plugins)
       - [Perspectives](https://github.com/backstage/community) 
     
+    - Universe 0 - Git - [Need more Collaboration across Git products like this?](https://next.github.com/)
+      - [GitLab](https://docs.gitlab.com/ee/integration/)
+      - [Dagger](https://dagger.io/)
+    
     - Universe 2 - Cloud
       - [Pulumi](https://www.pulumi.com/registry/)
-      - [Dagger](https://dagger.io/)
-
+      
     - Universe 3 - DataScience
       - 
     
