@@ -8,7 +8,7 @@
     - **Universe 0 - Git** - [Need more Collaboration across Git products like this?](https://next.github.com/)
       - https://docs.gitlab.com/ee/integration/ 
     
-    - [Universe 1 - Developer Portals & Integrations](https://backstage.io/plugins)
+    - [Universe 1 - Developer Portals](https://backstage.io/plugins)
       - [Backstage](https://github.com/backstage/community) 
     
     - [Universe 2 - Pulumi](https://www.pulumi.com/registry/)
