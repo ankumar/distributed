@@ -9,7 +9,7 @@
       - https://docs.gitlab.com/ee/integration/ 
     
     - [Universe 1 - Developer Portals & Integrations](https://backstage.io/plugins)
-      - [Backstage](https://github.com/backstage/community), 
+      - [Backstage](https://github.com/backstage/community) 
     
     - [Universe 2 - Pulumi](https://www.pulumi.com/registry/)
       - (https://dagger.io/)
