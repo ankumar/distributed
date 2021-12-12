@@ -12,7 +12,7 @@
     - [Universe 3 - Backstage](https://backstage.io/plugins)
     - ...
 
-2. Communities - Software development moving to "Public" spaces 
+2. Communities - Software development moving to "Public" spaces like GitHub etc. 
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
 
