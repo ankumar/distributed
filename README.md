@@ -74,13 +74,10 @@
 **APIs:**
 * https://docs.dagger.io/reference/README :heart:
 
-**Stateless & Stateful Apps:**
-1. Synchronous, Serving System 
-2. Asynchronous, Event Driven System
-
-1. Prime Days - https://aws.amazon.com/blogs/aws/prime-day-2021-two-chart-topping-days/
-
 **Large-scale distributed infrastructure:**
+
+Apps:
+1. Amazon.com Prime Days - https://aws.amazon.com/blogs/aws/prime-day-2021-two-chart-topping-days/
  
 1. **Authenticate & Authorize**
 
