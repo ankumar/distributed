@@ -7,7 +7,6 @@
   - Universe 1 - Code - Semantic Understanding is improving, [Search Like?](https://www.google.com/search/howsearchworks/)
     - [SourceGraph](https://sourcegraph.com/)
     - [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
-    (https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
     
   - Universe 2 - "GitHub" - [Need more Collaboration across Git products like this?](https://next.github.com/)
     - [GitLab](https://docs.gitlab.com/ee/integration/)
@@ -21,7 +20,7 @@
     
 2. Communities - Software development moving to "Public" spaces like GitHub etc. 
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
-  - Internal Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters]
+  - Internal Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
