@@ -34,7 +34,7 @@ Universe 3 - Data Science:
   - App: https://www.prisma.io/dataplatform | https://temporal.io/ |
   
   - IDE:
-    - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ |
+    - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
     - More of the Web - https://github.dev/ | https://vscode.dev/ 
  
   - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
