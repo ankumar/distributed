@@ -6,8 +6,6 @@
 
 Universe 1 - Code:
 - [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
-  - [SourceGraph](https://sourcegraph.com/)
-  - [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
     
 Universe 2 - "GitHub":
 - [Need more Collaboration across Git products like this?](https://next.github.com/)
@@ -33,6 +31,7 @@ Universe 3 - Data Science:
 - SaaS:
   - Explore - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
   - Build - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | ...
+  - Code Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
 
 - **Dev** - Design / Modeling / Tools / Frameworks
   
