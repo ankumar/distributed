@@ -4,7 +4,7 @@
 **Meta Partitions:**
 1. UX - Cataloging Sprawl: 
 
-  - Universe 1 - Code, Semantic Understanding is improving, [Search Like?](https://www.google.com/search/howsearchworks/)
+  - Universe 1 - Code, Semantic Understanding is improving
     - [SourceGraph](https://sourcegraph.com/)
     - [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
     
