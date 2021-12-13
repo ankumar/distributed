@@ -5,7 +5,7 @@
 1. UX - Cataloging Sprawl: 
 
   - Universe 1 - Portals
-    - [Backstage](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) 
+    - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
     
   - Universe 2 - Git - [Need more Collaboration across Git products like this?](https://next.github.com/)
     - [GitLab](https://docs.gitlab.com/ee/integration/)
