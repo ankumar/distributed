@@ -9,7 +9,7 @@ Universe 1 - Code:
   - [SourceGraph](https://sourcegraph.com/)
   - [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
     
-Universe 2 - Git:
+Universe 2 - "GitHub":
 - [Need more Collaboration across Git products like this?](https://next.github.com/)
   - [GitLab](https://docs.gitlab.com/ee/integration/)
   - [Dagger](https://dagger.io/)
