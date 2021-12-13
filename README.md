@@ -67,7 +67,7 @@
 ### 2.Infrastructure - Utility Compute, Storage & Network
 
 **CUE:**
-> CUE is an open source language with a rich set of APIs and tooling for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, … you name it. -- https://cuelang.org/
+> CUE is an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, … you name it. -- https://cuelang.org/
 * https://docs.dagger.io/1005/what-is-cue/
 
 **APIs:**
