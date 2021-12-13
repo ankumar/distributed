@@ -5,8 +5,8 @@
 1. UX - Cataloging Sprawl: 
 
 Universe 1 - Code:
-Search - [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
-Generators - </>
+- Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
+- Generators: </>
 
 Universe 2 - "GitHub":
 - [Need more Collaboration across Git products like this?](https://next.github.com/)
