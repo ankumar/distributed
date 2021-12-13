@@ -12,7 +12,6 @@
   - Universe 2 - "GitHub" - [Need more Collaboration across Git products like this?](https://next.github.com/)
     - [GitLab](https://docs.gitlab.com/ee/integration/)
     - [Dagger](https://dagger.io/)
-    - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters]
     
   - Universe 3 - Cloud
     - [Pulumi](https://www.pulumi.com/registry/)
@@ -22,6 +21,7 @@
     
 2. Communities - Software development moving to "Public" spaces like GitHub etc. 
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
+  - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters]
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
