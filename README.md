@@ -5,7 +5,7 @@
 1. UX - Cataloging Sprawl: 
 
 Universe 1 - Code:
-- Semantic Understanding is improving
+- [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
   - [SourceGraph](https://sourcegraph.com/)
   - [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/)
     
