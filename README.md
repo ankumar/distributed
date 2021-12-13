@@ -21,7 +21,7 @@
     
 2. Communities - Software development moving to "Public" spaces like GitHub etc. 
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
-  - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters]
+  - Internal Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters]
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
 
 ### 1.Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
