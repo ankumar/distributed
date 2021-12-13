@@ -23,7 +23,7 @@ Universe 3 - Data Science:
 - Databricks (We ❤️  to simplify things. ) on Azure: [Blog](https://databricks.com/blog/2021/11/18/now-generally-available-introducing-databricks-partner-connect-to-discover-and-connect-popular-data-and-ai-tools-to-the-lakehouse.html) / [Docs](https://docs.microsoft.com/en-us/azure/databricks/integrations/partners#partner-connect)
 > "Connect" - But, the data ecosystem is vast, and no one vendor can accomplish everything. Every enterprise has a multitude of tools and data sources that need to be connected, secured, and governed to allow every user within an organization to find, use, and share data-driven insights. Stitching everything together has historically been a burden on the customer and partners, making it very complicated and expensive to execute at any scale. Partner Connect helps you connect your Azure Databricks workspace to selected partner solutions within minutes. If you do not have an account with a partner, Partner Connect helps you create a trial account with them. 
     
-2. Communities - Software development moving to "Public" spaces like GitHub etc. 
+2. Communities - Software development moving to "Public" spaces like CNCF, GitHub etc. 
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
   - Internal Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
