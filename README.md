@@ -14,7 +14,7 @@ Universe 2 - "GitHub":
   - [GitLab](https://docs.gitlab.com/ee/integration/)
   - [Dagger](https://dagger.io/)
     
-Universe 3 - Cloud
+Universe 3 - Cloud:
 - [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
   - [Pulumi](https://www.pulumi.com/registry/)
   
