@@ -2,7 +2,7 @@
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are **partitioned**. -- https://twitter.com/adrianco/status/1466463836349763585
 
 **Meta Partitions:**
-1. UX - Cataloging Sprawl: 
+1. Cataloging Sprawl: 
 
 Universe 1 - Code:
 - Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
