@@ -7,8 +7,7 @@
 Universe 1 - Developer Experience:
 - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
 - Code Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
-- Need more Collaboration across Git products like this?
-  - https://next.github.com/
+- Need more Collaboration across Git products like this? https://next.github.com/
   - [Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
   - Code Generators: Declarative AND/OR AI Models 
 - More User research? 
