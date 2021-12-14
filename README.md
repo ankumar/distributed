@@ -4,7 +4,7 @@
 
 **Meta Partitions:**
 
-Universe 1 - Developer Experience, More User research? Data Science: [We Downloaded 10,000,000 Jupyter Notebooks From Github - This Is What We Learned](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
+Universe 1 - Developer Experience, More User research? For Data Science by JetBrains: [We Downloaded 10,000,000 Jupyter Notebooks From Github - This Is What We Learned](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
 - Need more Collaboration across Git products like this? https://next.github.com/
 - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
 - Code Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
