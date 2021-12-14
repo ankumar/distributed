@@ -8,7 +8,7 @@ Universe 1 - **Developer Experience**, More User research? For Data Science by J
 
 Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
-Universe 3 - **Communities**, Software development moving to "Public" spaces like Linux Foundation, GitHub etc. 
+Universe 3 - **Communities**, Software development "Public" spaces like Linux Foundation, GitHub etc. 
   
 ## Cataloging Sprawl 
  
