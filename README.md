@@ -23,7 +23,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
   - IDE:
     - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
     - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
-    - Code Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
+    - Code & Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
       - [Semantic Understanding](https://github.blog/2021-12-09-introducing-stack-graphs/)
     - More of the Web - https://github.dev/ | https://vscode.dev/ 
     - Studios: 
