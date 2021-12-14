@@ -4,11 +4,11 @@
 
 **Meta Partitions:**
 
-Universe 1 - Developer Experience, More User research? For Data Science by JetBrains: [We Downloaded 10,000,000 Jupyter Notebooks From Github - This Is What We Learned](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
+Universe 1 - **Developer Experience**, More User research? For Data Science by JetBrains: [We Downloaded 10,000,000 Jupyter Notebooks From Github - This Is What We Learned](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
 
-Universe 2 - Cloud Infrastructure: [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
+Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
-Universe 3 - Communities, Software development moving to "Public" spaces like Linux Foundation, GitHub etc. 
+Universe 3 - **Communities**, Software development moving to "Public" spaces like Linux Foundation, GitHub etc. 
   
 ## Cataloging Sprawl 
  
@@ -23,8 +23,10 @@ Universe 3 - Communities, Software development moving to "Public" spaces like Li
   - Build: https://www.prisma.io/dataplatform | https://temporal.io/ |
   
   - IDE:
+    - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
     - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
     - Code Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
+      - [Semantic Understanding](https://github.blog/2021-12-09-introducing-stack-graphs/)
     - More of the Web - https://github.dev/ | https://vscode.dev/ 
  
   - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
@@ -34,8 +36,8 @@ Universe 3 - Communities, Software development moving to "Public" spaces like Li
     - AsyncAPI: https://www.asyncapi.com/
     - FW's: https://linkedin.github.io/rest.li/
   
-  - Code Generators - https://copilot.github.com/ | https://www.hofstadter.io/ | 
-  
+  - Code Generators - Declarative AND/OR AI Models, https://copilot.github.com/ | https://www.hofstadter.io/ | 
+    
   - Auth:
      - Authentication, WHO YOU ARE
        - [Ory](https://medium.com/@oryteam?p=c27702055a31)
@@ -50,6 +52,8 @@ Universe 3 - Communities, Software development moving to "Public" spaces like Li
     
 - Communities:
   - GitHub - https://octoverse.github.com/
+    - Need more Collaboration across Git products like this? https://next.github.com/
+    - Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
   - Platforms for Open Source Creators - https://www.oss.fund/
