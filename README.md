@@ -6,7 +6,7 @@
 
 Universe 1 - Git:
 - Code Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
-- Generators: </> 
+- Code Generators: Declarative, AI Models
 - [Need more Collaboration across Git products like this?](https://next.github.com/)
 - [Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
     
