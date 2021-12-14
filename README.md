@@ -14,9 +14,7 @@ Universe 1 - Developer Experience, More User research? For Data Science by JetBr
 Universe 2 - Cloud Infrastructure: [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
 Universe 3 - Communities, Software development moving to "Public" spaces like Linux Foundation, GitHub etc. 
-  - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
-  - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
-
+  
 ## Cataloging Sprawl 
  
 ### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
@@ -57,6 +55,8 @@ Universe 3 - Communities, Software development moving to "Public" spaces like Li
     
 - Communities:
   - GitHub - https://octoverse.github.com/
+  - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
+  - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
   - Platforms for Open Source Creators - https://www.oss.fund/
 
 ### 2. Cloud Infrastructure - Utility Compute, Storage & Network
