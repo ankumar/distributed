@@ -49,6 +49,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
     - "Flows":
        - [MLflow](https://mlflow.org/), [Kubeflow](https://www.kubeflow.org/), [Metaflow](https://metaflow.org/), [Roboflow](https://roboflow.com/), [](), [](), [](), [](), [](), [](), []()
        - [dbt](https://www.getdbt.com/), [Dagster](https://dagster.io/), [Airflow](https://www.astronomer.io/), [](), [](), [](), [](), [](), [](), [](), []()
+       - [Great Expectations](https://greatexpectations.io/)
     - Databricks (We ❤️  to simplify things. ) on Azure: [Blog](https://databricks.com/blog/2021/11/18/now-generally-available-introducing-databricks-partner-connect-to-discover-and-connect-popular-data-and-ai-tools-to-the-lakehouse.html) / [Docs](https://docs.microsoft.com/en-us/azure/databricks/integrations/partners#partner-connect)
 > "Connect" - But, the data ecosystem is vast, and no one vendor can accomplish everything. Every enterprise has a multitude of tools and data sources that need to be connected, secured, and governed to allow every user within an organization to find, use, and share data-driven insights. Stitching everything together has historically been a burden on the customer and partners, making it very complicated and expensive to execute at any scale. Partner Connect helps you connect your Azure Databricks workspace to selected partner solutions within minutes. If you do not have an account with a partner, Partner Connect helps you create a trial account with them. 
     
