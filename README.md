@@ -14,7 +14,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
  
 ### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
-- **Composition**
+- **Composition:**
 
   - SaaS:
     - Explore - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
