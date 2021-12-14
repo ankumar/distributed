@@ -5,11 +5,12 @@
 **Meta Partitions:**
 
 Universe 1 - Developer Experience:
+- Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
 - Code Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
-- Code Generators: Declarative, AI Models
 - Need more Collaboration across Git products like this?
   - https://next.github.com/
-  - [Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)  
+  - [Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
+  - Code Generators: Declarative AND/OR AI Models 
 - More User research? 
   - Data Science: [We Downloaded 10,000,000 Jupyter Notebooks From Github - This Is What We Learned](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
     
@@ -18,7 +19,6 @@ Universe 2 - Cloud Infrastructure:
     
 Universe 3 - Communities, Software development moving to "Public" spaces like Linux Foundation, GitHub etc. 
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
-  - Internal Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
 
 ## Cataloging Sprawl 
