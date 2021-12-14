@@ -1,4 +1,24 @@
 ## Exploring Integrated Developer Experience for Devs, SREs & Cloud Infrastructure
+
+1. Cataloging Sprawl: 
+
+Universe 1 - Git:
+- Code Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
+- Code Generators: Declarative, AI Models
+- [Need more Collaboration across Git products like this?](https://next.github.com/)
+- [Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
+    
+Universe 2 - Cloud:
+- [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
+  
+Universe 3 - Data Science:
+- [We Downloaded 10,000,000 Jupyter Notebooks From Github - This Is What We Learned](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)    
+    
+2. Communities - Software development moving to "Public" spaces like Linux Foundation, GitHub etc. 
+  - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
+  - Internal Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
+  - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
+
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are **partitioned**. -- https://twitter.com/adrianco/status/1466463836349763585
 
 **Meta Partitions:**
