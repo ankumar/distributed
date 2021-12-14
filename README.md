@@ -27,14 +27,14 @@ Universe 3 - Communities, Software development moving to "Public" spaces like Li
 - SaaS:
   - Explore - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
   - Build - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | ...
-  - Code Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
-
+  
 - **Dev** - Design / Modeling / Tools / Frameworks
   
   - App: https://www.prisma.io/dataplatform | https://temporal.io/ |
   
   - IDE:
     - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
+    - Code Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
     - More of the Web - https://github.dev/ | https://vscode.dev/ 
  
   - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
