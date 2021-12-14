@@ -3,7 +3,6 @@
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are **partitioned**. -- https://twitter.com/adrianco/status/1466463836349763585
 
 **Meta Partitions:**
-1. Cataloging Sprawl: 
 
 Universe 1 - Developer Experience:
 - Code Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
@@ -14,14 +13,16 @@ Universe 1 - Developer Experience:
 - More User research? 
   - Data Science: [We Downloaded 10,000,000 Jupyter Notebooks From Github - This Is What We Learned](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
     
-Universe 2 - Infrastructure: 
+Universe 2 - Cloud Infrastructure: 
 - [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
-2. Communities - Software development moving to "Public" spaces like Linux Foundation, GitHub etc. 
+Universe 3 - Communities, Software development moving to "Public" spaces like Linux Foundation, GitHub etc. 
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
   - Internal Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
 
+## Cataloging Sprawl 
+ 
 ### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
 
 - SaaS:
@@ -62,7 +63,7 @@ Universe 2 - Infrastructure:
   - GitHub - https://octoverse.github.com/
   - Platforms for Open Source Creators - https://www.oss.fund/
 
-### 2. Infrastructure - Utility Compute, Storage & Network
+### 2. Cloud Infrastructure - Utility Compute, Storage & Network
 
 **CUE:**
 > CUE is an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, … you name it. -- https://cuelang.org/
