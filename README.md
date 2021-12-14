@@ -4,15 +4,13 @@
 **Meta Partitions:**
 1. Cataloging Sprawl: 
 
-Universe 1 - Code:
-- Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
-- Generators: </>
-
-Universe 2 - "GitHub":
+Universe 1 - Git:
+- Code Search: [Semantic Understanding is improving](https://github.blog/2021-12-09-introducing-stack-graphs/)
+- Generators: </> 
 - [Need more Collaboration across Git products like this?](https://next.github.com/)
 - [Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
     
-Universe 3 - Cloud:
+Universe 2 - Cloud:
 - [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
   
 Universe 3 - Data Science:
