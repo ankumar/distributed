@@ -18,7 +18,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
   - Explore - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
   - Build - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | ...
   
-- **Dev** - Design / Modeling / Tools / Frameworks
+- **Dev** - Design / Modeling / Tools / Primitives / Frameworks
   
   - Build: https://www.prisma.io/dataplatform | https://temporal.io/ |
   
