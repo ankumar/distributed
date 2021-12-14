@@ -12,7 +12,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
   
 ## Cataloging Sprawl 
  
-### 1. Products on Products 
+### 1. Product on Products 
 
 - **Composition:**
 
