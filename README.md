@@ -12,7 +12,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
   
 ## Cataloging Sprawl 
  
-### 1. Products - UI/UX Web, Mobile, Data, APIs, Desktop, Console, Voice, AR/VR, ...
+### 1. Products on Products 
 
 - **Composition:**
 
