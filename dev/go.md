@@ -1,4 +1,4 @@
-## Environment Setup
+## Server
 
 - Generate & data models - https://github.com/hofstadter-io/hofmod-server
 
