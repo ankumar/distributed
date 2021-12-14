@@ -24,7 +24,7 @@
 - kg - https://github.com/sourcegraph/kg
 
 ## Learning Resources:
-- https://go.dev/ 
+- 
 - https://middlemost.com/object-lifecycle/
 - https://research.swtch.com/
 - https://github.com/caddyserver/certmagic
