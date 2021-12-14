@@ -30,7 +30,7 @@ Universe 3 - Communities, Software development moving to "Public" spaces like Li
   
 - **Dev** - Design / Modeling / Tools / Frameworks
   
-  - App: https://www.prisma.io/dataplatform | https://temporal.io/ |
+  - Build: https://www.prisma.io/dataplatform | https://temporal.io/ |
   
   - IDE:
     - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
