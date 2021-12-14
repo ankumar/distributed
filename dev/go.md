@@ -23,8 +23,7 @@
 - NAML - https://github.com/kris-nova/naml 
 - kg - https://github.com/sourcegraph/kg
 
-## Learning Resources:
-- 
+## Modules:
 - https://middlemost.com/object-lifecycle/
 - https://research.swtch.com/
 - https://github.com/caddyserver/certmagic
