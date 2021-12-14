@@ -53,7 +53,7 @@ Universe 3 - **Communities**, Software development Public spaces like Linux Foun
 - Communities:
   - GitHub - https://octoverse.github.com/
     - Need more Collaboration across Git products like this? https://next.github.com/
-    - Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
+    - [Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
   - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
   - Platforms for Open Source Creators - https://www.oss.fund/
