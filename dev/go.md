@@ -29,6 +29,7 @@
 ## Packages & Modules:
 
 https://pkg.go.dev/
+https://go.dev/ref/mod
 - https://middlemost.com/object-lifecycle/
 - https://research.swtch.com/
 - https://github.com/caddyserver/certmagic
