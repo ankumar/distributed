@@ -4,7 +4,8 @@ Spring - https://start.spring.io/
 
 #### Go
 
-- https://go.dev/doc/tutorial/getting-started
+Home - https://go.dev/
+  - https://go.dev/doc/tutorial/getting-started
 
 ### Python
 
