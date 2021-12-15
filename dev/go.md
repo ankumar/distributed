@@ -8,12 +8,13 @@
 - OpenAPI - https://github.com/ent/contrib
 - GraphQL - https://github.com/sourcegraph/graphql-go
 
-## JSON/YAML
+## CUE/JSON/YAML
 - Convert - https://github.com/sourcegraph/yj / https://github.com/sourcegraph/jy
 - gigabytes of JSON per second - https://github.com/minio/simdjson-go  
   - https://github.com/lemire (more things here...)
 - https://github.com/go-yaml/yaml
 - https://github.com/sourcegraph/yaml
+- https://github.com/json-iterator/go
 
 ## Databases
 - Prisma - https://github.com/prisma/prisma-client-go
@@ -31,7 +32,6 @@
 - https://github.com/tailscale/mkctr
 - https://github.com/genjidb/genji
 - https://github.com/asdine/storm
-- https://github.com/json-iterator/go
 ---
 - https://github.com/distributed
 - https://github.com/gopherdata/gophernotes
