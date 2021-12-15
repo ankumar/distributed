@@ -16,9 +16,11 @@
 - https://github.com/sourcegraph/yaml
 - https://github.com/json-iterator/go
 
-## Databases
-- Prisma - https://github.com/prisma/prisma-client-go
-- Entity FW - https://entgo.io/
+## Databases 
+
+[Accessing relational databases](https://go.dev/doc/database/)
+  - Prisma - https://github.com/prisma/prisma-client-go
+  - Entity FW - https://entgo.io/
 
 ## Kubernetes:
 - NAML - https://github.com/kris-nova/naml 
