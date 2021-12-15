@@ -4,6 +4,7 @@
 
 ## APIs
 
+https://go.dev/doc/tutorial/web-service-gin
 - Buf - https://docs.buf.build/tour/introduction 
 - OpenAPI - https://github.com/ent/contrib
 - GraphQL - https://github.com/sourcegraph/graphql-go
