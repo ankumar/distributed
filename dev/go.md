@@ -31,6 +31,7 @@
 - https://github.com/tailscale/mkctr
 - https://github.com/genjidb/genji
 - https://github.com/asdine/storm
+- https://github.com/json-iterator/go
 ---
 - https://github.com/distributed
 - https://github.com/gopherdata/gophernotes
