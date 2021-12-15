@@ -22,11 +22,15 @@
 - Prisma - https://github.com/prisma/prisma-client-go
 - Entity FW - https://entgo.io/
 
-## Kubernetes:
+## Kubernetes
 - NAML - https://github.com/kris-nova/naml 
 - kg - https://github.com/sourcegraph/kg
 
-## Packages & Modules:
+## Debugging
+
+https://github.com/golang/vscode-go/blob/master/docs/debugging.md
+
+## Packages & Modules
 
 https://pkg.go.dev/
 https://go.dev/ref/mod
