@@ -26,7 +26,9 @@
 - NAML - https://github.com/kris-nova/naml 
 - kg - https://github.com/sourcegraph/kg
 
-## Modules:
+## Packages & Modules:
+
+https://pkg.go.dev/
 - https://middlemost.com/object-lifecycle/
 - https://research.swtch.com/
 - https://github.com/caddyserver/certmagic
