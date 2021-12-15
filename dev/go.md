@@ -19,8 +19,8 @@
 ## Databases 
 
 [Accessing relational databases](https://go.dev/doc/database/)
-  - Prisma - https://github.com/prisma/prisma-client-go
-  - Entity FW - https://entgo.io/
+- Prisma - https://github.com/prisma/prisma-client-go
+- Entity FW - https://entgo.io/
 
 ## Kubernetes:
 - NAML - https://github.com/kris-nova/naml 
