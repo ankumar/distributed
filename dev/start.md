@@ -4,6 +4,10 @@ Spring - https://start.spring.io/
 
 ### Python
 
+Home - https://www.python.org/
+  - https://www.python.org/about/gettingstarted/
+
+--
 - Install Python
 - Install virtualenv
   - On macOS you can install pyenv with Homebrew: brew install pyenv pyenv-virtualenv   
