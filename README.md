@@ -18,7 +18,9 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
 
   - SaaS:
     - Explore - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
-    - Build - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | https://www.prisma.io/dataplatform | https://temporal.io/ | ...
+    - Build: 
+      - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | 
+      - https://www.prisma.io/dataplatform | https://temporal.io/ | ...
   
   - IDE:
     - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
