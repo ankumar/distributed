@@ -49,8 +49,8 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
     - Security: 
 
 - Data:
-  - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
   - APIs - [Foundation - Models](https://openai.com/api/)
+  - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
   - "Flows":
     - [MLflow](https://mlflow.org/), [Kubeflow](https://www.kubeflow.org/), [Metaflow](https://metaflow.org/), [Roboflow](https://roboflow.com/), [](), [](), [](), [](), [](), [](), []()
     - [dbt](https://www.getdbt.com/), [Dagster](https://dagster.io/), [Airflow](https://www.astronomer.io/), [](), [](), [](), [](), [](), [](), [](), []()
