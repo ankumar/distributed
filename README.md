@@ -33,26 +33,26 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
       - [Semantic Understanding](https://github.blog/2021-12-09-introducing-stack-graphs/)
     - More of the Web - https://github.dev/ | https://vscode.dev/ 
  
-  - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
-    - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
-    - GraphQL -  https://stargate.io/ | https://sandbox.amplifyapp.com/getting-started | https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
-    - Protocol Buffers - https://buf.build/
-    - AsyncAPI: https://www.asyncapi.com/
-    - FW's: https://linkedin.github.io/rest.li/
+    - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
+      - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
+      - GraphQL -  https://stargate.io/ | https://sandbox.amplifyapp.com/getting-started | https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
+      - Protocol Buffers - https://buf.build/
+      - AsyncAPI: https://www.asyncapi.com/
+      - FW's: https://linkedin.github.io/rest.li/
   
-  - Code Generators - Declarative AND/OR AI Models, https://copilot.github.com/ | https://www.hofstadter.io/ | 
+    - Code Generators - Declarative AND/OR AI Models, https://copilot.github.com/ | https://www.hofstadter.io/ | 
     
-  - Auth:
-     - Authentication, WHO YOU ARE
-     - Authorization, WHAT YOU ARE ALLOWED TO DO 
-       - [Ory](https://medium.com/@oryteam?p=c27702055a31) | [authzed](https://play.authzed.com/) | [Oso](https://www.osohq.com/what-is-oso)
+    - Auth:
+      - Authentication, WHO YOU ARE
+      - Authorization, WHAT YOU ARE ALLOWED TO DO 
+        - [Ory](https://medium.com/@oryteam?p=c27702055a31) | [authzed](https://play.authzed.com/) | [Oso](https://www.osohq.com/what-is-oso)
 
-  - Data:
-    - "Flows":
-       - [MLflow](https://mlflow.org/), [Kubeflow](https://www.kubeflow.org/), [Metaflow](https://metaflow.org/), [Roboflow](https://roboflow.com/), [](), [](), [](), [](), [](), [](), []()
-       - [dbt](https://www.getdbt.com/), [Dagster](https://dagster.io/), [Airflow](https://www.astronomer.io/), [](), [](), [](), [](), [](), [](), [](), []()
-       - [Great Expectations](https://greatexpectations.io/)
-    - Databricks (We ❤️  to simplify things. ) on Azure: [Blog](https://databricks.com/blog/2021/11/18/now-generally-available-introducing-databricks-partner-connect-to-discover-and-connect-popular-data-and-ai-tools-to-the-lakehouse.html) / [Docs](https://docs.microsoft.com/en-us/azure/databricks/integrations/partners#partner-connect)
+    - Data:
+      - "Flows":
+        - [MLflow](https://mlflow.org/), [Kubeflow](https://www.kubeflow.org/), [Metaflow](https://metaflow.org/), [Roboflow](https://roboflow.com/), [](), [](), [](), [](), [](), [](), []()
+        - [dbt](https://www.getdbt.com/), [Dagster](https://dagster.io/), [Airflow](https://www.astronomer.io/), [](), [](), [](), [](), [](), [](), [](), []()
+        - [Great Expectations](https://greatexpectations.io/)
+      - Databricks (We ❤️  to simplify things. ) on Azure: [Blog](https://databricks.com/blog/2021/11/18/now-generally-available-introducing-databricks-partner-connect-to-discover-and-connect-popular-data-and-ai-tools-to-the-lakehouse.html) / [Docs](https://docs.microsoft.com/en-us/azure/databricks/integrations/partners#partner-connect)
 > "Connect" - But, the data ecosystem is vast, and no one vendor can accomplish everything. Every enterprise has a multitude of tools and data sources that need to be connected, secured, and governed to allow every user within an organization to find, use, and share data-driven insights. Stitching everything together has historically been a burden on the customer and partners, making it very complicated and expensive to execute at any scale. Partner Connect helps you connect your Azure Databricks workspace to selected partner solutions within minutes. If you do not have an account with a partner, Partner Connect helps you create a trial account with them. 
     
 - Communities:
