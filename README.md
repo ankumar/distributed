@@ -14,14 +14,14 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
  
 ### 1. Product on Products 
 
-- Composition:
+- (RE) BUILD DEV:
   - SaaS:
     - Explore - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
     - BUILD: 
       - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | 
       - https://www.prisma.io/dataplatform | https://temporal.io/ | ...
   
-  - (RE) BUILD DEV:
+  - Composition-oriented:
     - More of the Web - https://github.dev/ | https://vscode.dev/ 
     
     - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
