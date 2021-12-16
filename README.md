@@ -21,7 +21,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
       - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | 
       - https://www.prisma.io/dataplatform | https://temporal.io/ | ...
   
-  - IDE:
+  - BUILD:
     - Studios: 
       - https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
       - https://dynobase.dev/
