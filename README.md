@@ -71,8 +71,9 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
 * https://cuetorials.com/
 
 **APIs:**
-* [Dagger](https://dagger.io/)
-  * https://docs.dagger.io/reference/README :heart: 
-* [Pulumi](https://www.pulumi.com/registry/) 
+
+- [Pulumi](https://www.pulumi.com/registry/) 
+- [Dagger](https://dagger.io/)
+  - https://docs.dagger.io/reference/README :heart: 
 
 
