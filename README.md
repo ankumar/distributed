@@ -22,16 +22,18 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
       - https://www.prisma.io/dataplatform | https://temporal.io/ | ...
   
   - BUILD:
+    - More of the Web - https://github.dev/ | https://vscode.dev/ 
+    
+    - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
+    
+    - Code & Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
+      - [Semantic Understanding](https://github.blog/2021-12-09-introducing-stack-graphs/)
+    
     - Studios: 
       - https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
       - https://dynobase.dev/
       - https://cloud.prisma.io/. Mac/Linux/Windows - https://www.prisma.io/studio
-    - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
-    - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
-    - Code & Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
-      - [Semantic Understanding](https://github.blog/2021-12-09-introducing-stack-graphs/)
-    - More of the Web - https://github.dev/ | https://vscode.dev/ 
- 
+    
     - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
       - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
       - GraphQL -  https://stargate.io/ | https://sandbox.amplifyapp.com/getting-started | https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
@@ -45,6 +47,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
       - [Ory](https://medium.com/@oryteam?p=c27702055a31) | [authzed](https://play.authzed.com/) | [Oso](https://www.osohq.com/what-is-oso)
 
 - Data:
+  - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
   - "Flows":
     - [MLflow](https://mlflow.org/), [Kubeflow](https://www.kubeflow.org/), [Metaflow](https://metaflow.org/), [Roboflow](https://roboflow.com/), [](), [](), [](), [](), [](), [](), []()
     - [dbt](https://www.getdbt.com/), [Dagster](https://dagster.io/), [Airflow](https://www.astronomer.io/), [](), [](), [](), [](), [](), [](), [](), []()
