@@ -27,6 +27,7 @@ https://go.dev/doc/tutorial/web-service-gin
 ## Kubernetes
 - ko - https://github.com/google/ko
 - NAML - https://github.com/kris-nova/naml 
+- Skycfg - https://github.com/stripe/skycfg
 - kg - https://github.com/sourcegraph/kg
 
 ## Debugging
