@@ -9,7 +9,7 @@ https://go.dev/doc/tutorial/web-service-gin
 - OpenAPI - https://github.com/ent/contrib
 - GraphQL - https://github.com/sourcegraph/graphql-go
 
-## CUE/JSON/YAML/TOML/Starlark
+## JSON/YAML/TOML/Starlark/CUE/...
 - Convert - https://github.com/sourcegraph/yj / https://github.com/sourcegraph/jy
 - gigabytes of JSON per second - https://github.com/minio/simdjson-go  
   - https://github.com/lemire (more things here...)
