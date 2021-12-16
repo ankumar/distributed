@@ -14,7 +14,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
  
 ### 1. Product on Products 
 
-- (RE) BUILD DEV:
+- (RE) BUILD IDE:
   - SaaS:
     - Foundation - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
       - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | 
