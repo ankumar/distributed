@@ -16,8 +16,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
 
 - (RE) BUILD DEV:
   - SaaS:
-    - Explore - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
-    - BUILD: 
+    - Foundation - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
       - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | 
       - https://www.prisma.io/dataplatform | https://temporal.io/ | ...
   
@@ -50,6 +49,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
 
 - Data:
   - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
+  - APIs - [Foundation - Models](https://openai.com/api/)
   - "Flows":
     - [MLflow](https://mlflow.org/), [Kubeflow](https://www.kubeflow.org/), [Metaflow](https://metaflow.org/), [Roboflow](https://roboflow.com/), [](), [](), [](), [](), [](), [](), []()
     - [dbt](https://www.getdbt.com/), [Dagster](https://dagster.io/), [Airflow](https://www.astronomer.io/), [](), [](), [](), [](), [](), [](), [](), []()
