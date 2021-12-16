@@ -22,7 +22,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
   - DESIGN & TOOLS:
     - More of the Web, Editor? - https://github.dev/ | https://vscode.dev/ 
     
-    - Internal Company Portals - [Plugins 1](https://backstage.io/plugins) / [Plugins 2](https://github.com/RoadieHQ/roadie-backstage-plugins) [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
+    - Internal Company Portals - [Plugins 1](https://backstage.io/plugins) / [Plugins 2](https://github.com/RoadieHQ/roadie-backstage-plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
     
     - Code & Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
       - [Semantic Understanding](https://github.blog/2021-12-09-introducing-stack-graphs/)
