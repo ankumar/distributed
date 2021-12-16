@@ -22,7 +22,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
       - https://www.prisma.io/dataplatform | https://temporal.io/ | ...
   
   - TOOLS:
-    - More of the Web - https://github.dev/ | https://vscode.dev/ 
+    - Just an Editor?, More of the Web - https://github.dev/ | https://vscode.dev/ 
     
     - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
     
