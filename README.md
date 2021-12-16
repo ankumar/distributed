@@ -71,7 +71,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
 * https://docs.dagger.io/1005/what-is-cue/
 * https://cuetorials.com/
 
-### 2. Communities - 
+### 3. Communities - 
 
 - GitHub - https://octoverse.github.com/
   - Need more Collaboration across Git products like this? https://next.github.com/
