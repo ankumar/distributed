@@ -42,10 +42,8 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
   
     - Code Generators - Declarative AND/OR AI Models, https://copilot.github.com/ | https://www.hofstadter.io/ | 
     
-    - Auth:
-      - Authentication, WHO YOU ARE
-      - Authorization, WHAT YOU ARE ALLOWED TO DO 
-        - [Ory](https://medium.com/@oryteam?p=c27702055a31) | [authzed](https://play.authzed.com/) | [Oso](https://www.osohq.com/what-is-oso)
+    - Auth: Authentication, WHO YOU ARE, Authorization, WHAT YOU ARE ALLOWED TO DO 
+      - [Ory](https://medium.com/@oryteam?p=c27702055a31) | [authzed](https://play.authzed.com/) | [Oso](https://www.osohq.com/what-is-oso)
 
     - Data:
       - "Flows":
