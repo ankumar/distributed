@@ -23,15 +23,15 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
       - https://www.prisma.io/dataplatform | https://temporal.io/ | ...
   
   - IDE:
+    - Studios: 
+      - https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
+      - https://dynobase.dev/
+      - https://cloud.prisma.io/. Mac/Linux/Windows - https://www.prisma.io/studio
     - Internal Company Portals - [Plugins](https://backstage.io/plugins) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
     - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
     - Code & Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
       - [Semantic Understanding](https://github.blog/2021-12-09-introducing-stack-graphs/)
     - More of the Web - https://github.dev/ | https://vscode.dev/ 
-    - Studios: 
-      - https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
-      - https://dynobase.dev/
-      - https://cloud.prisma.io/. Mac/Linux/Windows - https://www.prisma.io/studio
  
   - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
     - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
