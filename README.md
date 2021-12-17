@@ -74,14 +74,14 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
 
 - [It Takes a Community;The Open-source Challenge](https://queue.acm.org/detail.cfm?id=3501361)
   - [Velocity reports for 2021](https://github.com/cncf/velocity)
+  - Platforms for Open Source Creators - https://www.oss.fund/
 
 - GitHub - https://octoverse.github.com/
   - Need more Collaboration across Git products like this? https://next.github.com/
   - [Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
 
 - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
+  - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
 
-- Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
 
-- Platforms for Open Source Creators - https://www.oss.fund/
 
