@@ -72,7 +72,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
 
 ### 3. Communities - 
 
-[It Takes a Community;The Open-source Challenge](https://queue.acm.org/detail.cfm?id=3501361)
+- [It Takes a Community;The Open-source Challenge](https://queue.acm.org/detail.cfm?id=3501361)
   - [Velocity reports for 2021](https://github.com/cncf/velocity)
 
 - GitHub - https://octoverse.github.com/
