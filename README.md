@@ -20,7 +20,7 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
       - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | 
       
   - DESIGN & TOOLS:
-    - More of the Web, Editor? - https://github.dev/ | https://vscode.dev/ 
+    - More of the Web - https://github.dev/ | https://vscode.dev/ 
     
     - Internal Company Portals - [Plugins 1](https://backstage.io/plugins) / [Plugins 2](https://roadie.io/backstage/plugins/) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
     
