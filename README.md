@@ -8,7 +8,7 @@ Universe 1 - **Developer Experience**, https://octoverse.github.com/ ; Data Scie
  
 Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
-Universe 3 - **Communities**, Software development in Public spaces like Linux Foundation, GitHub, TechBlogs etc. [It Takes a Community;The Open-source Challenge](https://queue.acm.org/detail.cfm?id=3501361), [Velocity reports for 2021](https://github.com/cncf/velocity)
+Universe 3 - **Communities**, Software development in Public spaces like Linux Foundation, GitHub, TechBlogs etc. 
   
 ## Cataloging Sprawl 
  
@@ -71,6 +71,9 @@ Universe 3 - **Communities**, Software development in Public spaces like Linux F
 * https://cuetorials.com/
 
 ### 3. Communities - 
+
+[It Takes a Community;The Open-source Challenge](https://queue.acm.org/detail.cfm?id=3501361)
+  - [Velocity reports for 2021](https://github.com/cncf/velocity)
 
 - GitHub - https://octoverse.github.com/
   - Need more Collaboration across Git products like this? https://next.github.com/
