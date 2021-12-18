@@ -8,7 +8,7 @@ Universe 1 - **Developer Experience**, https://octoverse.github.com/ ; Data Scie
  
 Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
-Universe 3 - **Communities**, Software development in Public spaces Linux Foundation, GitHub, TechBlogs etc. 
+Universe 3 - **Communities**, Software development in Public spaces Linux Foundation, GitHub, TechBlogs, [F(Meta)](https://opensource.fb.com/)[A](https://aws.amazon.com/opensource/?blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc)[A](https://opensource.apple.com/)[N](https://netflix.github.io/)[G](https://opensource.google/)
   
 ## Cataloging Sprawl 
  
