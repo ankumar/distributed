@@ -49,7 +49,8 @@ Universe 3 - **Communities**, Software development in Public spaces Open Source,
   - Security: 
 
 - Data:
-  - APIs - [Foundation - Models](https://openai.com/api/)
+  - SaaS:
+    - Foundation - [Models](https://openai.com/api/)
   - Notebooks - https://jupyter.org/ | https://colab.research.google.com/ | https://datalore.jetbrains.com/
   - Registry & Metadata:
     - [DataHub](https://datahubproject.io/), [OpenLineage](https://openlineage.io/), [](), [](), [](), [](), [](), 
