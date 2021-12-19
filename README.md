@@ -75,6 +75,7 @@ Universe 3 - **Communities**, Software development in Public spaces Linux Founda
 - [It Takes a Community;The Open-source Challenge](https://queue.acm.org/detail.cfm?id=3501361)
   - [Velocity reports for 2021](https://github.com/cncf/velocity)
   - Platforms for Open Source Creators - https://www.oss.fund/
+  - [F(Meta)](https://opensource.fb.com/) [A](https://aws.amazon.com/opensource/?blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc) [A](https://opensource.apple.com/) [N](https://netflix.github.io/) [G](https://opensource.google/)
 
 - GitHub - https://octoverse.github.com/
   - Need more Collaboration across Git products like this? https://next.github.com/
@@ -82,7 +83,7 @@ Universe 3 - **Communities**, Software development in Public spaces Linux Founda
 
 - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
   - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
-  - [F(Meta)](https://opensource.fb.com/) [A](https://aws.amazon.com/opensource/?blog-posts-content-open-source.sort-by=item.additionalFields.createdDate&blog-posts-content-open-source.sort-order=desc) [A](https://opensource.apple.com/) [N](https://netflix.github.io/) [G](https://opensource.google/)
+ 
 
 
 
