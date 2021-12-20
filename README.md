@@ -75,6 +75,8 @@ Universe 3 - **Communities**, Software development in Public spaces Open Source,
 
 ### 3. Communities - 
 
+- [Learn In Public](https://www.swyx.io/learn-in-public/)
+
 - [It Takes a Community;The Open-source Challenge](https://queue.acm.org/detail.cfm?id=3501361)
   - [Velocity reports for 2021](https://github.com/cncf/velocity)
   - Platforms for Open Source Creators - https://www.oss.fund/
