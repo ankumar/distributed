@@ -73,7 +73,7 @@ Universe 3 - **Communities**, Programming & software development in Public space
 * https://docs.dagger.io/1005/what-is-cue/
 * https://cuetorials.com/
 
-### 3. Communities - 
+### 3. Communities
 
 - [Learn In Public](https://www.swyx.io/learn-in-public/)
 
