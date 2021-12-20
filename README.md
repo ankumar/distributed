@@ -17,7 +17,7 @@ Universe 3 - **Communities**, Software development in Public spaces Open Source,
 - (RE) BUILD IDE:
   - SaaS: 
     - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
-    - Foundation - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | 
+    - Foundation - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | Headless Ecommerce (...) | 
       
   - DESIGN & TOOLS:
     - More of the Web - https://github.dev/ | https://vscode.dev/ 
