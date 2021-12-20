@@ -2,7 +2,7 @@
 
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are **partitioned**. -- https://twitter.com/adrianco/status/1466463836349763585
 
-Partitions: **"Entropy always increases"**, How about **High Consistency?**
+Navigating Partitions as **"Entropy always increases"**, How about **High Consistency?**
 
 Universe 1 - **Developer Experience**, https://octoverse.github.com/ ; Data Science by JetBrains: [We Downloaded 10,000,000 Jupyter Notebooks From Github - This Is What We Learned](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/). 
  
