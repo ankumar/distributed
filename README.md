@@ -8,13 +8,13 @@ Universe 1 - **Developer Experience**, https://octoverse.github.com/ ; Data Scie
  
 Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
-Universe 3 - **Communities**, [Open Software Design](https://notes.ceilfors.com/Open_software_design.html), Programming & software development in Public spaces **Learning in Public** Open Source, GitHub, Enterprise & SaaS, TechBlogs,  
+Universe 3 - **Communities**, [Open Software Design](https://notes.ceilfors.com/Open_software_design.html), Programming & software development in Public spaces **Learning in Public** Open Source, GitHub, TechBlogs,  
   
 ## Open Software Design - Cataloging Sprawl 
  
 ### 1. Product on Product(s) - 
 
-- SaaS: 
+- Enterprise & SaaS: 
   - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
   - Foundation - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | Headless commerce - (https://commercetools.com/, https://deity.io/, https://www.medusajs.com/) | 
       
