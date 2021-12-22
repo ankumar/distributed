@@ -12,7 +12,7 @@ Universe 3 - **Communities**, Programming & software development in Public space
   
 ## Cataloging Sprawl 
  
-### 1. Product on Products 
+### 1. Product on Product(s) 
 
 - (RE) BUILD IDE:
   - SaaS: 
