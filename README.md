@@ -12,41 +12,40 @@ Universe 3 - **Communities**, Programming & software development in Public space
   
 ## Cataloging Sprawl 
  
-### 1. Product on Product(s) 
+### 1. Product on Product(s) - Open Software Design:
 
-- Open Software Design:
-  - SaaS: 
-    - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
-    - Foundation - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | Headless commerce - (https://commercetools.com/, https://deity.io/, https://www.medusajs.com/) | 
+- SaaS: 
+  - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
+  - Foundation - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | Headless commerce - (https://commercetools.com/, https://deity.io/, https://www.medusajs.com/) | 
       
-  - DESIGN & TOOLS:
-    - More of the Web - https://github.dev/ | https://vscode.dev/ 
+- DESIGN & TOOLS:
+  - More of the Web - https://github.dev/ | https://vscode.dev/ 
     
-    - Internal Company Portals - [Backstage Wrapped 2021](https://backstage.io/blog/2021/12/20/backstage-wrapped-2021) / [Plugins 1](https://backstage.io/plugins) / [Plugins 2](https://roadie.io/backstage/plugins/) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
+- Internal Company Portals - [Backstage Wrapped 2021](https://backstage.io/blog/2021/12/20/backstage-wrapped-2021) / [Plugins 1](https://backstage.io/plugins) / [Plugins 2](https://roadie.io/backstage/plugins/) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
     
     - Code & Search - [SourceGraph](https://sourcegraph.com/) | [GitHub Code Search](https://github.blog/2021-12-08-improving-github-code-search/) | [GitLab](https://docs.gitlab.com/ee/integration/)
       - [Semantic Understanding](https://github.blog/2021-12-09-introducing-stack-graphs/)
     
-    - Apps - https://www.prisma.io/dataplatform | https://temporal.io/ | ...
+- Apps - https://www.prisma.io/dataplatform | https://temporal.io/ | ...
     
-    - Studios: 
-      - https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
-      - https://dynobase.dev/
-      - https://cloud.prisma.io/. Mac/Linux/Windows - https://www.prisma.io/studio
+- Studios: 
+  - https://www.sensedeep.com/blog/posts/stories/dynamodb-studio.html
+  - https://dynobase.dev/
+  - https://cloud.prisma.io/. Mac/Linux/Windows - https://www.prisma.io/studio
     
-    - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
-      - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
-      - GraphQL -  https://stargate.io/ | https://sandbox.amplifyapp.com/getting-started | https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
-      - Protocol Buffers - https://buf.build/
-      - AsyncAPI: https://www.asyncapi.com/
-      - FW's: https://linkedin.github.io/rest.li/
+- APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
+  - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
+  - GraphQL -  https://stargate.io/ | https://sandbox.amplifyapp.com/getting-started | https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
+  - Protocol Buffers - https://buf.build/
+  - AsyncAPI: https://www.asyncapi.com/
+  - FW's: https://linkedin.github.io/rest.li/
   
-    - Code Generators - Declarative AND/OR AI Models, https://copilot.github.com/ | https://www.hofstadter.io/ | 
+ - Code Generators - Declarative AND/OR AI Models, https://copilot.github.com/ | https://www.hofstadter.io/ | 
     
-    - Auth: Authentication: WHO YOU ARE; Authorization: WHAT YOU ARE ALLOWED TO DO 
-      - [Ory](https://medium.com/@oryteam?p=c27702055a31) | [authzed](https://play.authzed.com/) | [Oso](https://www.osohq.com/what-is-oso)
+ - Auth: Authentication: WHO YOU ARE; Authorization: WHAT YOU ARE ALLOWED TO DO 
+   - [Ory](https://medium.com/@oryteam?p=c27702055a31) | [authzed](https://play.authzed.com/) | [Oso](https://www.osohq.com/what-is-oso)
 
-  - Security: 
+- Security: 
 
 - Data:
   - SaaS:
