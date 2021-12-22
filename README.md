@@ -18,7 +18,7 @@ Universe 3 - **Communities**, Programming & software development in Public space
   - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
   - Foundation - [Stripe](https://stripe.com/docs) | [Plaid](https://plaid.com/docs/) | [Shopify](https://shopify.dev/api) | [Twilio](https://www.twilio.com/docs) + [Segment](https://segment.com/docs/) | Headless commerce - (https://commercetools.com/, https://deity.io/, https://www.medusajs.com/) | 
       
-- DESIGN & TOOLS:
+- Tools:
   - More of the Web - https://github.dev/ | https://vscode.dev/ 
     
 - Internal Company Portals - [Backstage Wrapped 2021](https://backstage.io/blog/2021/12/20/backstage-wrapped-2021) / [Plugins 1](https://backstage.io/plugins) / [Plugins 2](https://roadie.io/backstage/plugins/) / [Community](https://github.com/backstage/community) / [Adopters](https://github.com/backstage/backstage/blob/master/ADOPTERS.md)
