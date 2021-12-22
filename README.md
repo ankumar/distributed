@@ -10,9 +10,9 @@ Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.
     
 Universe 3 - **Communities**, Programming & software development in Public spaces **Learning in Public**, Open Source, GitHub, Enterprise & SaaS, TechBlogs 
   
-## Cataloging Sprawl 
+## Open Software Design - Cataloging Sprawl 
  
-### 1. Product on Product(s) - Open Software Design
+### 1. Product on Product(s) - 
 
 - SaaS: 
   - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
