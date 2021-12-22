@@ -12,7 +12,7 @@ Universe 3 - **Communities**, Programming & software development in Public space
   
 ## Cataloging Sprawl 
  
-### 1. Product on Product(s) - Open Software Design:
+### 1. Product on Product(s) - Open Software Design
 
 - SaaS: 
   - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
