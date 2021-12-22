@@ -8,7 +8,7 @@ Universe 1 - **Developer Experience**, https://octoverse.github.com/ ; Data Scie
  
 Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
-Universe 3 - **Communities**, Programming & software development in Public spaces **Learning in Public**, Open Source, GitHub, Enterprise & SaaS, TechBlogs 
+Universe 3 - **Communities**, [Open Software Design](https://notes.ceilfors.com/Open_software_design.html), Programming & software development in Public spaces **Learning in Public**, Open Source, GitHub, Enterprise & SaaS, TechBlogs,  
   
 ## Open Software Design - Cataloging Sprawl 
  
