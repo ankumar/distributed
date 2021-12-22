@@ -87,7 +87,7 @@ Universe 3 - **Communities**, Programming & software development in Public space
   - [Tracking the top 100 software repos on GitHub](https://ght.creativemaybeno.dev/)
 
 - Landscapes - [Evolving Products & Infrastructure](https://landscapes.dev/)
-  - Verticals - [FinTech](https://developer.gs.com/discover/home) | ... | ... | ...
+  - Verticals - [FinTech](https://developer.gs.com/discover/home) | [Smartdata](smartdatamodels.org) | ... | ...
  
 
 
