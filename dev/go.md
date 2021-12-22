@@ -17,6 +17,7 @@ https://go.dev/doc/tutorial/web-service-gin
 - https://github.com/sourcegraph/yaml
 - https://github.com/json-iterator/go
 - https://github.com/stripe/skycfg
+- https://github.com/cruise-automation/isopod
 
 ## Databases 
 
