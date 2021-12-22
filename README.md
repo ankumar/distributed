@@ -39,6 +39,7 @@ Universe 3 - **Communities**, [Open Software Design](https://notes.ceilfors.com/
   - Protocol Buffers - https://buf.build/
   - AsyncAPI: https://www.asyncapi.com/
   - FW's: https://linkedin.github.io/rest.li/
+  - Schema: https://www.schemastore.org/json/
   
  - Code Generators - Declarative AND/OR AI Models, https://copilot.github.com/ | https://www.hofstadter.io/ | 
     
