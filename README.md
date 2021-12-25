@@ -10,8 +10,12 @@ Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.
     
 Universe 3 - **Communities**, [Open Software Design](https://notes.ceilfors.com/Open_software_design.html), Programming & software development in Public spaces **Learning in Public** Open Source, GitHub, TechBlogs,  
   
-1. https://retool.com/
-2.    
+1. Retool:  
+- Universe 1 - https://retool.com/templates/
+- Universe 2 - https://retool.com/integrations/
+- Universe 3 - https://retool.com/developer-network
+
+2. </> :
   
 ## Open Software Design - Cataloging Sprawl 
  
