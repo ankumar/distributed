@@ -48,6 +48,7 @@ https://go.dev/ref/mod
 - https://github.com/genjidb/genji
 - https://github.com/asdine/storm
 - https://github.com/wader/fq
+- https://github.com/cruise-automation/oxy
 ---
 - https://github.com/distributed
 - https://github.com/gopherdata/gophernotes
