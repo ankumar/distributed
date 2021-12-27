@@ -1,7 +1,5 @@
 ## Exploring Integrated Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
 
-Partitions As **"Entropy always increases"**
-
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are **partitioned**. -- https://twitter.com/adrianco/status/1466463836349763585
 
 Universe 1 - **Developer Experience**, https://octoverse.github.com/ ; Data Science by JetBrains: [We Downloaded 10,000,000 Jupyter Notebooks From Github - This Is What We Learned](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/). 
@@ -9,10 +7,10 @@ Universe 1 - **Developer Experience**, https://octoverse.github.com/ ; Data Scie
 Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
 Universe 3 - **Communities**, [Open Software Design](https://notes.ceilfors.com/Open_software_design.html), Programming & software development in Public spaces **Learning in Public** Open Source, GitHub, TechBlogs,  
-  
-## Open Software Design - Cataloging Sprawl 
+
+## Cataloging Sprawl 
  
-### 1. Product on Product(s) - 
+### 1. Product on Product(s) 
 
 - Enterprise & SaaS: 
   - [World of APIs](https://www.postman.com/explore) | [State of the APIs](https://www.postman.com/state-of-api/)
