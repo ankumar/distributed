@@ -32,14 +32,8 @@ Universe 3 - **Communities**, [Open Software Design](https://notes.ceilfors.com/
   - https://cloud.prisma.io/. Mac/Linux/Windows - https://www.prisma.io/studio
     
 - APIs - Open source API specifications OpenAPI, AsyncAPI, and JSON Schema; Linter, Breaking change detector, generator ...
-  - OpenAPI -  https://swagger.io/ | https://stoplight.io/studio/
-  - GraphQL -  https://stargate.io/ | https://sandbox.amplifyapp.com/getting-started | https://www.apollographql.com/studio/develop/ | https://graphql.stepzen.com/ | https://www.prisma.io/docs/concepts/overview/prisma-in-your-stack/graphql | https://hopper.wundergraph.com/ |
-  - Protocol Buffers - https://buf.build/
-  - AsyncAPI: https://www.asyncapi.com/
-  - FW's: https://linkedin.github.io/rest.li/
-  - Schema: https://www.schemastore.org/json/ | https://buf.build/explore
   
- - Code Generators - Declarative AND/OR AI Models, https://copilot.github.com/ | https://www.hofstadter.io/ | 
+- Code Generators - Declarative AND/OR AI Models, https://copilot.github.com/ | https://www.hofstadter.io/ | 
     
  - Auth: Authentication: WHO YOU ARE; Authorization: WHAT YOU ARE ALLOWED TO DO 
    - [Ory](https://medium.com/@oryteam?p=c27702055a31) | [authzed](https://play.authzed.com/) | [Oso](https://www.osohq.com/what-is-oso)
