@@ -6,7 +6,7 @@ Universe 1 - **Developer Experience**, [Git](https://octoverse.github.com/) ; [D
  
 Universe 2 - **Cloud Infrastructure**, [Infrastructure as Software](https://www.reddit.com/r/kubernetes/comments/nz9fxd/infrastructure_as_software_vs_infrastructure_as/)
     
-Universe 3 - **Communities**, [Open Software Design](https://notes.ceilfors.com/Open_software_design.html), Programming & software development in Public spaces **Learning in Public** Open Source, GitHub, TechBlogs,  
+Universe 3 - **Communities**, [Open software design](https://notes.ceilfors.com/Open_software_design.html), Programming & software development in Public spaces **Learning in Public** Open Source, GitHub, TechBlogs,  
 
 ## Cataloging Sprawl 
  
