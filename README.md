@@ -1,4 +1,6 @@
-## Exploring Integrated (Personal Dev <-> CI/CD <-> Cloud) Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
+## Exploring Integrated Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
+
+What is Integrated? **Personal Dev <-> CI/CD <-> Cloud**
 
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are **partitioned**. -- https://twitter.com/adrianco/status/1466463836349763585
 
