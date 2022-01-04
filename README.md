@@ -1,4 +1,4 @@
-## Exploring Integrated Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
+## Exploring Integrated (Personal Dev <-> CI/CD <-> Cloud) Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
 
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are **partitioned**. -- https://twitter.com/adrianco/status/1466463836349763585
 
