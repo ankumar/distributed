@@ -50,6 +50,7 @@ https://go.dev/ref/mod
 - https://github.com/wader/fq
 - https://github.com/cruise-automation/oxy
 ---
+https://opensource.googleblog.com/2020/08/new-case-studies-about-googles-use-of-go.html
 - https://github.com/distributed
 - https://github.com/gopherdata/gophernotes
 - https://twitter.com/SaiyamPathak/status/1464293664801259521
