@@ -1,6 +1,7 @@
 datasource db {
   provider = "mysql"
-  url      = env("CHAYA_DB_URL")
+  url      = env("DATABASE_URL")
+  referentialIntegrity = "prisma"
 }
 
 model app_documents {
