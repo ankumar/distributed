@@ -61,9 +61,8 @@ Universe 3, **Communities** - [Open software design](https://notes.ceilfors.com/
 **APIs:**
 
 - [Pulumi](https://www.pulumi.com/registry/) 
-- [Dagger](https://dagger.io/)
-  - https://docs.dagger.io/reference/README :heart: 
-
+- [A portable devkit](https://dagger.io/)
+ 
 **CUE:**
 > CUE is an open source language, with a rich set of APIs and tooling, for defining, generating, and validating all kinds of data: configuration, APIs, database schemas, code, … you name it. -- https://cuelang.org/
 * https://docs.dagger.io/1005/what-is-cue/
