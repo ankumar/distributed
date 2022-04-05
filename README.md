@@ -1,6 +1,6 @@
 ## Exploring Integrated Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
 
-Super-amplifier, Network Interconnections for multi-cloud:
+Network Interconnections for multi-cloud:
 
 - Apple, Stripe, Meta, Twitter <-> [AWS](https://aws.amazon.com/solutions/case-studies), [GCP](https://cloud.google.com/customers) 
 - Walmart <-> [Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), GCP
