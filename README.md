@@ -73,11 +73,7 @@ Universe 3, **Communities** - [Open software design](https://notes.ceilfors.com/
 
 **Data:**
 
-DATADOG: https://docs.datadoghq.com/getting_started/site/
-
-US1 -> AWS
-US3 -> Azure
-US5 ->GCP
+DATADOG: https://docs.datadoghq.com/getting_started/site/ (US1 -> AWS, US3 -> Azure, US5 ->GCP)
 
 **APIs:**
 
