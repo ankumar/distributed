@@ -1,3 +1,5 @@
+> realizing Twitter’s hybrid, multi-cloud strategy in GCP and AWS and help us launch new and exciting products and services at high velocity. https://jobs.smartrecruiters.com/Twitter2/743999816984597-engineering-director-cloud-acceleration
+
 ## Exploring Integrated Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
 
 What is Integrated? shortening muscle memory **Personal Dev, CI/CD, SRE <-> Cloud**
