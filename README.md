@@ -1,3 +1,17 @@
+Super-amplifier, Network Interconnections:
+
+- Apple, Stripe, Meta <-> [AWS](https://aws.amazon.com/solutions/case-studies) 
+- Walmart <-> [Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), [GCP](https://cloud.google.com/customers)
+- Shopify <-> GCP
+- Twitter <-> AWS, GCP
+     
+
+     .............
+     
+
+- "Edge", IoT <-> [AWS, Azure, GCP, ...]
+- SpaceX/STARLINK <-> GCP
+
 ## Exploring Integrated Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
 
 > realizing Twitter’s hybrid, multi-cloud strategy in GCP and AWS and help us launch new and exciting products and services at high velocity. https://jobs.smartrecruiters.com/Twitter2/743999816984597-engineering-director-cloud-acceleration
