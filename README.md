@@ -71,9 +71,11 @@ Universe 3, **Communities** - [Open software design](https://notes.ceilfors.com/
     
 ### 2. Cloud Infrastructure - Utility Compute, Storage, Cloud warehouses & Network
 
-**Data:**
+**Distributed Data:**
 
 DATADOG: https://docs.datadoghq.com/getting_started/site/ (US1 -> AWS, US3 -> Azure, US5 ->GCP)
+
+BigQuery: https://cloud.google.com/blog/products/data-analytics/unifying-data-lakes-and-data-warehouses-across-clouds-with-biglake
 
 **APIs:**
 
