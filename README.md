@@ -1,6 +1,6 @@
 ## Exploring Integrated Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
 
-Network Interconnections for distributed Compute & Storage (AKA multi-cloud):
+Distributed: Network Interconnections across Compute & Storage (AKA multi-cloud):
 
 - Apple, Stripe, Meta, Twitter <-> [AWS](https://aws.amazon.com/solutions/case-studies), [GCP](https://cloud.google.com/customers) 
 - Walmart <-> [Azure](https://azure.microsoft.com/en-us/resources/customer-stories/), GCP
