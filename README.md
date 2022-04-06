@@ -13,7 +13,7 @@ Distributed: Network Interconnections across Compute & Storage (AKA multi-cloud)
 
 > realizing Twitter’s hybrid, multi-cloud strategy in GCP and AWS and help us launch new and exciting products and services at high velocity. https://jobs.smartrecruiters.com/Twitter2/743999816984597-engineering-director-cloud-acceleration
 
-What is Integrated? shortening muscle memory **Personal Dev, CI/CD, SRE <-> Cloud**
+Integrated: shortening muscle memory **Personal Dev, CI/CD, SRE <-> Cloud**
 
 > The CAP theorem of service APIs. You get functionality earlier, and eventual consistency later, because development teams are **partitioned**. -- https://twitter.com/adrianco/status/1466463836349763585
 
