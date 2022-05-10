@@ -9,7 +9,7 @@ Distributed: Network Interconnections across Tripod AWS, Azure & GCP Compute & S
      .............
      
 - "Edge", IoT <-> [AWS, Azure, GCP, ...]
-- SpaceX/STARLINK <-> GCP
+- [SpaceX/STARLINK <-> GCP](https://blog.container-solutions.com/the-edge-of-space)
 
 > realizing Twitter’s hybrid, multi-cloud strategy in GCP and AWS and help us launch new and exciting products and services at high velocity. https://jobs.smartrecruiters.com/Twitter2/743999816984597-engineering-director-cloud-acceleration
 
