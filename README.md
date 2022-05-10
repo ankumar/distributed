@@ -1,5 +1,3 @@
-## Exploring Integrated Developer Experience (IDE) for Devs, SREs & Cloud Infrastructure
-
 Distributed: Network Interconnections across Tripod AWS, Azure & GCP Compute & Storage (AKA multi-cloud):
 
 - Apple, Stripe, Meta, Twitter <-> [AWS](https://aws.amazon.com/solutions/case-studies), [GCP](https://cloud.google.com/customers) 
